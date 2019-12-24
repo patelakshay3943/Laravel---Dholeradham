@@ -1,0 +1,413 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/dholeradham/tmp/awstats/ssl/awstats.dholeradham.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2680                
+POS_VISITOR 10602               
+POS_DAY 11297               
+POS_DOMAIN 3366                
+POS_LOGIN 3636                
+POS_ROBOT 3791                
+POS_WORMS 4026                
+POS_EMAILSENDER 4157                
+POS_EMAILRECEIVER 4300                
+POS_SESSION 11821               
+POS_SIDER 11968               
+POS_FILETYPES 4435                
+POS_DOWNLOADS 4624                
+POS_OS 4672                
+POS_BROWSER 4818                
+POS_SCREENSIZE 5065                
+POS_UNKNOWNREFERER 5139                
+POS_UNKNOWNREFERERBROWSER 5603                
+POS_ORIGIN 5719                
+POS_SEREFERRALS 5853                
+POS_PAGEREFS 5997                
+POS_SEARCHWORDS 6145                
+POS_KEYWORDS 6297                
+POS_MISC 2344                
+POS_ERRORS 6356                
+POS_CLUSTER 3492                
+POS_SIDER_404 6469                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001001427 9 1389 9887332168588
+FirstTime 0
+LastTime 20190930223911
+LastUpdate 20191001060920 9 0 8 0 0
+TotalVisits 38                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 5362 0 13 282728
+1 2 27 1529306 2 11 197565
+2 1 1 2681 2 7 121476
+3 0 0 0 8 12 113366
+4 1 1 2681 3 9 146573
+5 2 2 2681 5 11 160722
+6 3 3 2681 2 2 16360
+7 4 29 1534668 5 13 185434
+8 3 3 5362 7 13 124974
+9 0 0 0 3 11 214730
+10 1 1 8180 4 14 209983
+11 2 27 1529306 3 12 227019
+12 0 0 0 3 3 28891
+13 0 0 0 3 9 134616
+14 1 1 0 53 67 272595
+15 3 3 0 11 17 380163
+16 1 1 0 6 10 154313
+17 1 1 2681 3 5 50629
+18 1 1 2681 55 64 141829
+19 1 1 2681 2 11 209604
+20 1 26 1526625 3 6 50820
+21 1 1 2681 57 60 32720
+22 3 3 13542 53 54 1557317
+23 7 37 1906454 0 4 104079
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 26 126 6141353
+us 8 8 29765
+gb 4 34 1903773
+ru 3 3 5362
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+bot[\s_+:,\.\;\/\\-] 16 130880 20190925063410 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 8043 20190928081420 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 24 327411 0 0
+Unknown 1 0 0 0
+html 38 86066 0 0
+jpg 66 6705570 0 0
+woff2 2 126596 0 0
+js 15 647825 0 0
+css 25 186785 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+Unknown 18 18
+linuxandroid 33 3
+linuxubuntu 1 1
+linux 109 9
+win7 9 9
+macosx5 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+Unknown 5 5
+chrome68.0.3440.106 1 1
+firefox62.0 1 1
+firefox50.0 104 4
+chrome58.0.3029.110 1 1
+chrome40.0.2214.85 9 9
+chrome74.0.3694.0 33 3
+chrome76.0.3809.100 3 3
+mozilla 13 13
+chrome3.0.198 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/2.0 20190926003021
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190930223911
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190926002653
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190924011413
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/2.0 20190926003021
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 138
+From1 0 0
+From2 0 0
+From3 0 0
+From4 3 33
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 380 4975584
+301 31 3916
+409 1 83
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 114
+/magento/rss/catalog/notifystock 1 -
+/kcfinder-2.51/upload/files/up.php.jd 3 -
+/tpl/plugins/upload9.1.0/server/php/files/up.php 3 -
+/store/downloader/index.php 1 -
+/vehiculo_photos/server/php/files/up.php 3 -
+/scripts/jquery/kcfinder/upload.php 3 -
+/fckeditor/editor/filemanager/connectors/php/connector.php 3 -
+/demo/rss/catalog/review 1 -
+/store/index.php/admin/ 1 -
+/magento/downloader/index.php 1 -
+/shop/rss/catalog/review 1 -
+/shop/downloader/index.php 1 -
+/old/index.php/admin/ 1 -
+/errors/503.php 1 -
+/old/errors/503.php 1 -
+/staging/errors/503.php 1 -
+/ckeditor/kcfinder/upload/files/up.php.jd 3 -
+/ficheiros/conteudos/spy.txt 3 -
+/old/rss/catalog/review 1 -
+/kcfinder-2.51/upload.php 3 -
+/store/rss/order/new 1 -
+/images/block/up.php 3 -
+/assets/admin/ckeditor/kcfinder/upload.php 3 -
+/assets/plugins/ckeditor/kcfinder/upload/files/up.php.jd 3 -
+/shop/rss/catalog/notifystock 1 -
+/tpl/plugins/upload9.1.0/server/php/up.php 3 -
+/vb5/ 1 -
+/server/php/files/up.php 3 -
+/admin/images/cal_date_over.gif 3 -
+/admin/ckeditor/kcfinder/upload.php 3 -
+/js/ckeditor/kcfinder/upload/files/up.php.jd 3 -
+/AndroidFileUpload/fileUpload.php 3 -
+/dev/rss/order/new 1 -
+/test/rss/catalog/notifystock 1 -
+/store/rss/catalog/notifystock 1 -
+/demo/index.php/admin/ 1 -
+/shop/index.php/admin/ 1 -
+/magento/errors/503.php 1 -
+/shop/errors/503.php 1 -
+/vb/ 1 -
+/test/rss/order/new 1 -
+/userfiles/file/spy.txt 3 -
+/assets/admin/ckeditor/kcfinder/upload/files/up.php.jd 3 -
+/demo/errors/503.php 1 -
+/public/upload_nhieuanh/server/php/files/up.php 3 -
+/application/configs/application.ini 3 -
+/assets/js/mylibs/kcfinder/upload/files/up.php.jd 3 -
+/staging/rss/catalog/notifystock 1 -
+/robots.txt 70 -
+/assets/js/mylibs/kcfinder/upload.php 3 -
+/dev/rss/catalog/notifystock 1 -
+/ckeditor/kcfinder/upload.php 3 -
+/assets/ckeditor/kcfinder/upload.php 3 -
+/forum/index.php 1 -
+/staging/rss/order/new 1 -
+/js/ckeditor/kcfinder/upload.php 3 -
+/demo/downloader/index.php 1 -
+/themes/dashboard/assets/plugins/jquery-file-upload/server/php/ 3 -
+/test/rss/catalog/review 1 -
+/vbulletin/ 1 -
+/staging/index.php/admin/ 1 -
+/dev/rss/catalog/review 1 -
+/admin/login.php 3 -
+/dev/index.php/admin/ 1 -
+/staging/rss/catalog/review 1 -
+/dev/errors/503.php 1 -
+/AndroidFileUpload/uploads/up.php 3 -
+/admin/ckeditor/kcfinder/upload/files/up.php.jd 3 -
+/libraries/jscripts/kcfinder/upload.php 3 -
+/test/downloader/index.php 1 -
+/old/rss/catalog/notifystock 1 -
+/libraries/jscripts/kcfinder/upload/files/up.php.jd 3 -
+/language/en-GB/en-GB.xml 3 -
+/store/rss/catalog/review 1 -
+/.well-known/assetlinks.json 9 -
+/ads.txt 60 -
+/forums/ 1 -
+/assets/global/plugins/jquery-file-upload/server/php/files/up.php 3 -
+/apple-app-site-association 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 3 -
+/public/upload_nhieuanh/server/php/_index.php 3 -
+/js/manage 12 -
+/store/errors/503.php 1 -
+/rss/order/new 1 -
+/staging/downloader/index.php 1 -
+/adminside/server/php/ 3 -
+/server/php/ 3 -
+/.env 1 -
+/rss/catalog/notifystock 1 -
+/forum/ 1 -
+/rss/catalog/review 1 -
+/magento/index.php/admin/ 1 -
+/js/RoSZuZGffICHu 1 https://dholeradham.com/js/RoSZuZGffICHu
+/plugins/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/test/index.php/admin/ 1 -
+/vehiculo_photos/server/php/ 3 -
+/demo/rss/catalog/notifystock 1 -
+/web/image/Images/up.php 3 -
+/assets/ckeditor/kcfinder/upload/files/up.php.jd 3 -
+/.well-known/apple-app-site-association 1 -
+/vbulletin5/ 1 -
+/assets/plugins/ckeditor/kcfinder/upload.php 3 -
+/old/downloader/index.php 1 -
+/tpl/plugins/upload9.1.0/server/php/ 9 -
+/test/errors/503.php 1 -
+/shop/rss/order/new 1 -
+/ 21 -
+/scripts/jquery/kcfinder/upload/files/up.php.jd 3 -
+/old/rss/order/new 1 -
+/magento/rss/order/new 1 -
+/demo/rss/order/new 1 -
+/dev/downloader/index.php 1 -
+/administrator/manifests/files/joomla.xml 2 -
+/web/image/upload.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+138.246.253.5 9 9 0 20190930154147
+137.226.113.28 6 6 16086 20190930223911
+137.226.113.26 5 5 13405 20190916185420
+51.158.113.230 4 34 1903773 20190909233258
+137.226.113.34 4 104 6106500 20190928014032
+137.226.113.27 2 2 5362 20190926002653
+213.159.213.137 2 2 5362 20190929172534
+54.185.147.43 1 1 2681 20190908084810
+54.212.191.182 1 1 2681 20190907071510
+54.191.173.111 1 1 2681 20190919053216
+34.208.97.197 1 1 2681 20190918080033
+54.244.83.150 1 1 2681 20190926003021
+185.229.190.138 1 1 0 20190904151527
+167.99.186.86 1 1 0 20190925232909
+173.244.36.43 1 1 8180 20190920223023
+35.153.102.177 1 1 8180 20190930105313
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20190903 2 2 5362 2
+20190904 2 2 2681 2
+20190905 1 1 0 1
+20190906 2 27 1526625 2
+20190907 2 2 2681 2
+20190908 1 1 2681 1
+20190909 4 34 1903773 1
+20190910 2 2 5362 2
+20190913 1 1 0 1
+20190914 1 1 0 1
+20190916 3 28 1531987 3
+20190917 2 2 2681 2
+20190918 1 1 2681 1
+20190919 1 1 2681 1
+20190920 2 2 10861 2
+20190923 3 28 1531987 3
+20190924 1 1 2681 1
+20190925 1 1 0 1
+20190926 3 3 5362 3
+20190927 1 1 0 1
+20190928 1 26 1526625 1
+20190929 1 1 2681 1
+20190930 3 3 10861 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 38
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 37 77886 36 36
+/fonts/Georgia-Bold.woff2 1 60700 0 0
+/js/manage 1 0 1 1
+/fonts/Georgia.woff2 1 65896 0 0
+/index.php/admin/ 1 8180 1 1
+END_SIDER

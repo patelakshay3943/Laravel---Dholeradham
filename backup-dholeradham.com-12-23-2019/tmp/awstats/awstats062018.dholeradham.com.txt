@@ -1,0 +1,2625 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/dholeradham/tmp/awstats/awstats.dholeradham.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2698                
+POS_VISITOR 47358               
+POS_DAY 74281               
+POS_DOMAIN 3719                
+POS_LOGIN 4551                
+POS_ROBOT 4706                
+POS_WORMS 5360                
+POS_EMAILSENDER 5491                
+POS_EMAILRECEIVER 5634                
+POS_SESSION 75237               
+POS_SIDER 75451               
+POS_FILETYPES 5769                
+POS_DOWNLOADS 6152                
+POS_OS 6321                
+POS_BROWSER 6636                
+POS_SCREENSIZE 9154                
+POS_UNKNOWNREFERER 9228                
+POS_UNKNOWNREFERERBROWSER 10457               
+POS_ORIGIN 10808               
+POS_SEREFERRALS 10959               
+POS_PAGEREFS 11138               
+POS_SEARCHWORDS 12057               
+POS_KEYWORDS 13138               
+POS_MISC 2362                
+POS_ERRORS 14132               
+POS_CLUSTER 4407                
+POS_SIDER_404 14301               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701003422 961 236099 19345003571543
+FirstTime 20180601002359
+LastTime 20180630231950
+LastUpdate 20180701064911 961 0 960 0 0
+TotalVisits 1342                
+TotalUnique 602                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 679                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 38 493 47886391 32 189 18243162
+1 117 1080 131626996 67 372 29236600
+2 134 1146 115348208 52 323 29141216
+3 222 2435 266182276 39 297 34966010
+4 476 4086 476721303 42 443 12632192
+5 265 2124 226619674 41 430 16944032
+6 223 1818 350041939 441 2345 269168127
+7 156 1725 110266308 39 277 23977422
+8 163 1862 314231563 29 1155 134158886
+9 160 1598 318824422 804 1199 30338478
+10 286 2801 303760567 45 392 11693343
+11 336 2360 237723112 113 374 18453068
+12 262 2354 238291994 74 357 21377938
+13 220 1924 237805489 33 296 15247558
+14 176 1605 163068121 40 425 45196539
+15 138 1048 140765912 425 689 24909115
+16 124 1307 119698725 34 235 14613345
+17 129 1570 266469675 22 340 48253554
+18 116 1355 312444896 57 228 16250771
+19 64 437 35129833 45 249 33948084
+20 21 108 27146587 41 173 18443518
+21 61 709 148675063 38 188 11314878
+22 97 797 57024830 31 275 22108947
+23 42 514 25809647 61 197 23350646
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 39
+us 2023 18578 2281426919
+in 1037 11597 1660127889
+id 257 606 31512512
+ca 215 2365 292206266
+gb 147 1619 157634937
+tz 62 525 42987331
+ae 57 516 44707520
+de 36 277 31224144
+ru 23 91 5659891
+au 19 358 12322334
+sa 18 62 3821385
+cn 14 60 3862155
+tr 14 139 1679947
+kr 10 21 4583401
+nl 9 9 65963
+ke 8 142 32861543
+ma 7 33 2270664
+ph 6 58 4302745
+rs 5 5 33891
+it 5 8 759180
+ie 5 5 33832
+ua 5 5 33737
+fr 4 4 27153
+za 4 16 557502
+il 4 4 27354
+lt 2 2 13452
+pl 2 2 13464
+al 1 1 6726
+eg 2 2 10631
+iq 1 1 6809
+bg 1 1 6809
+se 2 2 13902
+dz 2 24 1145309
+jp 1 1 6726
+cl 3 3 20631
+nz 4 51 3699187
+gr 4 4 27804
+no 3 3 17768
+sc 4 56 5180782
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bingpreview 924 103289592 20180630214145 0
+bot[\s_+:,\.\;\/\\-] 708 169417409 20180630180327 0
+googlebot 553 28605099 20180630223730 0
+googlebot\-image 263 87679193 20180630023109 0
+spider 163 84142395 20180630211704 0
+crawl 69 831815 20180624122633 0
+google[_+\s]web[_+\s]preview 31 3039165 20180622140906 0
+[\s_+:,\.\;\/\\-]bot 15 4374646 20180630230316 0
+no_user_agent 12 67681 20180624141402 0
+ia_archiver 3 27948 20180630135650 0
+robot 2 27687 20180619012002 0
+php 2 19390 20180606211328 0
+curl 1 0 20180606212456 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+Unknown 7 163075 0 0
+html 1109 7635580 0 0
+eot 50 5606937 0 0
+ttf 7 877960 0 0
+css 6100 183633369 0 0
+js 4005 371399092 0 0
+php 1874 23514930 0 0
+pdf 29 219936409 0 0
+map 2 436993 0 0
+gif 98 94911 0 0
+woff 172 13383320 0 0
+jpeg 1665 279675976 0 0
+png 7467 146236068 0 0
+jpg 13866 3324719415 0 0
+woff2 805 47586160 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/images/pdffile/dholera%20mahima_New.pdf 29 68 226448608
+/images/pdffile/Dholera%20Book%20(NEW)__WEB.pdf 22 84 116729959
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+win8.1 1934 171
+win7 10624 1306
+winvista 1 1
+ios_iphone 1404 140
+ios_ipad 1886 163
+Unknown 147 57
+macosx 1708 165
+win8 1 1
+win2003 6 1
+linuxandroid 13165 1253
+linux 74 18
+winlong 21 1
+macosx4 6 6
+winxp 967 151
+macosx8 1 1
+winnt 4750 503
+unix 713 88
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 115
+chrome58.0.3029.110 2 2
+firefox44.0 2 0
+chrome40.0.2214.89 6 0
+chrome38.0.0.0 8 4
+chrome37.0.2049.0 1 1
+safari11.0 1448 136
+firefox61.0 122 6
+chrome27.0.1500.55 1 1
+firefox51.0 2 2
+safari10.0 126 15
+chrome54.0.2840.85 81 8
+chrome59.0.3071.125 176 20
+safari7.0 327 33
+opera53.0.2907.68 540 35
+chrome53.0.2785.146 114 11
+firefox54.0 1 1
+chrome58.0.3014.0 54 5
+chrome67.0.3396.99 1489 169
+chrome34.0.1847.114 66 12
+safari3.1.2 6 6
+chrome26.0.1410.65 1 1
+chrome38.0.2125.102 30 2
+chrome60.0.3112.113 1 1
+chrome57.0.2987.108 947 45
+firefox56.0 517 193
+firefox57.0 6 6
+chrome61.0.3163.98 48 2
+firefox59.0 106 10
+chrome57.4.9503.4231 1 1
+chrome41.0.2225.0 1 1
+safari11.1 237 18
+chrome35.0.1916.141 1138 103
+chrome62.0.3202.94 1 1
+chrome65.0.3325.181 91 7
+safari10.1.2 623 62
+firefox50.0 1 1
+chrome63.0.3239.111 47 5
+firefox34.0 1 1
+chrome64.0.3282.140 179 19
+chrome67.0.3396.79 815 69
+firefox40.0 27 1
+msie10.0 11 3
+chrome34.0.1847.137 1 1
+chrome58.0.3029.83 227 28
+chrome66.0.3359.126 750 110
+firefox11.0 1 0
+firefox38.0 1 1
+chrome52.0.2743.116 310 12
+msie8.0 142 21
+firefox42.0 20 4
+chrome5.0.375.99 1 1
+msie11.0 1556 108
+mozilla 24 21
+chrome44.0.2403.117 2 2
+chrome40.0.2214.109 202 16
+firefox10.0.1 18 2
+safari 325 41
+chrome38.0.1025.166 1956 72
+chrome62.0.3202.84 243 13
+firefox55.0 1 1
+firefox49.0 2 2
+iphone 1 0
+safari11.1.1 1 0
+chrome57.0.2987.133 1 1
+chrome57.0.2987.110 1 1
+safari9.0 1071 83
+firefox28.0 43 2
+chrome37.0.0.0 3 1
+chrome41.0.2228.0 1 1
+chrome66.0.3359.181 5015 535
+chrome49.0.2623.112 52 6
+firefox45.0 2 2
+chrome68.0.3440.33 2 0
+firefox33.0 5 5
+firefox60.0 2483 239
+opera53.0.2907.99 56 4
+android 73 7
+opera12.16 33 2
+chrome55.0.2883.75 83 7
+chrome66.0.3359.203 453 43
+firefox3.6.8 5 5
+chrome46.0.2490.76 4 4
+chrome64.0.3282.137 1082 137
+chrome49.0.2623.75 6 6
+firefox47.0 28 6
+libwww 5 5
+chrome53.0.2785.124 412 24
+chrome11.0.678.0 1 1
+opera36.0.2130.32 4 4
+firefox3.5.2 1 1
+chrome67.0.3396.87 5543 619
+msie9.0 3 3
+chrome58.0.3029.81 1 1
+chrome61.0.3163.100 18 18
+firefox52.0 907 133
+chrome66.0.3359.106 414 35
+chrome56.0.2924.87 97 11
+chrome63.0.3239.132 25 7
+chrome41.0.2272.118 266 6
+chrome34.0.1847.116 2 2
+chrome67.0.3396.68 82 10
+chrome55.0.2883.91 64 6
+chrome46.0.2490.11 9 1
+chrome50.0.2661.89 15 4
+firefox40.1 73 73
+chrome67.0.3396.81 134 8
+chrome30.0.0.0 209 21
+msie7.0 30 5
+chrome65.0.3325.109 277 23
+chrome67.0.3396.62 58 4
+chrome11.0.696.71 4 4
+chrome45.0.2454.94 1 1
+chrome52.0.2743.98 61 8
+chrome66.0.3359.158 2980 392
+Unknown 25 24
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+facebookexternalhit/1.1 20180606122807
+WhatsApp/2.18.177_A 20180614062942
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/101.19;_U;_id)_Presto/2.12.423_Version/12.16 20180602120728
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20180605150715
+Mozilla/5.0_(Android_7.0;_Mobile;_rv:60.0)_Gecko/60.0_Firefox/60.0 20180627050751
+Mozilla/5.0_(compatible;_ips-agent) 20180614233938
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180615131410
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20180625112057
+A6-Indexer 20180629105218
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20180606192326
+Go-http-client/1.1 20180628200923
+python-requests/2.19.1 20180627104703
+libwww-perl/6.26 20180627093320
+}__test|O:21:\ 20180610031048
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20180605142614
+WhatsApp/2.18.122_A 20180616093542
+Mozilla/5.0_(compatible;_SeznamBot/3.2;__http://napoveda.seznam.cz/en/seznambot-intro/) 20180625022853
+The_Knowledge_AI 20180621165340
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+WhatsApp/2.18.177_A 20180614062942
+python-requests/2.19.1 20180627104703
+facebookexternalhit/1.1 20180606122807
+}__test|O:21:\ 20180610031048
+WhatsApp/2.18.122_A 20180616093542
+Go-http-client/1.1 20180628200923
+The_Knowledge_AI 20180621165340
+A6-Indexer 20180629105218
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 619 980
+From1 62 62
+From2 121 156
+From3 705 769
+From4 2519 35441
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 114 149
+yandex 5 5
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+http://www.vadtal.com 376 376
+http://vadtal.com 179 179
+http://www.vadtal.com/index20.html 88 88
+http://mail.dholeradham.com/images/pdffile/123sdawSAwq12.php 15 15
+https://www.facebook.com 9 9
+http://vadtal.com 7 7
+http://www.vadtal.com 6 6
+http://mail.dholeradham.com/css/style.css 6 16
+http://mail.dholeradham.com/PhantomGhost.php 4 4
+http://www.vadtal.com/index.html 4 4
+http://m.facebook.com 4 4
+http://www.swaminarayanmandirjunagadh.com 2 2
+https://lm.facebook.com 1 1
+http://www.zone-h.org/mirror/id/31408599 1 1
+http://localhost:56611/Pages/Daily%20Darshan/Daily%20Darshan.aspx 1 1
+http://jabreshwarmaharaj.com/Pages/Daily%20Darshan/Daily%20Darshan.aspx 1 1
+http://www.zone-h.org/archive/page=2 1 1
+http://mail.dholeradham.com 0 36
+http://googleweblight.com 0 18
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+dholera+daily+darshan 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1832.3ehbe-letbvwthytevpwuxn9ibon7qkdc8tu9xc51hdqdjgn6-u5tzwjng-dsopm.c7c190329f3d9a818b4c04a9535103452d1a5c97%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0yleqvnu7tcjfwhspmnrg36y%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxa09ktmpsy19fukzyttfvswzznxbuvnhvsy0tnjjes1hpnufrdzhwelbkmhrdwtn0avldzfrzn2plsnfjdvfkrtrlwkhtze5fuu1hvuxfwur6tgnuwksyymnptwj3bm9um0jxovreqlrbdvm%26b64e%3d2%26sign%3dc704f83e49976c5deb5a15588bf33129%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqxbyqp9t5vf6ven4qxkwvqw1ntxynou_9ucy-0c6pur3xssprtfaaixysonmowimh2g8gfweaftuck2clvvhfzr9kzkvt7rs3tql2mgtfgazv3qd1hld3_bt02nbdvxs1-shi_xtgknk%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcxboeqr305aiekdrchohdzk1-kc0eprmdzggjoqcy08vjqbgnjo_2rx8a9j8o1zexkw533-me4ezg%26l10n%3dru%26cts%3d1530157733901%26mc%3d2.58778863687 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+https 1
+daily 1
+darshan 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1832.3ehbe-letbvwthytevpwuxn9ibon7qkdc8tu9xc51hdqdjgn6-u5tzwjng-dsopm.c7c190329f3d9a818b4c04a9535103452d1a5c97%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0yleqvnu7tcjfwhspmnrg36y%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxa09ktmpsy19fukzyttfvswzznxbuvnhvsy0tnjjes1hpnufrdzhwelbkmhrdwtn0avldzfrzn2plsnfjdvfkrtrlwkhtze5fuu1hvuxfwur6tgnuwksyymnptwj3bm9um0jxovreqlrbdvm%26b64e%3d2%26sign%3dc704f83e49976c5deb5a15588bf33129%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqxbyqp9t5vf6ven4qxkwvqw1ntxynou_9ucy-0c6pur3xssprtfaaixysonmowimh2g8gfweaftuck2clvvhfzr9kzkvt7rs3tql2mgtfgazv3qd1hld3_bt02nbdvxs1-shi_xtgknk%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcxboeqr305aiekdrchohdzk1-kc0eprmdzggjoqcy08vjqbgnjo_2rx8a9j8o1zexkw533-me4ezg%26l10n%3dru%26cts%3d1530157733901%26mc%3d2.58778863687 1
+dholera 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+301 12 2847
+302 52 225334
+500 1 0
+403 99 250767
+206 3126 432731633
+404 3667 9234828
+401 18 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1391
+/406.php 1 -
+/KYC.php 1 -
+/8.php 3 -
+/wp-content/plugins/akismet/upload.php 1 -
+/management.php 1 -
+/admin2.php 1 -
+/oUEhUx.php 1 -
+/azouz.php 1 -
+/tmp/sok.php 1 -
+/sllolx.php 1 -
+/Dz.php 2 -
+/admin/account.html 1 -
+/meta.php 1 -
+/tmp/uploads.php 3 -
+/users/admin.php 1 -
+/ls.php 2 -
+/q.php 2 -
+/tmp/2.php 1 -
+/fuaad.php 1 -
+/log-in.php 1 -
+/admin/controlpanel.asp 1 -
+/tmp/L3b.php 2 -
+/settings.php 2 -
+/error.php 1 -
+/pgadmin/ 1 -
+/wp-content/plugins/akismet/tmp/xd.php 1 -
+//uploads.php 2 -
+/checkadmin.php 1 -
+/zharen.php 1 -
+/loginsave/ 1 -
+/a4.php 1 -
+/wp-content/plugins/akismet/zone-h.php 1 -
+/adm_auth.php 1 -
+/t.php 3 -
+/Gallery.html 17 -
+/Meuhy.php 1 -
+/private.php 1 -
+/wp-content/plugins/akismet/forum.rar 1 -
+/wp-content/plugins/akismet/downloads/dom.php 1 -
+/wp-content/plugins/akismet/sysadmin.php 1 -
+/admin_area/ 1 -
+/c10.php 1 -
+/wp-content/plugins/google-sitemap-generator/webadmin.html 1 -
+/admin/cp.asp 1 -
+//templates/beez//test.txt 1 -
+/wp-content/plugins/akismet/c100.php 2 -
+/uvpanel/ 1 -
+/wso2.8.php 1 -
+/media/system/js/core.js 1 -
+/loginphp 1 -
+/bsn.php 1 -
+/wp-content/plugins/google-sitemap-generator/c.php 1 -
+/slides/IMG_6717.jpg 2 -
+/x7.php 1 -
+/wawa.php 1 -
+/bb.php 1 -
+/wp-content/plugins/akismet/sym/root/home/ 1 -
+/HAMER.php 1 -
+//templates/beez/Sec-War.php 1 -
+/Aevp8a.php 1 -
+/cmsadmin.asp 1 -
+/u.php 3 -
+/sql-admin/ 1 -
+//templates/beez//up.php 1 -
+/wp-content/plugins/google-sitemap-generator/sym/root/home/ 1 -
+/mysql.php 2 -
+/slides/PATOTSAV-201800029.jpg 2 -
+/Xwso.php 1 -
+/sok.php 1 -
+/ServerAdministrator/ 1 -
+/1337.php 1 -
+/sym.php 4 -
+/mpc.php 1 -
+/fileadmin.php 1 -
+/IycUi0.php 1 -
+//home.tar.gz 2 -
+//sa2.php 2 -
+/respectMuslims.php 1 -
+/1962.php 1 -
+/access/ 1 -
+/pages/admin/admin-login.php 1 -
+/wp-content/plugins/akismet//error_log 1 -
+/vadmind/ 1 -
+/ws.php 1 -
+/sert.php 1 -
+/administrator.asp 1 -
+/adm/ 1 -
+/wp-content/plugins/akismet/cpn.php 1 -
+/Drupal.php 1 -
+/dar 1 -
+/p.php 2 -
+/slides/PATOTSAV-201800031.jpg 2 -
+/d0maine.php 2 -
+/mad.php 1 -
+/sitecore/admin/login.aspx 1 -
+/wp-content/plugins/akismet/d0maine.php 1 -
+/tmp/admin.php 3 -
+//templates/beez//sa2.php 1 -
+/tmp/ss.php 1 -
+/wp-content/plugins/google-sitemap-generator/billing/killer.php 1 -
+/adm.asp 1 -
+/wp-content/plugins/akismet//site.txt 1 -
+/vorod/ 1 -
+/bigadmin/ 1 -
+/UserLogin/ 1 -
+/administrivia/ 1 -
+/wp-content/plugins/google-sitemap-generator/king.jeen 1 -
+//templates/beez/images/Sym.php 1 -
+/zeb2.php 1 -
+/Iu0Pwx.php 1 -
+/radmind/ 1 -
+/autologin.php 1 -
+/admin1.html 1 -
+/hy.php 1 -
+/wp.zip 2 -
+/logo_sysadmin/ 1 -
+/TPO3SW.php 1 -
+/0x0.php 1 -
+/composer.php 1 -
+/cccc.php 1 -
+/admin/dashboard.php 1 -
+/099.php 1 -
+/PSUser/ 1 -
+/iq102.php 1 -
+/blog/wp-login.php 1 -
+/admin/admin.php 1 -
+/cmsadmin/ 1 -
+/apjtkt-ini.php 1 -
+/cp.asp 1 -
+/sites/all/README.txt 1 -
+/Lotus_Domino_Admin/ 1 -
+/css.php 2 -
+/K2ll33d.php 1 -
+/21.php 1 -
+/jit.php 1 -
+/tmp.php 3 -
+/0admin/ 1 -
+//wp-content/plugins/disqus-comment-system/tmp/madspotshell.php 1 -
+/up.php 10 -
+/checkuser.asp 1 -
+//blog/ 1 http://dholeradham.com/
+/wp-content/plugins/google-sitemap-generator/admins.php 2 -
+/inc.php 1 -
+/admin5464532.php 1 -
+/LiveUser_Admin/ 1 -
+/moderator/login.asp 1 -
+/g-maharajpatotsav-2018.html 1 -
+/adminitem.asp 1 -
+//templates/beez/sql.php 1 -
+/login-redirect/ 1 -
+/check.asp 1 -
+/apple-touch-icon-120x120.png 51 -
+/Camilles.php 1 -
+/4.php 3 -
+/wp-content/plugins/akismet/tmp/changeall.php 1 -
+/admin/account.php 1 -
+/done.php 1 -
+/wp-content/plugins/akismet/tmp/madspotshell.php 1 -
+/slides/IMG_6719.jpg 2 -
+/d7.php 1 -
+/Mailer-priv8.php 1 -
+/admin-login.php 1 -
+/slides/IMG_6687.jpg 3 http://dholeradham.com/Bhagavat_Katha.html
+/lsmfxF.php 1 -
+/admins.php 5 -
+/5399.php 1 -
+/res/slider.js 25 http://dholeradham.com/Bhagavat_Katha.html
+/wp-content/plugins/akismet/cpanel.php 1 -
+/sat.php 1 -
+/supervisor/ 1 -
+/wp-content/plugins/akismet/tmp/whmcs.php 1 -
+/sco.php 1 -
+/jce.php 1 -
+/tmp/domaine.php 2 -
+/tmp/madspotshell.php 1 -
+/administr8/ 1 -
+/tmp/index.php 1 -
+/isadmin.asp 1 -
+/blogindex/ 1 -
+/sys-admin/ 1 -
+/g1C5JO.php 1 -
+/panel.php 1 -
+//wp-content/plugins/disqus-comment-system/L3b.php 1 -
+/r.php 2 -
+/lock.php 1 -
+/tmp/upload.php 3 -
+//wp-content/plugins/disqus-comment-system/tmp/cpn.php 1 -
+/report.php 1 -
+/wp-vint.php 1 -
+/mail.php 1 -
+/sysadmins/ 3 -
+/modelsearch/login.php 1 -
+/wp-content/plugins/akismet//error 1 -
+//admin.php 3 -
+/revs.php 1 -
+/sign-in.asp 1 -
+/admin/index.php 3 -
+/wp-content/plugins/akismet/wp.php 1 -
+/admin_area.asp 1 -
+/wp-content/plugins/akismet/d.php 1 -
+/wp-content/plugins/akismet/tmp/root.php 1 -
+/bb-admin/ 1 -
+/webadmin/ 1 -
+//templates/beez//upload.php 1 -
+/12.php 1 -
+/administrator/login.asp 1 -
+/utility_login/ 1 -
+/lfm.php 1 -
+/blog/administrator/index.php 2 -
+/tPyy41.php 1 -
+/wp-content/plugins/akismet/Server/ 1 -
+/xindex.php 1 -
+/xlogin/ 1 -
+/memberadmin.asp 1 -
+/sign_in.asp 1 -
+/ccp14admin/ 1 -
+/xx.php 1 -
+/formslogin/ 1 -
+/t2.php 1 -
+/xmlrpc.php 5 -
+/tmp/root.php 2 -
+/sysadm.php 1 -
+/slides/PATOTSAV-201800013.jpg 1 -
+/MgMk5T.php 1 -
+/readme.php 2 -
+/sidebar-content.php 1 -
+/dir-login/ 1 -
+/admin/admin_login.php 1 -
+/avixmen.php 1 -
+/modelsearch/login.asp 1 -
+/management.asp 1 -
+/admin/home.asp 1 -
+/admin_area.php 1 -
+/tmp/r00t.php 1 -
+/admin_area/admin.php 1 -
+/login_admin/ 1 -
+/zza.php 1 -
+//wp-content/plugins/disqus-comment-system/Sym.php 1 -
+/manage.asp 1 -
+/sjeunso.php 1 -
+/root/ 1 -
+/admin_area/admin.asp 1 -
+/syrian_shell.php 2 -
+/Symlink.php 4 -
+/wso.1php 1 -
+//upload.php 2 -
+/Khatvidhi.html 21 http://www.dholeradham.com/
+/wp-content/plugins/akismet/ssl.php 1 -
+/wp-content/plugins/akismet/WSO.php 1 -
+/adminpro/ 1 -
+/mailer.php 2 -
+/w.php 6 -
+/wp-content/plugins/akismet/tmp/d0maine.php 1 -
+/authadmin.asp 1 -
+/tmp/xd.php 2 -
+//templates/beez/WolF.php 1 -
+/superuser.asp 1 -
+//templates/beez/configuration.php 1 -
+/shell_dwn.php 1 -
+/wp-content/plugins/akismet/admins.asp 1 -
+/cpanel_file/ 1 -
+/aadmin/ 1 -
+/wp-includes/wlwmanifest.xml 3 -
+/admin_login.php 1 -
+/123.php 3 -
+//templates/beez/0day.php 1 -
+/bobox.php 1 -
+/HMER.php 1 -
+/loginasp 1 -
+/z7.php 1 -
+/sub-login/ 1 -
+/ex.php 1 -
+/hacker.php 1 -
+/spy.aspx 2 -
+/processlogin.php 1 -
+/login1asp 1 -
+/autologin/ 1 -
+/uplo.php 1 -
+/slides/IMG_6714.jpg 2 -
+//wp-content/plugins/disqus-comment-system/tmp/Sym.php 1 -
+/userlogin.asp 1 -
+/ny.php 1 -
+/processlogin.asp 1 -
+/13.php 2 -
+//templates/beez/upload.php 1 -
+/formcontact.php 1 -
+/wp-content/plugins/akismet/spy.aspx 1 -
+/robots.txt 711 -
+/d0mains.php 1 -
+/login_userasp 1 -
+/login_userphp 1 -
+/b2or.php 1 -
+/bluff.php 2 -
+/adminitem.php 1 -
+/m1.php 1 -
+/login_out/ 1 -
+/wp-debug.php 1 -
+//templates/beez/tmp/Sym.php 1 -
+/foxcontatx.php 1 -
+/log_in.asp 1 -
+/bl.php 1 -
+/wp-content/plugins/akismet/0day.php 1 -
+/c22.php 2 -
+/acceso.asp 1 -
+//templates/beez//home.tar.gz 1 -
+/webadmin.php 1 -
+/adminlogin.php 1 -
+/directadmin/ 1 -
+/admincp/ 1 -
+/dir2.php 1 -
+/admin_area/login.asp 1 -
+/webadmin.asp 1 -
+/administrator/account.asp 1 -
+/yolo.php 1 -
+/sign-in/ 1 -
+/D3vil.php 1 -
+/superasp 1 -
+/admin/login.php 5 -
+/wp-content/plugins/akismet/tmp/vaga.php 1 -
+/check.php 2 -
+/administr8.php 1 -
+/wp/ 2 -
+/core/docs/config.inc.tpl 1 -
+/wp-content/plugins/akismet/c.php 1 -
+/adminLogin/ 1 -
+/1337w0rm.php 2 -
+/cgi-bin/loginasp 1 -
+/v.php 2 -
+/Conan.php 1 -
+/admin.htm 1 -
+/seomarket.php 1 -
+/11.php 2 -
+/sl.php 1 -
+/digaqx-ini.php 1 -
+/phpmyadmin/ 1 -
+/xx.pl 2 -
+/log_in.php 1 -
+/wso781998.php 1 -
+/wk.php 1 -
+/macadmin/ 1 -
+/supermanagerasp 1 -
+/ar.php 1 -
+/maillist.php 1 -
+/way.php 1 -
+/users/admin.asp 1 -
+/0manager/ 1 -
+/panel.asp 1 -
+//awstats 2 -
+/slides/IMG_6716.jpg 2 -
+/slides/PATOTSAV-201800028.jpg 2 -
+/noname_sym/root/home/dholeradham/public_html 1 http://dholeradham.com/admin/photo/has.php
+/superuserasp 1 -
+//Black.php 2 -
+/1177.php 1 -
+/snp.php 1 -
+/g.php 5 -
+/xfx.php 1 -
+/davir.php 1 -
+/wp-content/plugins/akismet/tmp/dz1.php 1 -
+/cp.php 5 -
+/404.php 4 -
+/bb-admin/admin.html 1 -
+/6.php 3 -
+/minikoh.php 1 -
+/phantomghost.php 3 -
+//wp-admin/install.php 1 -
+/wp-content/uploads 1 -
+/j1.php 1 -
+/login_adminphp 1 -
+/adminitems.asp 1 -
+/ll.php 1 -
+/manage/ 1 -
+/uploads.php 3 -
+/admin/cgallery.php 20 -
+/wp-content/plugins/google-sitemap-generator/wp.rar/ 1 -
+//templates/beez/tmp/sql.php 1 -
+/abc.php 3 -
+/Akshar_Oradi.html 5 -
+/jump.php 1 -
+//templates/beez/sado.php 1 -
+/wp.zipwp-content/plugins/disqus-comment-system/disqus.php 1 -
+//templates/beez//Black.php 1 -
+/power_user/ 1 -
+//templates/beez/tmp/dz.php 1 -
+//templates/beez//shell.php 1 -
+/tmp/dz1.php 2 -
+/j.php 3 -
+//templates/beez/tmp/root.php 1 -
+/KURDISHSNIPER97.php 1 -
+/defult.php 1 -
+/Jijle3.php 1 -
+/gg.php 1 -
+/sign_in/ 1 -
+/xd.php 8 -
+/y.php 2 -
+/adminarea/ 1 -
+/sg.php 1 -
+//wp-content/plugins/disqus-comment-system/0day.php 1 -
+/administr8.asp 1 -
+/tmp/vaga.php 2 -
+/siteadmin/ 1 -
+/forum.zip 2 -
+/291892.php 1 -
+/slides/PATOTSAV-201800024.jpg 2 -
+/wp-content/plugins/akismet/cp.php 1 -
+/panel-administracion/login.php 1 -
+/wp-content/plugins/akismet/X.php 1 -
+//wordpress/wp-admin/install.php 1 -
+/shadow.php 1 -
+/login.htm 1 -
+/slides/PATOTSAV-201800026.jpg 2 -
+/back2.php 1 -
+/admin/fonts/Georgia-Bold.eot 2 http://dholeradham.com/admin/daily.php
+/admincp/login.asp 1 -
+/r4k3T.php 1 -
+//site.tar.gz 2 -
+/filter.php 1 -
+/controller.php 1 -
+/slides/PATOTSAV-201800022.jpg 2 -
+/wp-content/plugins/akismet/priv8.php 1 -
+/wp-content/plugins/akismet/tmp/sql.php 2 -
+/3xp.php 1 -
+/be.php 1 -
+/members.php 1 -
+/flog.php 1 -
+/tracker.php 1 -
+//wp-content/plugins/disqus-comment-system/sado.php 1 -
+/sysadm.asp 1 -
+/cgi-bin/loginphp 1 -
+//templates/beez/admin1.php 1 -
+/vorud/ 1 -
+/179.php 1 -
+/res/builder.js 20 http://dholeradham.com/Bhagavat_Katha.html
+//templates/beez/gzaa_spysl 1 -
+/k1.php 1 -
+/Database_Administration/ 1 -
+/alargup.php 1 -
+/mlr.php 1 -
+//templates/beez/r00t-s3c.php 1 -
+/cfq.php 1 -
+//templates/beez/tmp/d.php 1 -
+/admin4_colon/ 1 -
+/n.php 2 -
+/party.php 1 -
+/wp-content/plugins/akismet//awstats 1 -
+/wu-config.php 1 -
+/ur-admin.asp 1 -
+/ap.php 1 -
+/wp-content/plugins/akismet/abuhlail.php 1 -
+/images/pdffile/PATRIKA.pdf 24 -
+/cns.php 1 -
+/wp-content/plugins/akismet/forum.zip 1 -
+//wp-content/plugins/disqus-comment-system/c100.php 1 -
+/wp-content/plugins/akismet/tmp/Sym.php 1 -
+//templates/beez//site.tar.gz 1 -
+/cron.php 1 -
+/sniper.php 5 -
+/wp-content/plugins/akismet/tmp/2.php 1 -
+/users/ 1 -
+/Flsh.php 1 -
+/wp-content/plugins/akismet/asp.aspx 1 -
+/hh.php 1 -
+/de49.php 1 -
+/ho.php 1 -
+/evo.php 1 -
+/iqevill.php 1 -
+/Super-Admin/ 1 -
+/king.jeen 2 -
+/admin/adminLogin.php 1 -
+/ccfdcx-ini.php 1 -
+/administration/ 1 -
+/x.php 4 -
+/6V4Tes.php 1 -
+//forum.rar 2 -
+//new/wp-admin/install.php 1 -
+/downloads/dom.php 1 -
+/WSO.php 3 -
+/wp-content/plugins/akismet/akismet.php 2 -
+/letmein.asp 1 -
+/panel/ 1 -
+/wp.zipd0mains.php 1 -
+/admins/ 3 -
+/sym/root/home/ 2 -
+/sts.php 1 -
+/e7.php 1 -
+/signin/ 1 -
+/t7m.php 1 -
+/loLAGG.php 1 -
+/login_db/ 1 -
+//templates/beez//2.php 1 -
+/hsl.php 1 -
+/izom.php 1 -
+/sysadm/ 1 -
+/admin/fonts/Georgia.woff 1 http://dholeradham.com/admin/css/style.css
+/slides/PATOTSAV-201800007.jpg 1 -
+/adminer.php 1 -
+/memberadmin.php 1 -
+/tmp/user.php 1 -
+/wp-content/plugins/akismet/Cpanel.php 1 -
+/site/wp-includes/wlwmanifest.xml 3 -
+/network55812.php 1 -
+/d4rk.php 2 -
+/admin2.html 1 -
+/l.php 3 -
+/black.php 1 -
+/administration.asp 1 -
+/k2.php 1 -
+/admin/adminLogin.html 1 -
+/admincontrol.php 1 -
+/wp-admin/install.php 1 -
+/parent.php 1 -
+/adminitems.php 1 -
+/killer.php 2 -
+/wso.php 2 -
+/slides/PATOTSAV-201800001.jpg 4 http://dholeradham.com/Patotsav-2018.html
+/panel-administracion/ 1 -
+/wp-content/plugins/akismet/tmp/d.php 1 -
+//templates/beez/asp.aspx 1 -
+//templates/beez//sa.php 1 -
+//shell.php 2 -
+/go.php 1 -
+//templates/beez/tmp/madspotshell.php 1 -
+/win.php 1 -
+/os.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/admin.php 1 -
+/member.asp 1 -
+/wp-content/plugins/akismet/wp.rar/ 1 -
+/slides/PATOTSAV-201800016.jpg 2 -
+/Server.php 3 -
+/logout/ 1 -
+/blog/wp-login.asp 1 -
+/vorod.asp 1 -
+/wp-feed.php 1 -
+/njing.php 1 -
+/wp-content/plugins/akismet/Sym.php 1 -
+/Marvins.php 1 -
+/CHANGELOG.txt 3 -
+/unz.php 1 -
+/README.txt 2 -
+/bb-admin/login.php 1 -
+/hpwebjetadmin/ 1 -
+/wp-content/plugins/google-sitemap-generator//awstats 1 -
+/log_in/ 1 -
+/forum.rar 2 -
+/user/login 1 -
+/adminitems/ 1 -
+/supermanasp 1 -
+/wp-content/plugins/akismet/joomla.rar 1 -
+/bk.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/Cgishell.pl 1 -
+/configuration.php 4 -
+/resize.php 1 -
+/templates/system/css/system.css 1 -
+/administrator/login.php 1 -
+/wp-content/plugins/akismet/uploads.php 1 -
+/wp-login/ 1 -
+/zipy.php 1 -
+/acct_login/ 1 -
+/pureadmin/ 1 -
+/user/admin.php 1 -
+/ckgjhs-ini.php 1 -
+/wp-content/plugins/akismet/disqus.php 1 -
+/cgi.pl/ 2 -
+/mr.php 1 -
+/panic.php 1 -
+/CZ.php 1 -
+/banneradmin/ 1 -
+//wp-content/plugins/disqus-comment-system/Cpanel.php 1 -
+//templates/beez//forum.zip 1 -
+/admin/fonts/Georgia.woff2 1 http://dholeradham.com/admin/css/style.css
+/galer.php 1 -
+/wp-content/plugins/akismet/Symlink.php 1 -
+/optimizer_20511.php 1 -
+//templates/beez//site.rar 1 -
+/Ahmed.php 1 -
+/bypass.php 1 -
+/wp-content/plugins/akismet/joomla.zip 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/15fa.php 1 -
+/admin/images/loader.gif 19 http://dholeradham.com/admin/cssgallery/swipebox.css
+//templates/beez//uploads.php 1 -
+/slides/PATOTSAV-201800020.jpg 3 -
+/moderator.php 2 -
+/dam.php 2 -
+/wp-content/plugins/akismet/xx.pl 1 -
+/av.php 1 -
+/Alarg53.php 1 -
+//site.rar 2 -
+/xXx-ID.php 1 -
+/manuallogin/ 1 -
+/bdoor.php 1 -
+/slides/IMG_6723.jpg 3 -
+/.well-known/assetlinks.json 3 -
+/xGSx.php 1 -
+//templates/beez/sa.php 1 -
+/guy.php 1 -
+/o.php 2 -
+//wp-content/plugins/disqus-comment-system/d.php 1 -
+/al.php 1 -
+/ss.php 2 -
+/admin1.asp 1 -
+/tmp/Cgishell.pl 1 -
+/blog/robots.txt 4 -
+/admin/fonts/Georgia.eot 2 http://dholeradham.com/admin/daily.php
+/isadmin.php 1 -
+/login.asp 1 -
+/v3.php 1 -
+/mini_cp.php 1 -
+//forum.tar.gz 2 -
+/system_administration/ 1 -
+/l4.php 1 -
+//templates/beez/ls.php 1 -
+/wp-content/plugins/akismet//cpanel 1 -
+/yonetim.php 1 -
+/super_indexasp 1 -
+/FMLKh2.php 1 -
+/0x10.php 1 -
+/wp-content/plugins/akismet/tmp/domaine.php 1 -
+/member.php 1 -
+/manage.php 1 -
+/kodox.php 1 -
+/controlpanel.php 1 -
+/admin/images/icons.png 22 http://dholeradham.com/admin/cssgallery/swipebox.css
+/def.php 1 -
+/secret/ 1 -
+/phpldapadmin/ 1 -
+/priv8.php 4 -
+/smtp.php 1 -
+/gzaa_spysl 2 -
+/log-in.asp 1 -
+/wp.php 3 -
+/webroot.php 1 -
+/hame.php 1 -
+/slides/IMG_6703.jpg 4 -
+/tmp/w.php 1 -
+/test.php 1 -
+/cmd.php 1 -
+/pdf.php 1 -
+/super1/ 1 -
+/slides/IMG_6710.jpg 2 -
+/&%C3%A9.php 1 -
+//templates/beez/tmp/killer.php 1 -
+/tmp/cgi.pl 2 -
+/gallery.php 1 -
+/xml.php 1 -
+/egyshell.php 2 -
+/superuser.php 1 -
+/administrators/ 1 -
+/un.php 1 -
+/administration.php 1 -
+/slides/PATOTSAV-201800032.jpg 1 -
+/wp-content/plugins/google-sitemap-generator/bluff.php 1 -
+/login1/ 1 -
+/5.php 3 -
+//up.php 1 -
+/jl3.php 1 -
+/admin/fonts/Georgia.ttf 1 http://dholeradham.com/admin/css/style.css
+/slides/PATOTSAV-201800010.jpg 2 -
+/killed.php 1 -
+/mini.php 1 -
+/authentication.php 1 -
+/b4da.php 1 -
+//templates/beez/tmp/cpn.php 1 -
+/vorud.asp 1 -
+/xai.php 1 -
+/ss_vms_admin_sm/ 1 -
+/manager/ 1 -
+/slides/PATOTSAV-201800003.jpg 2 -
+/wp-content/plugins/akismet/vb.zip 1 -
+/Indy_admin/ 1 -
+/0569386623.php 1 -
+/member/ 1 -
+/moderator/login.php 1 -
+/slides/PATOTSAV-201800018.jpg 1 -
+/cfg.php 1 -
+/sado.php 2 -
+/memberadmin/ 1 -
+//templates/beez/tmp/user.php 1 -
+/management/ 1 -
+/fuckyou.php 1 -
+//templates/beez//error_log 1 -
+/cmsadmin.php 1 -
+/wp-content/plugins/akismet/admins.php 2 -
+/wp-content/plugins/akismet/tmp/priv8.php 1 -
+/wp-content/plugins/google-sitemap-generator/admins.asp 1 -
+//templates/beez/shell.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 3 -
+/tmp/changeall.php 1 -
+/moderator/admin.asp 1 -
+/pb.php 1 -
+/malioiol.php 1 -
+/wp-content/plugins/akismet/bluff.php 1 -
+/loginok/ 1 -
+/tmp/sql.php 3 -
+//templates/beez//home.tar 1 -
+/profiles.php 1 -
+/w0rm.php 1 -
+/wp-content/plugins/akismet/Sec-War.php 1 -
+/licenze.php 1 -
+/wp-content/uploads/2018/06/ 1 -
+/m2n2.php 1 -
+/cliente/downloads/h4xor.php 1 -
+/wp-content/plugins/akismet/vb.rar 1 -
+/manager.php 1 -
+//templates/beez/WSO.php 1 -
+/sysadmin.php 3 -
+//wp-content/plugins/disqus-comment-system/xx.pl 1 -
+//wp-content/plugins/disqus-comment-system/c22.php 1 -
+/slides/PATOTSAV-201800011.jpg 2 -
+/administrator/account.php 1 -
+/administratorlogin.php 1 -
+/admincontrol/ 1 -
+/topi.php 1 -
+/bb-admin/admin.php 1 -
+/admin/images/icons.svg 23 http://dholeradham.com/admin/cgallery.php
+/panel-administracion/login.asp 1 -
+/2.php 6 -
+/wp-content/plugins/google-sitemap-generator/Server.php 1 -
+//dz.php 2 -
+/vorud.php 1 -
+//templates/beez/DZ.php 1 -
+/r00t.php 2 -
+/cpn.php 3 -
+/z.php 3 -
+//templates/beez/sysadmins/ 1 -
+/supervise/ 1 -
+/com_pdf.php 1 -
+/wp-content/plugins/akismet/Server.php 1 -
+//templates/beez//gaza.php 1 -
+/home.php 1 -
+/slides/IMG_6715.jpg 2 -
+/wp-content/plugins/google-sitemap-generator/tmp/upload.php 1 -
+/superuserphp 1 -
+/access.asp 1 -
+/pk1914.php 1 -
+/letmein.php 1 -
+/tmp/sa.php 1 -
+/admin/cp.php 1 -
+/modules/node/node.css 1 -
+/alfa.php 2 -
+/superuser/ 1 -
+/tmp/up.php 2 -
+/slides/IMG_6721.jpg 3 -
+/slides/PATOTSAV-201800005.jpg 1 -
+/911.php 2 -
+/yonetici.asp 2 -
+//wp-content/plugins/disqus-comment-system/zone-h.php 1 -
+/authuser.asp 1 -
+/superman/ 1 -
+/sitemap.xml 2 -
+/default.php 1 -
+/53.php 1 -
+//images/root.php 1 -
+//templates/beez//site.txt 1 -
+/Ughp.php 1 -
+/checklogin.php 1 -
+/meeee.php 1 -
+/login.html 1 -
+/administrators.asp 1 -
+/base.php 1 -
+/wp-includes/css/buttons.css 1 -
+/SysAdmin/ 1 -
+/secrets/ 1 -
+/wp-content/plugins/akismet/sql.php 1 -
+/tmp/r1z.php 1 -
+/sh.php 1 -
+/wp-content/plugins/google-sitemap-generator/cgi.pl/ 1 -
+//home.zip 2 -
+/yonetici.html 1 -
+/images/favicon.png 501 http://www.dholeradham.com/
+/123456789.php 1 -
+/administrators.php 1 -
+/Contact.html 2 -
+/r7x.php 1 -
+/3n0.php 1 -
+/aul.php 1 -
+/authenticate.asp 1 -
+/admin/account.asp 1 -
+/c100.php 6 -
+//templates/beez/xx.pl 1 -
+/wordpress/ 2 -
+/wp-content/plugins/akismet/m.php 1 -
+/mw.php 2 -
+/wp-content/plugins/google-sitemap-generator/priv8.php 1 -
+/administrator/ 1 -
+/cloudx.php 1 -
+/system-administration/ 1 -
+/fly.php 1 -
+/dz0.php 2 -
+/whmcs.php 4 -
+/wp-content/plugins/google-sitemap-generator/downloads/dom.php 1 -
+//templates/beez//amad.php 1 -
+//templates/beez/sos.php 1 -
+/adminpanel.asp 1 -
+/licenza.php 1 -
+/wp-content/plugins/akismet/tmp/cgi.pl 1 -
+/checklogin.asp 1 -
+/f935f.php 1 -
+//wp/wp-admin/install.php 1 -
+/deTp3W.php 1 -
+/contact.html 2 -
+/fileadmin.asp 1 -
+/slides/PATOTSAV-201800019.jpg 2 -
+/vorod.php 1 -
+/Server/ 3 -
+/Tmsonikhek.php 1 -
+/admin/gallery.php 1 -
+/ezsqliteadmin/ 1 -
+/h.php 2 -
+/wp-content/plugins/akismet/xd.php 2 -
+/wp-content/plugins/akismet/term.php 1 -
+/admin/login.htm 1 -
+/asp.aspx 2 -
+//wp-content/plugins/count-per-day/js/yc/d00.php 1 -
+/10.php 3 -
+//templates/beez//user.txt 1 -
+/shortcut.php 1 -
+/Babbitts.php 1 -
+//templates/beez/Cpanel.php 1 -
+/3.php 4 -
+/user.php 3 -
+/rylnupf.php 1 -
+/admin/admin_login.asp 1 -
+/wp-admin/ 1 -
+/dhole-radham/48-taking-the-pounds-off-of-the-simple-way 3 -
+/symsa.php 1 -
+/sitemap.php 1 -
+/Cpanel.php 3 -
+//templates/beez/tmp/Cgishell.pl 1 -
+/dz1.php 2 -
+/admin_login.asp 1 -
+/vb.zip 2 -
+//wp-content/plugins/disqus-comment-system/tmp/whmcs.php 1 -
+/adminlogin.asp 1 -
+/Mi.php 1 -
+/admin/adminLogin.htm 1 -
+/accesson7.php 1 -
+/loginflat/ 1 -
+/admin/admin-login.php 1 -
+/login-us/ 1 -
+//templates/beez//admin.php 1 -
+/simpleLogin/ 1 -
+/0p1337.php 1 -
+/myadmin/ 1 -
+/upgass.php 1 -
+/autologin.asp 1 -
+/pages/admin/admin-login.asp 1 -
+/slides/PATOTSAV-201800033.jpg 2 -
+/wp-content/plugins/akismet/dz.php 1 -
+/wp-content/plugins/akismet/useradmin/ 1 -
+/contaco.php 1 -
+/m4n4.php 1 -
+/pages/admin/ 1 -
+/wp-content/plugins/google-sitemap-generator/tmp/priv8.php 1 -
+/nayes.php 1 -
+/ 1 -
+/SysAdmin2/ 1 -
+/blog/wp-includes/wlwmanifest.xml 3 -
+//home.tar 2 -
+/super1asp 1 -
+/web.php 1 -
+/joomla/robots.txt 2 -
+/sami.php 1 -
+/loginerror/ 1 -
+/civok.php 1 -
+/wp-content/plugins/akismet/tmp/cpn.php 1 -
+/adminsite/ 1 -
+/v0.php 1 -
+/Skri.php 1 -
+/adm.php 1 -
+//user.txt 2 -
+/criss.php 1 -
+/ssss.php 1 -
+/index1.php 3 -
+/tmp/killer.php 4 -
+//2.php 2 -
+/wp-content/plugins/akismet/whmcs.php 1 -
+/slides/IMG_6688.jpg 2 -
+/registration/ 1 -
+/administratorlogin/ 1 -
+/patotsav-2018.html 1 -
+/mmc.php 1 -
+/wp-content/plugins/akismet/tmp/upload.php 1 -
+/admin/admin.asp 1 -
+/moderator.asp 1 -
+/su.php 1 -
+/moderator/ 1 -
+/wp-content/plugins/akismet/g.php 1 -
+/smart.php 1 -
+/kj.php 1 -
+/sexy.php 1 -
+/k.php 5 -
+/wp-content/plugins/akismet/admins/ 1 -
+/wp-content/plugins/akismet/configuration.php 1 -
+/routers.php 1 -
+/members/ 1 -
+/typo3/ 1 -
+/tmp/priv8.php 2 -
+/usr/ 1 -
+/authentication.asp 1 -
+//ftp.txt 3 -
+/joomla.rar 2 -
+/_404.php 1 -
+/.up.php 1 -
+//templates/beez//awstats 1 -
+/cpanel.php 3 -
+/admin/controlpanel.htm 1 -
+/mod.php 1 -
+/control.php 1 -
+/wp-content/plugins/akismet/admin1.php 1 -
+//t00.php 2 -
+//templates/beez/uploads.php 1 -
+/yonetim.asp 1 -
+/sin.php 1 -
+//templates/beez/sniper.php 1 -
+/H9wKuS.php 1 -
+//templates/beez/tmp/L3b.php 1 -
+/images/IMG_0077-1.jpg 4 -
+/.-z5.php 1 -
+/ur-admin/ 1 -
+/google.php 1 -
+/slides/IMG_6713.jpg 3 -
+/injector.php 1 -
+/Spider.php 1 -
+/res/controls.js 25 http://dholeradham.com/Bhagavat_Katha.html
+/LICENSE.php 1 -
+/wp-content/plugins/akismet/tmp/Cgishell.pl 1 -
+/modules/admin/ 1 -
+/back.php 1 -
+/loginsuperasp 1 -
+/images/DAILYDARSHAM/2.jpg 1 -
+/phpSQLiteAdmin/ 1 -
+/wp-content/plugins/akismet/DZ.php 1 -
+/noob.php 1 -
+/rcLogin/ 1 -
+/stupid.php 1 -
+/wso1.0.php 1 -
+/spofer.php 1 -
+/navSiteAdmin/ 1 -
+/images/DAILYDARSHAM/1.jpg 2 -
+/authenticate.php 1 -
+/readme.html 1 -
+/madspotshell.php 4 -
+/wp-content/plugins/akismet/L3b.php 1 -
+/vb.rar 2 -
+/relogin.asp 1 -
+//templates/beez/cpn.php 1 -
+/irc-macadmin/ 1 -
+/wso000.php 1 -
+/index.html 19 -
+/sK1J5k.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/index.php 1 -
+/acceso.php 1 -
+/admin1/ 3 -
+/XxX.php 1 -
+//templates/beez/tmp/vaga.php 1 -
+/dssd.php 1 -
+//wp-content/plugins/disqus-comment-system/disqus.php 1 -
+/wp-content/plugins/akismet/tmp/index.php 1 -
+/users.php 1 -
+/M4r0c.php 2 -
+/wp-content/plugins/akismet/widget.php 1 -
+//templates/beez/wp.rar/ 1 -
+/wso2.5.php 1 -
+/checkuser.php 1 -
+//error 2 -
+/yonetim.html 1 -
+/radmind-1/ 1 -
+/L3b.php 2 -
+/authadmin.php 1 -
+/slides/PATOTSAV-201800009.jpg 5 http://dholeradham.com/Patotsav-2018.html
+/tmp/domaine.pl 2 -
+/temple.html 1 -
+/wp-content/plugins/akismet/c22.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/admin/login.html 1 -
+/ksa.php 2 -
+/d.php 5 -
+/mass.d.php 1 -
+/shell!.php 1 -
+/webmaster.php 1 -
+/moderator.html 1 -
+/administratie/ 1 -
+/admin2.asp 3 -
+/controlpanel.asp 1 -
+/auth.php 1 -
+/login1php 1 -
+/tmpl.php 1 -
+/config2.php 1 -
+/wp-content/plugins/google-sitemap-generator/r00t-s3c.php 1 -
+/Sym.php 3 -
+//templates/beez/tmp/whmcs.php 1 -
+/templates/beez/index.php 2 -
+/slides/IMG_6737.jpg 2 -
+/wp-content/plugins/akismet/sa.php 1 -
+/core/CHANGELOG.txt 2 -
+/user/admin.asp 1 -
+/admincp/login.php 1 -
+/am.php 1 -
+/wp-content/plugins/akismet/cgi.pl/ 1 -
+/upload.php 3 -
+/wp-content/plugins/akismet/admin2.asp 1 -
+/administration/Sym.php 1 -
+/info.php 2 -
+/wp-content/plugins/akismet/tmp/up.php 1 -
+//templates/beez/c.php 1 -
+/wp-rdf.php 1 -
+/iZJAeY.php 1 -
+/3728.php 1 -
+/wp-content/plugins/google-sitemap-generator/admins/ 1 -
+/makman.php 1 -
+//templates/beez/tmp/admin.php 1 -
+/wp-content/plugins/akismet/tmp/L3b.php 1 -
+/cms/wp-includes/wlwmanifest.xml 3 -
+/login.php 1 -
+//templates/beez/L3b.php 1 -
+/cp/ 1 -
+/dz.php 3 -
+/homr.php 1 -
+/security/ 1 -
+/vhost.php 1 -
+/joomla.zip 2 -
+/v5rev.php 1 -
+/fileadmin/ 1 -
+/rois.php 1 -
+//wp-content/plugins/disqus-comment-system/WSO.php 1 -
+/sshadmin/ 1 -
+/salma.php 1 -
+/checkadmin.asp 1 -
+//templates/beez/k.php 1 -
+/banner.php 1 -
+//templates/beez/term.php 1 -
+/apple-touch-icon.png 51 -
+/sql-new.php 2 -
+//templates/beez/d.php 1 -
+/slides/PATOTSAV-201800002.jpg 3 http://dholeradham.com/Patotsav-2018.html
+/changeall.php 2 -
+/indexe.php 1 -
+/users.asp 1 -
+/wp-content/plugins/google-sitemap-generator/tmp/cgi.pl 1 -
+/X.php 3 -
+/wp-content/plugins/akismet/Symlink.pl 1 -
+/max.php 1 -
+/9.php 3 -
+/templates/rhuk_milkyway/index.php 2 -
+/i.php 2 -
+/wp-content/plugins/akismet/webadmin.html 1 -
+/ask.php 1 -
+/webmaster/ 1 -
+/wp-content/plugins/akismet//ftp.txt 1 -
+/wp-content/plugins/google-sitemap-generator/tmp/up.php 1 -
+//templates/beez/vb.zip 1 -
+/accounts/ 1 -
+//templates/beez/zone-h.php 1 -
+/dark.php 1 -
+/noname_sym/root/home/admin/public_html 1 http://dholeradham.com/admin/photo/has.php
+/mm.php 1 -
+/slides/PATOTSAV-201800027.jpg 2 -
+/h4ck_.php 1 -
+/weirdo.php 1 -
+/PRASHADIPLACE.html 1 -
+/wp-content/plugins/google-sitemap-generator/Server/ 1 -
+//templates/beez/dz.php 1 -
+/wp-content/plugins/ubh/ 1 -
+/wp-content/plugins/akismet/billing/killer.php 1 -
+//templates/beez/cp.php 1 -
+/p34ky1337.php 1 -
+/tmp/cpn.php 2 -
+/instadmin/ 1 -
+/login/ 1 -
+/admin-login.asp 1 -
+//templates/beez//home.zip 1 -
+/AdminTools/ 1 -
+/xxx.php 3 -
+/admin/controlpanel.html 1 -
+/wp-content/plugins/akismet/tmp/user.php 1 -
+/wp-content/plugins/google-sitemap-generator/tmp/uploads.php 1 -
+//templates/beez/admin2.asp 1 -
+/ok.php 1 -
+/xNot.php 1 -
+/2ww.php 1 -
+/nkr.php 2 -
+/WSO4.php 1 -
+//templates/beez/tmp/2.php 1 -
+//templates/beez/sql-new.php 1 -
+/admin1.htm 1 -
+/Tester.php 1 -
+/tmp/d.php 2 -
+/ms2.php 1 -
+/303.php 1 -
+/m.php 6 -
+/templates/beez/beez.php 1 -
+//site.txt 2 -
+/sysadmin.asp 1 -
+/admin/cssgallery/bootstrap.css.map 1 -
+/sign-in.php 1 -
+/siteadmin.php 1 -
+/members.asp 1 -
+/abuhlail.php 2 -
+/kl.php 1 -
+/wp-content/plugins/akismet/tmp/dz.php 1 -
+/wp-content/plugins/google-sitemap-generator/tmp/xd.php 1 -
+/affiliate.asp 1 -
+/Ahmed123.php 1 -
+/slides/PATOTSAV-201800030.jpg 2 -
+/wp-content/plugins/akismet/tmp/admin.php 2 -
+/wp-content/plugins/akismet/egyshell.php 1 -
+/wp/wp-includes/wlwmanifest.xml 3 -
+//wp-content/plugins/disqus-comment-system/ls.php 1 -
+/wizmysqladmin/ 1 -
+/bb-admin/login.asp 1 -
+/wm.php 1 -
+/ad.php 1 -
+/project-admins/ 1 -
+/body.php 1 -
+/meta_login/ 1 -
+//old/wp-admin/install.php 1 -
+/Symlink.pl 2 -
+/login_adminasp 1 -
+/zh.php 1 -
+//templates/beez/up.php 1 -
+/tm3sab.php 1 -
+/secure/ 1 -
+/siteadmin.asp 1 -
+/Server.asp 1 -
+//wp-content/plugins/disqus-comment-system/tmp/user.php 1 -
+//templates/beez/ssl.php 1 -
+/0day.php 2 -
+/SecCrewz.php 1 -
+/slides/IMG_6701.jpg 2 -
+/W0lf337.php 1 -
+/supervise/Loginasp 1 -
+/relogin.htm 1 -
+/HCR.php 1 -
+/S2T2OC.php 1 -
+/admin/login.asp 1 -
+/suki.php 1 -
+/a.php 5 -
+/login_outphp 1 -
+/wp-content/plugins/akismet/k.php 1 -
+/slides/PATOTSAV-201800015.jpg 2 -
+/c.php 5 -
+//blog/wp-admin/install.php 1 -
+/logoutasp 1 -
+//templates/beez//error 1 -
+/wp-content/plugins/akismet/wp.zip 1 -
+/cl.php 1 -
+//templates/beez/g.php 1 -
+/cyber.php 3 -
+/cloud.php 1 -
+/phppgadmin/ 1 -
+/globes_admin/ 1 -
+/sa.php 4 -
+/yonetici.php 2 -
+/login_outasp 1 -
+/Temple.html 5 -
+/images/Sym.php 2 -
+/staradmin/ 1 -
+/joomla/administrator/index.php 2 -
+/tmp/d0maine.php 2 -
+//templates/beez/tmp/index.php 1 -
+/manager.asp 1 -
+//wp-content/plugins/disqus-comment-system/g.php 1 -
+/x1x.php 1 -
+/suck.php 1 -
+/authuser.php 1 -
+/mode.php 1 -
+/7.php 3 -
+/slides/PATOTSAV-201800021.jpg 1 -
+/noname_sym/root/home/root/public_html 2 http://dholeradham.com/admin/photo/has.php
+//wp-content/plugins/disqus-comment-system/tmp/2.php 1 -
+/relogin.html 1 -
+/f.php 3 -
+/slides/IMG_6718.jpg 2 -
+/egy.php 2 -
+/sd.php 1 -
+/control.asp 1 -
+//templates/beez//home.rar 1 -
+/administer/ 1 -
+//templates/beez//forum.rar 1 -
+//amad.php 2 -
+/bbadmin/ 1 -
+//templates/beez//dz.php 1 -
+/apple-touch-icon-precomposed.png 51 -
+/webadmin.html 2 -
+/memlogin/ 1 -
+/wp-content/plugins/google-sitemap-generator/sitemap-core.php 2 -
+/gzuz.php 1 -
+/admin_area/login.php 1 -
+/za.php 1 -
+//forum.zip 2 -
+/tmp/Sym.php 1 -
+/payload.php 1 -
+/xcontact182.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/sql.php 1 -
+/ai.php 1 -
+/Bg9H47.php 1 -
+/newsadmin/ 1 -
+/support_login/ 2 -
+/wp-content/plugins/akismet/up.php 2 -
+/pro.php 1 -
+/admin/images/cal_date_over.gif 1 -
+/s.php 4 -
+/webs.php 1 -
+/wp-content/plugins/akismet/king.jeen 1 -
+/0fat.php 1 -
+/ac.php 1 -
+/media/media.php 1 -
+/Jocker.php 1 -
+/dm2.php 1 -
+/customer_login/ 1 -
+/a1.php 1 -
+/log-in/ 1 -
+/libraries/sfn.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/changeall.php 1 -
+//wp-content/plugins/disqus-comment-system/configuration.php 1 -
+/w2.php 1 -
+//templates/beez/mysql.php 1 -
+/admin.php 1 -
+//templates/beez/admin1/ 1 -
+//wp-content/plugins/disqus-comment-system/cp.php 1 -
+/tmp/whmcs.php 2 -
+/slides/PATOTSAV-201800014.jpg 3 https://www.google.com/
+/content-post.php 1 -
+/shell.php 6 -
+/kju.php 1 -
+/pvd.php 1 -
+/sql.php 3 -
+/wp13.php 1 -
+/wp-content/plugins/akismet/123.php 1 -
+/wp-content/plugins/google-sitemap-generator/tmp/admin.php 1 -
+/wp-content/plugins/google-sitemap-generator//cpanel 1 -
+/signin.php 1 -
+/wp-content/plugins/akismet/sado.php 1 -
+/wp-content/plugins/akismet/sysadmins/ 1 -
+/admin.html 1 -
+/az.php 1 -
+/wp-content/plugins/akismet/tmp/killer.php 2 -
+/wp-content/plugins/akismet/b.php 1 -
+/wp-content/plugins/akismet/sos.php 1 -
+/slides/PATOTSAV-201800004.jpg 1 -
+/1.php 9 -
+/xx1-2.php 1 -
+/Cgishell.pl 2 -
+/tmp/king.php 1 -
+/csspissa.php 1 -
+//templates/beez/vb.rar 1 -
+/loginsuperphp 1 -
+/letmein/ 1 -
+/fla.php 1 -
+/sahara0.php 1 -
+/super1php 1 -
+/slides/PATOTSAV-201800006.jpg 2 -
+//sa.php 2 -
+/res/dragdrop.js 25 http://dholeradham.com/Bhagavat_Katha.html
+/admin/adminLogin.asp 1 -
+/kontol.php 1 -
+/consystem.php 1 -
+//templates/beez//t00.php 1 -
+/vrr.php 1 -
+/wp-login.php 87 -
+/wp-content/plugins/akismet/ls.php 1 -
+/affiliate.php 1 -
+/templates/ja-helio-farsi/index.php 1 -
+/signin.asp 1 -
+/dom.php 3 -
+/tmp/as.php 1 -
+/vmailadmin/ 1 -
+/hx.php 1 -
+/adm_auth.asp 1 -
+/superphp 1 -
+/super_loginphp 1 -
+/super_loginasp 1 -
+/adminpanel/ 1 -
+/fozi.php 1 -
+//forum.tar 2 -
+/admins.asp 3 -
+/07.php 1 -
+/slides/PATOTSAV-201800017.jpg 3 http://dholeradham.com/Patotsav-2018.html
+/wp-content/plugins/google-sitemap-generator/wp.zip 1 -
+/administrator/index.php 2 -
+/help.php 1 -
+/supermanphp 1 -
+/infodb.php 1 -
+//wp-content/plugins/disqus-comment-system/admin1.php 1 -
+/openvpnadmin/ 1 -
+/auth.asp 1 -
+/admin1.php 3 -
+//wp-content/plugins/disqus-comment-system/tmp/L3b.php 1 -
+/admincontrol.asp 1 -
+/super_indexphp 2 -
+/apple-touch-icon-120x120-precomposed.png 51 -
+//home.rar 2 -
+/tmp/readme.php 2 -
+/xmlrpcc.php 1 -
+/slides/IMG_6705.jpg 2 -
+/slides/PATOTSAV-201800008.jpg 2 -
+/pg.php 3 -
+//gaza.php 2 -
+/iq.php 1 -
+/ads.txt 52 -
+/slides/PATOTSAV-201800023.jpg 2 http://dholeradham.com/Patotsav-2018.html
+/sym403.php 1 -
+//test.txt 2 -
+/useradmin/ 3 -
+/user.asp 1 -
+/bb-admin/admin.asp 1 -
+//templates/beez/tmp/changeall.php 1 -
+/b.php 5 -
+/gaza.php 2 -
+/wp-content/plugins/akismet/dz1.php 1 -
+/wp-content/plugins/disqus-comment-system/disqus.php 1 -
+/fun.php 1 -
+//wp-content/plugins/ubh/up.php 1 -
+/freshrdp.com.php 1 -
+/wp-content/plugins/google-sitemap-generator/asp.aspx 1 -
+/loginsuper/ 1 -
+/accounts.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/root.php 1 -
+/accounts.asp 1 -
+/showlogin/ 1 -
+/wp-content/plugins/akismet//user.txt 1 -
+//templates/beez//forum.tar.gz 1 -
+/server_admin_small/ 1 -
+/pw.php 1 -
+/config.php 2 -
+//templates/beez/index.php 2 -
+/lol.php 1 -
+//templates/beez//forum.tar 1 -
+/v4team.php 2 -
+/administrator.php 1 -
+/offline.php 2 -
+//templates/beez//ftp.txt 1 -
+/madspot.php 2 -
+/slides/IMG_6706.jpg 2 -
+/slides/PATOTSAV-201800012.jpg 1 -
+/wp-content/plugins/akismet/sniper.php 1 -
+/ur-admin.php 1 -
+/adminpanel.php 1 -
+/wp-content/plugins/akismet/tmp/uploads.php 1 -
+/cadmins/ 1 -
+/noname_sym/root/home/dev/public_html 1 http://dholeradham.com/admin/photo/has.php
+/wp.rar/ 2 -
+/administratoraccounts/ 1 -
+/admin4_account/ 1 -
+//wp-content/plugins/disqus-comment-system/tmp/dz.php 1 -
+//wp-content/plugins/disqus-comment-system/tmp/d.php 1 -
+/r0k.php 2 -
+/admin/controlpanel.php 1 -
+/rxr.php 1 -
+/adminitem/ 1 -
+/Sh3ll.php 2 -
+/administratorlogin.asp 1 -
+/e.php 3 -
+/indexlo.php 1 -
+/wp-content/plugins/akismet/r00t-s3c.php 1 -
+/1998.php 2 -
+/platz_login/ 1 -
+/admin.asp 1 -
+/wp-content/plugins/akismet/admin.php 2 -
+/tmp/dz.php 2 -
+/blog/ 2 -
+/moderator/admin.php 1 -
+/wp-content/plugins/akismet/info.php 1 -
+/smblogin/ 1 -
+/supervise/Loginphp 1 -
+/Daily_Darshan.html 7 -
+/sign_in.php 1 -
+/user/ 1 -
+/zone-h.php 2 -
+/rootdzz.php 1 -
+/indo.php 1 -
+/supermanagerphp 1 -
+/slides/PATOTSAV-201800025.jpg 1 -
+/webmaster.asp 1 -
+/access.php 1 -
+/billing/killer.php 2 -
+/userlogin.php 1 -
+/relogin.php 1 -
+/wp-content/plugins/akismet/admin1/ 1 -
+/logoutphp 1 -
+/r00t-s3c.php 2 -
+/1234.php 1 -
+/whmcs/downloads/dz.php 1 -
+//wp-content/plugins/disqus-comment-system/k.php 1 -
+//templates/beez//cpanel 1 -
+/wp-content/plugins/akismet/tmp/domaine.pl 1 -
+/0OiZAu.php 1 -
+/admin/admin-login.asp 1 -
+/t3.php 1 -
+/control/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 679
+73.102.155.202 272 1794 150911544 20180630082315
+180.254.153.31 156 312 24456103 20180606122341
+65.190.53.203 148 1037 89389007 20180630111925
+108.83.218.42 95 1031 96820260 20180628121148
+64.233.173.11 86 853 105613893 20180626074752
+64.233.173.12 85 845 112934979 20180625040250
+64.233.173.9 77 897 109612917 20180626074752
+73.150.186.74 66 473 58232887 20180630144457
+24.128.131.163 59 595 64379238 20180630162608
+75.119.249.158 56 535 61241449 20180615153725
+69.139.26.24 52 253 18886953 20180630231950
+86.158.223.86 52 674 63365273 20180625121912
+76.8.86.194 47 303 32815369 20180625172011
+64.233.173.60 46 343 30612234 20180629121200
+73.246.50.140 45 394 43951436 20180630111937
+103.206.210.10 45 1303 524645057 20180602082810
+64.233.173.56 45 314 26972514 20180630045601
+108.160.193.2 41 410 22593932 20180630200008
+99.47.127.100 41 219 11455971 20180630225153
+108.251.96.172 38 401 27937033 20180630160655
+103.7.81.187 38 338 52980596 20180612042504
+64.233.173.58 36 313 32555297 20180628143713
+117.247.91.67 34 269 34219804 20180630045431
+83.110.211.63 33 298 24150823 20180613040937
+69.253.90.135 33 327 31117072 20180628100940
+157.32.71.53 3 25 2434645 20180626140536
+83.30.124.96 2 2 13464 20180601113324
+150.107.232.209 10 94 9439254 20180614025506
+105.108.66.4 2 24 1145309 20180604143951
+66.249.88.82 1 73 22429456 20180608035106
+116.75.192.83 2 2 13464 20180602092926
+5.2.123.123 1 20 897243 20180629091522
+157.32.97.216 6 34 7598367 20180608153223
+106.201.80.10 3 49 3034693 20180613093400
+43.250.165.207 8 225 6147300 20180615043634
+105.157.171.94 1 27 2144369 20180607162455
+49.128.164.150 13 103 11289962 20180619045503
+208.98.49.44 2 2 9650 20180627061157
+77.121.112.161 2 2 13464 20180605222237
+146.185.223.112 2 2 13464 20180602121227
+66.249.82.84 1 10 908735 20180608153543
+23.94.77.219 1 1 6809 20180616133120
+106.76.81.253 0 1 150985 
+217.64.113.51 1 1 6732 20180601085058
+137.226.113.27 1 1 6732 20180601210701
+138.201.60.47 1 1 6732 20180605004051
+157.32.44.52 1 1 5558 20180604025109
+27.61.244.228 1 10 527511 20180615072355
+103.240.171.53 3 31 3115377 20180606132912
+106.213.143.32 2 5 469266 20180604054810
+107.72.162.24 3 32 4972419 20180606141553
+49.34.114.10 1 22 9873579 20180608125456
+66.102.7.144 1 83 10805803 20180601033830
+197.250.98.152 3 17 1066851 20180619072823
+103.251.217.22 8 229 7362588 20180621034608
+76.216.17.5 4 53 4123788 20180603104121
+42.107.134.211 1 25 6882615 20180609040555
+197.157.102.128 4 56 5180782 20180623103937
+157.32.22.206 1 102 807833 20180613110212
+49.32.121.18 1 23 9874665 20180608145741
+180.191.135.226 2 2 13464 20180601070236
+43.254.179.151 2 24 1259099 20180630044042
+66.249.82.143 0 6 3587487 
+157.32.17.17 3 13 1749233 20180613054032
+34.219.221.65 1 1 6726 20180613053615
+176.14.227.254 3 11 779999 20180614153011
+66.249.83.85 0 2 164432 
+49.34.66.217 3 31 3115152 20180608025407
+43.250.158.180 4 54 4595495 20180624055949
+13.56.232.243 1 1 6732 20180601040604
+157.32.52.231 1 8 364289 20180626170701
+104.130.124.209 4 4 21752 20180609124014
+157.32.60.249 9 41 795743 20180607161410
+64.233.173.16 0 1 64 
+157.32.72.121 0 15 556256 
+117.222.92.139 11 11 64661 20180601053723
+46.229.161.131 1 1 0 20180628200923
+43.254.179.10 1 3 331251 20180619124625
+93.39.185.77 2 2 13464 20180602165825
+43.241.144.103 4 52 4004926 20180621103614
+1.23.87.226 6 58 4753565 20180614120938
+43.254.179.22 2 15 1130344 20180628110334
+49.34.137.221 1 22 1307882 20180617102406
+66.102.6.120 0 35 3373603 
+168.235.206.137 1 118 69527129 20180616175015
+117.212.135.211 0 1 787702 
+86.91.77.51 2 2 13822 20180630195300
+108.58.24.187 7 204 88791163 20180628211148
+157.32.42.38 31 189 25239576 20180615114849
+49.128.163.153 5 39 3779699 20180611042057
+66.102.7.166 5 132 3615263 20180626074748
+91.134.248.235 1 1 6809 20180625045122
+43.254.179.13 14 79 5859192 20180618044247
+103.251.217.21 4 52 4228236 20180628102349
+42.106.218.61 3 28 2900469 20180628113712
+66.102.6.251 2 36 3145295 20180606001047
+118.136.127.245 1 27 2144369 20180625073644
+49.44.139.231 8 85 7401814 20180625095553
+157.32.23.12 2 10 1635533 20180611054026
+197.184.88.38 2 2 13464 20180604071323
+103.77.127.22 0 1 1196814 
+49.34.87.41 2 2 155620 20180627074301
+157.32.6.239 1 5 289251 20180625170510
+117.198.184.16 4 35 495400 20180620052903
+182.58.239.230 6 48 4537975 20180625094419
+49.44.139.234 9 79 1091211 20180628045431
+49.34.103.37 5 61 5159392 20180629055907
+111.94.15.36 2 2 19390 20180606211331
+128.69.202.83 1 29 2988562 20180602133859
+103.60.211.113 3 32 4896207 20180626130620
+172.194.77.84 2 2 13464 20180604013809
+167.99.208.182 2 2 0 20180622151035
+157.32.54.208 8 10 1320334 20180616175240
+157.32.49.195 1 8 7227428 20180627035001
+202.91.75.22 5 34 3341706 20180630113806
+157.32.90.197 10 38 2728719 20180607130507
+61.151.225.179 1 1 9 20180607094233
+43.229.202.156 2 2 13618 20180616032806
+66.249.88.32 2 45 3730932 20180629142505
+103.251.215.225 8 86 7028650 20180605101625
+117.222.91.153 2 7 486044 20180623054112
+41.235.55.176 2 2 10631 20180627104703
+61.151.226.110 0 1 180324 
+64.233.173.31 0 1 15590 
+161.69.123.10 4 52 4273341 20180624114558
+66.102.7.191 1 85 7027533 20180621064756
+197.250.99.244 8 70 3553348 20180621083937
+157.32.37.113 0 1 191940 
+49.34.88.111 2 6 1460303 20180607101811
+2.228.59.82 1 4 732252 20180627041012
+219.91.236.9 4 32 3115386 20180606141223
+103.234.162.220 9 89 5601128 20180629081757
+157.32.58.49 1 1 6700 20180606050526
+106.66.38.15 1 1 6885 20180625061617
+197.250.225.166 4 53 4167254 20180630102533
+43.254.179.8 2 41 679245 20180626050655
+49.34.126.209 5 109 55700007 20180616175233
+117.222.88.167 2 7 596130 20180622051850
+207.229.136.199 1 21 1447724 20180628001132
+103.251.217.148 6 56 4459096 20180606100846
+159.203.81.93 2 2 14813 20180626111219
+43.250.165.83 2 34 7564533 20180609044246
+103.249.233.103 0 1 271751 
+59.95.232.112 9 261 16260850 20180609094950
+103.77.127.32 7 84 7200331 20180621112348
+36.68.177.12 25 53 1969435 20180621180514
+139.5.23.35 13 100 7090328 20180625144923
+27.61.166.43 1 22 982760 20180614140346
+49.34.176.203 5 30 2674031 20180630043742
+66.102.7.164 4 125 2480471 20180629175121
+117.228.80.153 4 54 5017024 20180628132556
+168.235.195.46 1 21 970795 20180622044840
+24.135.41.179 3 3 20427 20180627113054
+42.106.15.139 3 28 2602771 20180627042506
+72.19.61.222 10 90 2181016 20180605170522
+49.34.121.76 2 38 2244742 20180629122735
+27.61.162.164 2 2 155620 20180625024028
+157.32.81.61 1 1 6875 20180617041436
+157.32.52.64 26 239 90331961 20180616093603
+157.32.115.225 5 11 60468 20180607161430
+150.107.27.207 3 29 3143366 20180604080445
+66.102.7.140 0 83 8546112 
+66.102.7.29 0 1 64 
+14.142.16.105 0 5 2243732 
+66.102.7.142 1 77 9381777 20180601033831
+49.34.173.220 1 1 6851 20180619050031
+49.34.170.149 1 22 1132460 20180623125715
+174.119.241.25 2 23 1959500 20180606223854
+139.5.23.40 4 62 15963616 20180609085017
+24.140.239.18 2 46 3306185 20180619184935
+66.249.82.141 1 10 2759115 20180608153653
+117.204.241.147 3 28 2853331 20180623044014
+37.110.129.81 1 19 658936 20180628035231
+106.76.66.161 0 1 225512 
+31.6.56.119 1 27 2144369 20180616150506
+43.254.179.16 1 3 488276 20180627053219
+157.32.81.143 1 21 985269 20180616061230
+150.107.27.234 3 48 2994681 20180605080755
+49.34.65.42 0 1 191940 
+66.102.6.64 7 116 16180196 20180615055517
+61.151.218.119 0 1 254807 
+207.244.89.114 5 59 5183806 20180627090921
+14.11.202.64 1 1 6726 20180613164852
+70.53.96.141 2 2 13464 20180604182227
+49.34.127.98 5 59 451395 20180605090743
+73.248.10.11 1 23 1767656 20180625095149
+157.32.88.21 4 32 2908204 20180627050751
+107.167.113.9 2 33 2190411 20180602120728
+66.249.88.78 3 68 15739317 20180608035025
+182.70.64.55 3 28 11901180 20180608103420
+117.198.181.49 2 7 495085 20180627054114
+157.32.122.156 1 1 6851 20180616034048
+181.215.39.55 1 1 6809 20180618013430
+157.32.55.178 11 16 959706 20180607130412
+66.102.7.160 5 66 6390312 20180630002515
+49.34.125.127 0 1 787702 
+66.102.6.247 3 49 4068641 20180622085342
+66.102.6.68 9 115 15718883 20180622160646
+49.34.174.247 1 4 498536 20180603101723
+157.32.100.57 1 1 6875 20180611031014
+106.213.208.237 3 31 3115152 20180611021115
+103.60.176.170 1 21 985269 20180616140204
+42.106.250.13 3 19 1166125 20180628113705
+2.50.11.142 24 218 20556697 20180627042315
+103.234.162.227 5 51 2706053 20180617041615
+117.198.186.135 12 44 3366695 20180626055557
+168.235.198.122 3 70 14984767 20180610170113
+197.250.97.209 6 47 1879922 20180616080931
+66.249.88.80 5 64 14326632 20180629142521
+157.32.36.90 1 6 570747 20180630170144
+43.242.116.53 4 54 4434668 20180610061648
+64.62.252.164 1 1 6809 20180621165340
+103.251.215.10 4 56 9997767 20180609104042
+157.32.10.213 1 7 431614 20180604155007
+49.44.139.230 14 94 17489635 20180617041447
+157.32.40.25 0 6 487531 
+104.128.136.54 6 28 2269536 20180627064254
+122.170.18.1 0 1 787702 
+37.59.178.104 2 2 13618 20180627151224
+173.252.115.167 1 1 9695 20180606114947
+157.32.75.223 30 233 133723661 20180616093542
+86.162.75.66 16 153 12537776 20180603225503
+49.32.185.128 1 14 854540 20180625094023
+157.32.91.199 3 3 21242 20180624063458
+120.89.76.207 2 2 13618 20180620060616
+157.32.19.219 1 1 3853 20180608044047
+36.84.226.29 30 120 1501869 20180609074315
+42.106.16.64 0 5 613184 
+43.250.165.82 8 105 8245574 20180613102004
+43.250.165.190 3 4 1864011 20180607045114
+221.237.23.16 1 1 6809 20180622134907
+103.217.86.148 0 2 2136753 
+49.44.139.233 2 46 4706556 20180628120715
+66.249.82.222 2 8 901995 20180608153546
+158.69.228.14 10 308 101816604 20180602185036
+121.147.42.186 6 14 4214809 20180619151441
+103.250.162.175 0 2 936020 
+66.102.6.212 3 46 3793857 20180630213836
+101.226.113.56 1 6 445501 20180616175326
+76.1.139.48 13 117 11006441 20180630132953
+66.102.8.156 0 11 1705038 
+103.250.163.60 0 1 310876 
+139.5.23.139 4 53 4229322 20180628050441
+197.250.228.12 4 24 2688270 20180626082331
+52.53.201.78 5 5 34147 20180630224546
+49.34.77.240 3 25 1858969 20180606114838
+75.64.62.1 2 2 13618 20180615145826
+27.61.231.55 2 2 155620 20180627072209
+159.65.24.22 1 1 6732 20180601093606
+157.32.26.31 3 3 21786 20180603130521
+50.243.89.238 0 3 516091 
+54.214.138.162 1 1 6809 20180629105218
+50.99.160.144 10 102 5966346 20180626165604
+95.181.179.218 1 1 6726 20180613082206
+167.99.75.29 2 2 19390 20180606144902
+203.192.214.237 1 1 6809 20180623053101
+103.234.162.231 14 99 8108263 20180628041234
+49.36.1.238 2 23 2679746 20180606083313
+101.226.227.171 1 1 9 20180607094203
+43.254.179.144 2 33 1767771 20180627124312
+157.32.1.68 1 1 5711 20180624014601
+49.128.164.182 4 35 643724 20180622062657
+157.32.17.247 1 1 6700 20180602033459
+88.99.63.132 1 1 6809 20180624081429
+12.110.103.194 4 51 3775027 20180601145145
+49.34.108.32 7 65 5889710 20180622091614
+49.33.78.185 1 1 6885 20180614114335
+86.26.63.178 11 178 31607579 20180626063850
+101.226.233.156 0 1 171487 
+106.77.143.139 2 5 969862 20180605072149
+46.229.170.197 2 2 13541 20180615125304
+59.93.159.243 1 1 6732 20180606113905
+168.235.198.37 2 51 4220451 20180617131050
+43.242.116.170 4 52 4253048 20180625115314
+157.32.106.198 1 20 1035370 20180625170501
+103.55.184.7 1 46 464821 20180628100353
+103.24.22.219 1 1 6911 20180630131750
+174.54.125.214 10 154 38800438 20180623193623
+103.216.212.73 2 2 13452 20180614041340
+123.201.57.82 4 53 4106051 20180610090559
+125.162.97.181 2 2 19300 20180630061113
+174.218.3.215 1 18 2175133 20180616180655
+202.160.168.51 6 225 4992437 20180601173103
+103.249.233.227 1 17 1414666 20180604043709
+42.106.2.43 0 1 787702 
+74.50.56.117 1 1 9650 20180627062943
+8.37.230.237 1 22 1109306 20180624062654
+223.229.236.40 1 5 678423 20180606085408
+99.254.69.170 4 53 6343931 20180616010421
+202.134.59.72 1 1 6809 20180627071949
+49.34.149.67 1 1 6851 20180622035415
+43.250.158.55 13 135 10677502 20180601103823
+157.32.35.170 4 12 2966126 20180617082309
+117.218.171.173 2 43 2803207 20180602101859
+174.49.87.151 5 35 3514387 20180625190332
+61.3.26.79 2 2 13464 20180606120321
+54.215.254.26 4 4 26916 20180611115852
+112.205.112.52 4 56 4289281 20180629085304
+85.93.20.58 6 6 131825 20180601202012
+45.125.151.158 2 2 13902 20180607030426
+49.34.166.148 3 11 538247 20180614034815
+46.118.115.22 2 2 13464 20180601182151
+218.241.108.76 2 2 13618 20180620152429
+157.32.114.116 7 8 156233 20180616174730
+117.222.90.246 6 49 1148292 20180621053438
+75.118.228.198 8 103 8160726 20180630120420
+66.102.7.50 0 25 8903247 
+203.187.238.133 5 50 5979440 20180602033640
+188.222.251.53 2 2 13452 20180614165318
+104.247.228.58 19 207 15499281 20180630184058
+122.174.236.12 2 2 13618 20180622221809
+42.106.0.116 3 31 3144401 20180607041124
+197.250.224.204 2 12 1053787 20180611100153
+80.93.187.145 2 2 13618 20180624083742
+101.226.102.237 1 6 492160 20180609040725
+2.92.115.102 3 7 371109 20180615031922
+43.241.145.191 4 58 5183534 20180626111217
+159.203.196.79 1 1 7262 20180602041523
+49.34.182.243 2 2 13702 20180621041158
+103.206.138.145 30 486 111122760 20180607140051
+78.61.20.208 2 2 13452 20180614170048
+197.237.130.85 2 23 1473413 20180614043745
+66.249.93.88 1 1 6809 20180622140902
+64.233.173.22 0 1 95562 
+103.250.145.179 7 106 8976800 20180614111727
+157.32.104.126 0 2 7135199 
+103.238.106.186 3 31 3039165 20180626185250
+66.249.88.36 4 40 3529608 20180629142506
+80.189.236.135 2 2 13464 20180602175416
+150.107.27.243 2 6 542655 20180628090958
+70.49.198.67 3 31 3115152 20180613140224
+43.252.100.28 2 2 13452 20180609105251
+117.198.185.25 8 42 710883 20180606051928
+106.213.174.207 2 2 13770 20180621070522
+146.198.95.238 8 79 6842635 20180620061436
+157.32.106.115 2 2 83892 20180617031351
+82.240.30.231 1 1 6809 20180623125156
+200.72.134.70 2 2 13822 20180630151102
+98.216.134.179 5 33 20178 20180611210804
+61.85.129.79 2 2 13452 20180609152137
+64.233.173.48 5 19 679455 20180621135621
+157.32.33.255 4 86 19221431 20180608095549
+43.250.165.147 3 27 2514575 20180630043619
+101.226.79.234 1 6 479585 20180616175047
+43.250.165.14 8 109 11194516 20180611104055
+49.32.100.36 5 54 4305677 20180604165311
+64.62.252.163 1 1 6809 20180615225827
+193.106.30.99 1 1 6809 20180625082709
+223.196.4.5 1 23 989813 20180610082057
+117.198.176.15 4 53 469266 20180604052343
+157.32.98.63 1 20 1591476 20180611070440
+103.197.138.238 4 32 3039436 20180621064441
+49.34.179.137 2 3 6771677 20180610170121
+49.34.186.244 18 22 1118624 20180607052643
+157.32.107.137 1 1 6700 20180604032554
+66.102.7.30 0 2 159366 
+106.66.44.164 0 1 163970 
+208.105.225.227 5 79 3630257 20180615211559
+173.252.124.80 1 1 9695 20180606114948
+49.34.10.184 2 16 3325856 20180619131856
+134.119.187.211 2 2 10959 20180619142315
+66.249.83.86 0 4 13649 
+157.32.86.114 0 6 1637391 
+27.97.86.35 4 25 1185928 20180610082459
+125.19.27.42 3 31 3241108 20180611071524
+157.32.89.12 1 1 6851 20180628154734
+103.206.138.219 4 55 4758289 20180628051011
+43.254.179.253 2 12 1353916 20180620055304
+129.208.237.154 16 60 3807933 20180627074442
+106.77.111.142 4 53 4266919 20180603155853
+167.88.24.58 16 189 12799070 20180623171622
+157.32.120.224 1 1 6875 20180608045123
+8.37.230.18 2 56 5056938 20180616100302
+36.84.226.9 4 26 33292 20180607035949
+203.133.169.158 2 5 355140 20180625112057
+66.102.8.154 0 6 27538 
+157.185.131.59 2 51 4147747 20180611145153
+82.43.223.143 3 32 7795964 20180627155840
+66.102.7.48 0 27 10859916 
+117.198.181.170 2 6 480587 20180630050826
+43.242.116.164 9 110 9810841 20180603120545
+103.240.79.204 3 31 3068189 20180627170123
+163.172.4.153 6 6 40534 20180623121920
+72.194.74.245 6 66 6459366 20180630173338
+42.106.25.100 6 52 6876723 20180621153726
+197.250.227.6 2 9 2020605 20180617081116
+157.32.48.253 1 11 6615645 20180608123638
+49.34.138.154 4 39 4203916 20180617125006
+49.34.83.123 2 79 42230412 20180617031839
+42.106.42.226 2 2 155620 20180602162011
+185.3.147.135 2 2 13902 20180606195740
+43.254.179.31 3 32 1501053 20180628053400
+142.116.25.16 3 32 4896207 20180625033503
+157.32.125.124 1 2 13867 20180618154058
+43.243.38.68 0 1 13275 
+117.229.111.14 3 31 2858457 20180628122232
+174.112.186.94 3 31 3115158 20180603144527
+43.250.158.250 4 54 4320645 20180622110439
+42.108.198.176 2 2 155620 20180626161156
+97.92.249.199 2 2 13618 20180622015506
+86.158.77.155 2 6 488547 20180629133214
+47.199.199.41 4 52 4053458 20180616140855
+49.34.150.222 2 2 14934 20180612040245
+66.102.6.124 7 36 3009946 20180627102407
+45.122.125.19 2 4 250827 20180629052026
+86.128.127.181 10 119 2155306 20180628122526
+106.38.61.203 1 1 6809 20180622215135
+66.102.6.249 2 50 6302366 20180608035020
+111.202.101.79 0 20 716796 
+157.32.110.24 4 17 3292684 20180620074834
+157.32.42.34 1 1 6827 20180629041509
+36.65.116.240 2 2 19300 20180627110701
+66.249.82.220 0 7 5252305 
+150.107.27.212 3 27 3093430 20180620083306
+27.4.96.182 4 53 4123330 20180613140607
+70.50.85.140 1 22 1123677 20180605102846
+49.44.139.235 16 115 7990518 20180619050104
+203.80.171.232 2 2 13618 20180627024551
+159.89.127.48 2 2 0 20180620113111
+66.249.82.142 1 5 3896056 20180608153546
+66.102.7.46 0 20 7853546 
+157.32.108.216 3 14 4866378 20180608095500
+188.11.247.33 2 2 13464 20180601002400
+117.211.128.10 3 61 10727362 20180625022733
+197.250.97.97 13 113 6868387 20180606082705
+103.77.127.42 0 1 156240 
+66.102.6.66 9 126 17742433 20180621104534
+188.221.144.185 8 53 5405705 20180606211252
+64.62.252.169 1 1 6726 20180608085128
+49.34.134.107 6 63 8087358 20180601090548
+182.74.176.38 3 31 7870575 20180612040952
+168.235.206.157 1 45 23586467 20180616200502
+66.220.151.208 2 2 19390 20180606115010
+66.249.82.221 2 7 2958287 20180608153550
+117.198.187.29 2 25 839218 20180625045753
+65.78.73.71 3 31 3115152 20180608183647
+125.162.98.71 24 50 1047625 20180627061336
+73.80.47.29 13 325 7305758 20180618030613
+64.233.173.23 0 1 0 
+43.241.144.1 7 83 7063599 20180616103349
+168.235.205.36 2 87 12625289 20180602162031
+117.228.92.15 4 55 11402118 20180603085811
+106.120.160.109 1 1 6726 20180612020443
+157.32.3.199 0 1 1857042 
+49.34.76.158 2 2 18 20180607002658
+157.32.54.97 2 30 3170126 20180627050526
+106.66.33.43 0 1 163446 
+212.83.163.210 1 1 6726 20180609202917
+43.242.116.74 6 55 4265556 20180626105653
+157.32.92.251 0 11 3257934 
+86.158.223.28 12 115 11876766 20180627225024
+197.250.224.215 4 50 1780624 20180614074226
+43.241.144.237 4 52 4004926 20180621154355
+43.254.179.26 2 8 1016739 20180625043442
+85.194.5.160 2 2 13902 20180607112240
+196.75.188.183 2 14 544038 20180630200000
+110.227.255.86 0 1 310876 
+64.233.173.46 5 21 2359537 20180621070458
+61.0.183.227 10 307 11201204 20180630030835
+88.241.92.197 12 137 1666483 20180627104936
+59.101.38.136 6 250 4441871 20180601122343
+157.32.71.171 0 1 237720 
+197.250.227.1 2 9 660629 20180601093916
+49.34.126.155 1 23 1280778 20180623070454
+150.107.27.222 2 3 250827 20180629093706
+38.100.21.63 1 6 186008 20180617085319
+73.88.11.5 4 52 4180981 20180620175938
+76.201.0.13 6 62 6230304 20180614023310
+157.32.44.239 2 6 586054 20180625040231
+64.233.173.18 0 1 155607 
+8.37.233.251 6 110 10849446 20180627174505
+202.67.44.11 1 1 29633 20180607064849
+37.239.152.53 1 1 6809 20180619194423
+104.34.34.5 1 19 658936 20180626210215
+42.107.132.214 1 1 9 20180607094103
+159.89.154.212 1 1 4150 20180619021040
+66.160.140.182 10 10 137337 20180616022523
+106.77.125.127 2 23 1498794 20180621093615
+103.60.211.156 1 21 1141501 20180627103304
+197.250.97.22 6 76 5873080 20180628102512
+74.12.10.107 6 60 5736872 20180619140848
+106.210.138.234 1 22 1237467 20180618073542
+139.5.22.178 4 51 3775174 20180612032005
+89.234.68.90 5 5 33832 20180625183720
+109.65.70.43 2 2 13452 20180607215504
+66.249.82.82 0 4 103050 
+49.34.76.79 0 3 2335753 
+103.37.182.253 3 31 3115152 20180612235943
+13.57.220.0 7 7 47556 20180620094442
+43.254.179.252 2 8 662129 20180618050837
+157.32.81.67 1 1 5558 20180604025247
+98.30.192.223 27 268 20820747 20180628162049
+27.4.104.92 4 51 3775027 20180605001549
+49.34.102.51 0 1 150084 
+158.69.241.223 1 1 6732 20180603014535
+103.249.233.57 4 53 12988731 20180608104505
+66.220.146.23 1 1 9695 20180606122807
+106.77.105.166 0 6 9003572 
+117.198.184.148 2 5 709143 20180602051945
+43.242.123.34 5 54 2737614 20180622070306
+103.77.127.26 3 31 3115152 20180611095833
+116.206.40.49 2 2 19390 20180606122818
+43.254.179.229 1 7 5711 20180625035146
+66.102.6.208 7 50 5078284 20180628084747
+41.250.122.81 6 6 126295 20180627093716
+157.32.125.97 22 82 36533954 20180615113429
+46.99.3.159 1 1 6726 20180611005700
+69.58.178.59 3 3 21314 20180614233942
+138.197.202.197 1 1 6726 20180612040947
+157.32.77.230 2 2 155620 20180617131009
+64.233.173.30 12 89 2864128 20180629121204
+69.251.27.141 7 81 6918117 20180615022054
+43.254.179.158 2 11 959556 20180623045831
+157.32.97.35 4 100 1238427 20180613111143
+66.102.8.152 0 3 230962 
+116.50.85.119 4 33 4903679 20180618054707
+199.182.115.24 2 2 10959 20180620190505
+157.32.93.191 1 1 6851 20180628045413
+197.250.225.130 4 15 9664077 20180608084927
+120.16.183.49 9 104 7853381 20180626040942
+80.1.116.166 3 31 3115152 20180610211313
+167.114.159.186 4 4 77007 20180627095559
+103.251.59.147 2 29 2682553 20180616035028
+157.32.73.26 1 1 6628 20180603043640
+182.70.4.212 3 9 467515 20180626132901
+66.249.88.34 4 39 4093235 20180629142502
+158.69.26.193 13 13 161370 20180615131420
+66.249.82.86 0 6 248802 
+150.129.206.119 5 54 4740151 20180614045810
+157.32.30.187 1 1 6851 20180615044348
+59.93.207.230 4 52 795387 20180619053827
+106.77.105.197 2 6 1109999 20180624075227
+49.33.73.21 4 24 20285822 20180608153308
+64.233.173.1 0 2 12663 
+36.72.179.178 0 1 155571 
+101.227.143.143 0 1 156683 
+219.91.239.209 4 55 6029753 20180623122820
+66.102.7.168 3 125 3240065 20180629175032
+182.70.16.145 3 25 2686390 20180601091143
+43.250.165.99 4 52 4023641 20180619104135
+137.226.113.28 2 2 13683 20180606192326
+27.4.96.2 2 14 1309112 20180622235739
+193.90.12.118 1 1 6809 20180628014935
+66.249.93.90 1 1 6809 20180628122332
+64.233.173.3 1 1 6885 20180615062539
+103.60.208.163 3 33 10595161 20180629102323
+157.32.81.130 0 13 2152775 
+104.247.246.36 2 49 3646815 20180616180859
+103.251.217.63 4 53 4470794 20180602110407
+117.204.159.127 5 64 5139041 20180614050822
+49.34.86.75 1 1 6899 20180609024201
+202.174.176.158 4 51 3699187 20180630032819
+81.106.42.55 8 110 11545038 20180628163525
+73.165.19.127 6 102 27036102 20180610042225
+185.234.217.32 3 3 20178 20180610031048
+101.226.79.239 0 1 170324 
+64.233.173.50 2 20 1032175 20180621070953
+103.251.217.208 4 54 4262165 20180612045434
+223.229.229.124 5 67 12383342 20180609053947
+66.160.140.183 1 1 6732 20180605075120
+64.233.173.28 14 124 4516904 20180630161330
+112.215.245.64 2 2 19390 20180607030507
+176.88.60.240 2 2 13464 20180605154802
+128.68.16.56 0 2 64 
+159.203.42.143 1 1 60700 20180612040951
+117.229.46.217 0 4 2355536 
+202.67.44.9 3 3 48760 20180606201928
+95.179.128.185 4 4 27804 20180606221334
+43.241.144.194 8 37 4979406 20180607104239
+66.102.8.144 0 20 1927432 
+198.254.81.231 1 9 527530 20180627214748
+36.84.228.160 2 2 19390 20180606130432
+157.32.127.165 1 7 1694920 20180613054030
+103.207.47.98 6 55 12178006 20180626121207
+107.199.90.137 1 23 1622892 20180627130646
+100.35.17.111 7 63 20184 20180613021531
+157.32.72.138 0 2 95839 
+182.70.47.22 4 27 2679974 20180607100402
+106.79.216.174 2 15 3327831 20180623082624
+49.34.92.227 7 7 22618 20180607134530
+49.33.96.121 2 42 3727096 20180630152516
+12.11.109.225 4 6 1881622 20180606013423
+45.72.246.218 9 105 7854543 20180625183053
+168.235.198.212 3 221 6409063 20180627074507
+174.92.2.165 22 270 25592126 20180630132917
+185.229.190.173 4 4 27236 20180627144840
+106.213.251.107 4 55 4658599 20180609024508
+49.44.139.229 17 145 19549040 20180615131319
+49.33.61.218 3 3 21829 20180614114404
+173.252.124.212 1 1 9695 20180606114948
+66.102.6.122 0 27 2692192 
+117.198.177.188 4 30 542655 20180628053739
+49.128.163.246 2 4 495085 20180627063311
+49.34.129.193 1 1 6676 20180605030032
+98.253.238.84 3 32 4972194 20180608195512
+8.37.234.91 1 29 2912569 20180625024024
+113.193.196.97 3 31 3115158 20180604051626
+117.228.98.69 3 31 2990807 20180616071639
+24.150.128.23 20 227 23877169 20180626123906
+49.44.139.228 6 53 4231720 20180610024024
+49.34.166.215 1 5 336588 20180610100527
+106.76.84.98 0 1 170324 
+42.106.20.21 0 1 191940 
+157.32.3.138 4 25 14988673 20180617031425
+49.34.19.81 4 54 4310577 20180621104519
+197.237.249.227 5 94 13907532 20180625170838
+41.212.110.21 1 25 17480598 20180608165400
+1.23.86.37 3 5 20496 20180614174125
+101.226.79.238 0 1 254807 
+197.250.224.95 4 30 1710497 20180622065449
+117.204.240.82 2 23 978766 20180622035706
+182.75.142.138 1 21 1158205 20180611073349
+157.32.47.118 1 1 6700 20180603043712
+49.36.1.125 2 2 13452 20180613040412
+66.249.83.84 0 4 333297 
+180.246.254.32 2 2 19390 20180607070210
+43.254.179.171 3 29 1285182 20180621052654
+103.251.217.74 4 52 4180981 20180620105806
+157.32.91.194 4 14 9242121 20180617082418
+42.108.193.245 0 15 310781 
+180.169.191.142 1 1 6726 20180614151304
+94.0.199.69 1 22 1132460 20180623104430
+66.102.7.190 0 72 10168001 
+43.254.179.74 3 15 1335766 20180622052226
+42.106.4.74 1 7 527672 20180607020323
+178.222.214.12 2 2 13464 20180604101906
+66.102.8.142 0 22 3667702 
+66.102.6.210 1 42 5598355 20180623084906
+140.207.118.16 1 6 479585 20180617031941
+49.32.69.170 4 53 4470794 20180602151538
+103.249.234.203 4 54 4434668 20180610115952
+42.106.44.163 3 3 20655 20180622044930
+103.249.234.128 4 55 4770289 20180617112624
+66.102.8.146 2 20 1244970 20180623084744
+117.198.191.79 2 5 321667 20180605051430
+49.34.95.252 3 31 3115152 20180607172803
+157.32.124.48 2 28 12384006 20180625040243
+168.235.205.225 3 60 4196601 20180626161243
+49.34.100.84 1 1 6851 20180625040312
+5.62.56.71 4 20 645197 20180627075158
+2.89.201.94 2 2 13452 20180609220506
+24.184.233.180 4 54 4431026 20180611141757
+42.108.211.245 1 7 832121 20180620052057
+27.63.58.28 2 23 989645 20180614120445
+14.139.122.82 7 288 8349065 20180627085104
+66.102.7.192 0 1 271751 
+151.226.218.154 0 1 310876 
+49.34.68.127 2 2 13726 20180624025924
+157.32.114.88 1 1 6851 20180610033037
+42.108.205.181 2 2 155620 20180616100251
+43.254.179.50 1 20 995559 20180613060712
+106.213.198.222 2 2 155620 20180611145146
+79.111.110.80 3 11 779999 20180614021728
+137.226.113.26 1 1 6732 20180605142614
+157.32.107.24 2 2 83892 20180616133329
+54.178.46.76 1 1 6732 20180604031507
+157.32.13.64 2 12 2191418 20180611070440
+103.251.215.158 3 31 3115152 20180610141648
+49.213.44.4 3 104 31108850 20180630121046
+64.246.165.210 1 1 6726 20180614153931
+174.218.139.93 3 21 888769 20180622183403
+195.81.115.45 1 19 387185 20180626042728
+42.106.29.20 1 22 1132460 20180623062454
+103.249.233.252 4 40 3219887 20180627113233
+64.233.173.29 11 104 8623501 20180630161325
+206.180.165.147 1 1 6726 20180608075014
+103.250.145.14 7 84 7210790 20180623102429
+106.76.88.223 5 54 4104638 20180614093120
+157.32.14.45 2 27 13170201 20180608153112
+49.34.133.0 1 1 6875 20180618040504
+199.223.236.92 3 31 3039165 20180617150749
+106.76.84.51 0 1 155517 
+128.199.254.26 2 27 2143510 20180608095243
+180.253.140.74 1 1 9695 20180606201523
+49.34.126.211 4 53 6110090 20180625090454
+43.254.179.175 8 46 3354112 20180619042921
+157.32.45.227 0 11 3828005 
+157.32.85.25 6 66 27901574 20180617012310
+134.19.181.29 4 4 38600 20180627062957
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 182 1868 155789064 57
+20180602 162 2562 700907454 48
+20180603 85 749 77600594 28
+20180604 108 1143 65291070 44
+20180605 98 912 55676337 40
+20180606 294 1327 123197874 56
+20180607 249 1486 208367237 64
+20180608 113 1141 382223261 54
+20180609 146 1461 204085186 49
+20180610 103 1230 294184993 40
+20180611 121 1238 109301828 51
+20180612 44 441 43704941 18
+20180613 93 1020 58737409 37
+20180614 144 1272 98946979 50
+20180615 169 1335 129509673 44
+20180616 178 1857 500912898 55
+20180617 98 1029 150051403 36
+20180618 49 435 34213295 22
+20180619 97 649 53277869 29
+20180620 106 874 66905453 45
+20180621 144 1260 99458025 39
+20180622 128 1075 107410031 50
+20180623 78 855 68363237 39
+20180624 96 1087 82885309 40
+20180625 155 1598 173395414 60
+20180626 201 1550 101559222 46
+20180627 216 1945 122419839 68
+20180628 165 1816 190435223 53
+20180629 91 782 73684039 37
+20180630 113 1259 139068374 43
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+30s-2mn 136
+0s-30s 1042
+2mn-5mn 50
+30mn-1h 36
+5mn-15mn 42
+15mn-30mn 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 38
+/admin/daily.php 1148 7243654 261 680
+/ 1081 7289244 811 282
+/fonts/Georgia.woff2 410 25369960 28 80
+/fonts/Georgia-Bold.woff2 395 22216200 39 54
+/admin/photo/has.php 136 8448833 2 2
+/admin/cgallery.php 135 3906106 26 34
+/admin/login.php 107 375467 49 38
+/admin/home.php 90 604446 52 46
+/fonts/Georgia-Bold.woff 86 6429360 9 17
+/fonts/Georgia.woff 86 6953960 3 13
+/errors/ResellerHosting.php 63 815502 6 23
+/admin/Gallery.php 57 415186 15 16
+/PhantomGhost.php 45 436275 15 14
+/Gallery.php 25 524025 4 10
+/fonts/Georgia-Bold.eot 24 2794086 1 4
+/contact.php 24 99600 4 11
+/fonts/Georgia.eot 22 2752470 2 2
+/images/pdffile/123sdawSAwq12.php 20 435062 0 1
+/PG.php 20 183414 7 4
+/Patotsav-2018.html 12 111600 5 7
+/fonts/glyphicons-halflings-regular.eot 4 60381 0 0
+/index.php 4 27360 0 0
+/admin/photo/Zlack.html 4 38780 0 0
+/fonts/Georgia-Bold.ttf 4 485248 0 0
+/Bhagavat_Katha.html 3 15201 0 2
+/PhantomGhost 1 9695 0 0
+/dailydarshan.html 3 51525 2 0
+/admin/photo/ 2 19390 0 0
+/khatvidhi.html 1 8083 0 0
+/cpanel/ 1 33919 0 0
+/admin/css/bootstrap.css.map 1 389287 0 0
+/admin/css/bootstrap-theme.css.map 1 47706 0 1
+//cpanel 3 101682 0 1
+/controlpanel/ 1 33919 0 0
+/fonts/Georgia.ttf 3 392712 0 0
+//error_log 2 17804 0 0
+/cpanel 1 33894 1 0
+/kpanel/ 1 33919 0 0
+END_SIDER

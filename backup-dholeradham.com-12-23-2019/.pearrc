@@ -1,0 +1,2 @@
+#PEAR_Config 0.9
+a:11:{s:10:"__channels";a:2:{s:12:"pecl.php.net";a:0:{}s:5:"__uri";a:0:{}}s:9:"cache_dir";s:32:"/home/dholeradham/tmp/pear/cache";s:7:"doc_dir";s:26:"/home/dholeradham/php/docs";s:8:"test_dir";s:27:"/home/dholeradham/php/tests";s:12:"download_dir";s:32:"/home/dholeradham/tmp/pear/cache";s:8:"data_dir";s:26:"/home/dholeradham/php/data";s:7:"ext_dir";s:25:"/home/dholeradham/php/ext";s:8:"temp_dir";s:26:"/home/dholeradham/tmp/pear";s:7:"php_ini";s:22:"/usr/local/lib/php.ini";s:7:"php_dir";s:21:"/home/dholeradham/php";s:7:"bin_dir";s:21:"/home/dholeradham/bin";}

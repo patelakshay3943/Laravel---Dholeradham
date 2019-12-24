@@ -1,0 +1,13 @@
+proc /proc proc rw,relatime,gid=476,hidepid=2 0 0
+sysfs /sys sysfs rw,relatime 0 0
+devtmpfs /dev devtmpfs rw,relatime,size=32882688k,nr_inodes=8220672,mode=755 0 0
+devpts /dev/pts devpts rw,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /dev/shm tmpfs rw,nosuid,noexec,relatime 0 0
+/dev/sda1 / ext4 rw,noatime,nodiratime,barrier=1,data=ordered,usrquota,grpquota 0 0
+/proc/bus/usb /proc/bus/usb usbfs rw,relatime 0 0
+/dev/sdb1 /home ext4 rw,noatime,nodiratime,barrier=1,data=ordered,usrquota,grpquota 0 0
+/dev/sda3 /tmp ext4 rw,nosuid,noexec,noatime,nodiratime,barrier=1,data=ordered 0 0
+none /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+/dev/sda3 /var/tmp ext4 rw,nosuid,noexec,noatime,nodiratime,relatime,barrier=1,data=ordered 0 0
+/dev/sdc /tmp/SECUPD vfat rw,relatime,fmask=0022,dmask=0022,codepage=cp437,iocharset=ascii,shortname=mixed,errors=remount-ro 0 0
+/dev/sdd /tmp/SECUPD vfat rw,relatime,fmask=0022,dmask=0022,codepage=cp437,iocharset=ascii,shortname=mixed,errors=remount-ro 0 0

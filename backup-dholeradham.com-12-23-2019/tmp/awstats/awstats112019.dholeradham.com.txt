@@ -1,0 +1,311 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201911 will be lost/reset.
+# Last config file used to build this data file was /home/dholeradham/tmp/awstats/awstats.dholeradham.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2697                
+POS_VISITOR 3505                
+POS_DAY 4179                
+POS_DOMAIN 4332                
+POS_LOGIN 4593                
+POS_ROBOT 4748                
+POS_WORMS 5067                
+POS_EMAILSENDER 5198                
+POS_EMAILRECEIVER 5341                
+POS_SESSION 5417                
+POS_SIDER 5590                
+POS_FILETYPES 5989                
+POS_DOWNLOADS 6242                
+POS_OS 6323                
+POS_BROWSER 6492                
+POS_SCREENSIZE 6683                
+POS_UNKNOWNREFERER 6757                
+POS_UNKNOWNREFERERBROWSER 6911                
+POS_ORIGIN 7060                
+POS_SEREFERRALS 7195                
+POS_PAGEREFS 7377                
+POS_SEARCHWORDS 7547                
+POS_KEYWORDS 7699                
+POS_MISC 2361                
+POS_ERRORS 7758                
+POS_CLUSTER 4449                
+POS_SIDER_404 7916                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191201000051 770 182651 4897593503806
+FirstTime 20191130043947
+LastTime 20191130204245
+LastUpdate 20191201050947 770 0 769 0 0
+TotalVisits 14                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 4 32 1724120 0 3 29204
+5 0 0 0 1 3 25172
+6 0 0 0 1 4 24031
+7 0 0 0 1 2 4974
+8 3 31 1722000 1 5 5354
+9 1 3 2646864 4 39 2589193
+10 0 0 0 3 5 8348
+11 0 0 0 2 3 2898
+12 0 1 7730977 2 5 4539
+13 0 0 0 1 16 245013
+14 6 35 1884482 1 6 272
+15 4 48 1925549 1 4 272
+16 41 127 9738866 7 95 229305
+17 53 89 2279311 35 104 328577
+18 8 8 24340 9 18 111498
+19 1 1 2609 1 16 25292
+20 4 34 1903629 1 17 413295
+21 0 0 0 2 6 60433
+22 0 0 0 2 8 184310
+23 0 0 0 1 1 5711
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+49.34.146.30 57 112 2950835 20191130180317
+150.107.119.117 33 65 4622381 20191130173722
+27.61.249.35 9 45 4452234 20191130160342
+103.216.81.96 6 62 3444000 20191130081326
+12.161.6.226 4 32 1722000 20191130142315
+76.200.128.167 4 34 1903629 20191130204245
+27.61.249.1 4 47 1924463 20191130155858
+157.32.217.81 2 2 46 20191130140228
+92.6.225.170 2 2 16106 20191130184458
+64.233.173.26 1 1 2047 20191130165623
+66.160.140.179 1 1 2120 20191130043947
+24.179.116.164 1 1 2609 20191130193224
+64.246.161.30 1 1 2120 20191130091840
+49.34.29.194 0 2 2644744 
+27.61.173.81 0 1 162436 
+103.67.12.238 0 1 7730977 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20191130 125 409 31582747 14
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+in 109 335 27932070
+us 14 72 3634571
+gb 2 2 16106
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bingpreview 31 2512235 20191130093846 0
+bingbot/ 30 90299 20191130225541 0
+no_user_agent 19 39977 20191130230025 0
+Googlebot/ 15 249714 20191130172505 0
+msnbot/ 4 147366 20191130225609 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30s-2mn 2
+1h+ 2
+0s-30s 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/admin/login.php 57 73707 1 2
+/admin/daily.php 30 51722 2 3
+/ 17 51329 10 4
+/fonts/Georgia.woff2 6 395376 0 3
+/fonts/Georgia-Bold.woff2 6 364200 0 0
+/admin/home.php 3 5619 0 0
+/admin/logins.php 2 2750 0 0
+/contact.php 2 3402 0 2
+/cpanel 1 13579 1 0
+/admin/Gallery.php 1 1612 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpeg 16 3429349 0 0
+php 95 138812 0 0
+woff2 12 759576 0 0
+jpg 92 22671245 0 0
+css 59 472113 0 0
+pdf 1 831638 0 0
+png 82 1745144 0 0
+Unknown 1 13579 0 0
+js 34 1469962 0 0
+html 17 51329 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/images/BANDHAKAM.pdf 1 0 831638
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_ipad 1 1
+linux 10 7
+linuxandroid 30 6
+macosx 32 4
+Unknown 3 3
+win7 132 21
+macosx10 1 1
+win10 200 82
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+edge18 17 2
+chrome78.0.3904.108 315 99
+safari13.0.3 32 4
+firefox59.0 1 1
+chrome78.0.3904.62 38 13
+safari10.0 1 1
+firefox40.1 2 2
+Unknown 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+The_Knowledge_AI 20191130043947
+WhatsApp/2.19.291_A 20191130170037
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+The_Knowledge_AI 20191130043947
+WhatsApp/2.19.291_A 20191130170037
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 34
+From1 0 0
+From2 2 5
+From3 5 5
+From4 86 365
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 1 4
+yahoo_catchall 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://vadtal.com 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 2 0
+403 2 59798
+404 183 641693
+206 12 383017
+409 1 83
+301 1 237
+302 35 173272
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/wp-login.php 2 -
+/admin/logins.php 1 -
+/apple-touch-icon-152x152.png 2 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+/Patotsav-2018.html 1 -
+/images/favicon.png 8 http://www.dholeradham.com/
+/admin/photo/wso.php 3 -
+/admin/css-darshan/templatemo-style.css 30 http://dholeradham.com/admin/daily.php
+/admin/js/bootstrap.js 84 -
+/admin/css-darshan/bootstrap.min.css 34 http://dholeradham.com/admin/daily.php
+/robots.txt 11 -
+/apple-touch-icon-precomposed.png 2 -
+/apple-touch-icon.png 2 -
+/admin/login.php 1 http://dholeradham.com/admin/logins.php
+END_SIDER_404

@@ -1,0 +1,358 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/dholeradham/tmp/awstats/ssl/awstats.dholeradham.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2693                
+POS_VISITOR 9083                
+POS_DAY 9875                
+POS_DOMAIN 3365                
+POS_LOGIN 3668                
+POS_ROBOT 3823                
+POS_WORMS 4001                
+POS_EMAILSENDER 4132                
+POS_EMAILRECEIVER 4275                
+POS_SESSION 10167               
+POS_SIDER 10324               
+POS_FILETYPES 4410                
+POS_DOWNLOADS 4579                
+POS_OS 4627                
+POS_BROWSER 4743                
+POS_SCREENSIZE 4962                
+POS_UNKNOWNREFERER 5036                
+POS_UNKNOWNREFERERBROWSER 5500                
+POS_ORIGIN 5616                
+POS_SEREFERRALS 5749                
+POS_PAGEREFS 5912                
+POS_SEARCHWORDS 6060                
+POS_KEYWORDS 6212                
+POS_MISC 2357                
+POS_ERRORS 6271                
+POS_CLUSTER 3524                
+POS_SIDER_404 6400                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101140130 8 1114 9728270015439
+FirstTime 20191001030757
+LastTime 20191013025125
+LastUpdate 20191102052551 1 0 0 0 0
+TotalVisits 26                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 109 115 29710
+1 0 0 0 4 4 29555
+2 1 1 0 0 8 167845
+3 1 1 2681 1 7 125791
+4 2 2 5362 3 11 177169
+5 3 3 24540 8 14 302574
+6 1 1 8180 4 9 218778
+7 1 1 2681 13 16 441022
+8 0 0 0 9 15 220101
+9 1 1 2681 5 9 173155
+10 5 55 3066792 2 10 162602
+11 1 2 15956 4 10 183958
+12 0 0 0 5 9 213915
+13 1 1 8180 5 9 114031
+14 1 1 8180 6 15 332723
+15 0 0 0 3 9 155444
+16 10 10 120053 8 8 231059
+17 0 0 0 3 11 154470
+18 3 3 8180 7 15 371768
+19 0 0 0 3 7 120249
+20 1 26 1526625 4 10 155729
+21 0 0 0 4 5 100805
+22 2 2 10861 6 14 317336
+23 2 2 2681 4 11 263685
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+gb 12 12 136413
+de 11 86 4593280
+fr 7 7 57260
+us 3 3 8043
+ru 2 2 5362
+au 1 1 0
+in 0 1 13275
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bot[\s_+:,\.\;\/\\-] 4 32720 20191012044748 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 6 89326 0 0
+js 9 388695 0 0
+png 12 48402 0 0
+html 30 139200 0 0
+jpg 40 4035939 0 0
+css 15 112071 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxandroid 1 0
+linux 101 26
+Unknown 6 6
+win7 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+Unknown 1 1
+firefox58.0 10 10
+chrome77.0.3865.92 1 0
+chrome75.0.3770.142 2 2
+chrome76.0.3809.100 2 2
+mozilla 5 5
+firefox47.0 9 9
+firefox50.0 78 3
+chrome40.0.2214.85 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/2.0 20191004072714
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20191007232220
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20191008101145
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20191011220230
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/2.0 20191004072714
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 36 111
+From1 0 0
+From2 0 1
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+409 2 166
+301 26 4889
+404 266 3337890
+403 50 1387809
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 63
+/assets/plugins/ckeditor/kcfinder/upload/files/up.php.jd 2 -
+/libraries/jscripts/kcfinder/upload/files/up.php.jd 2 -
+/public/upload_nhieuanh/server/php/_index.php 2 -
+/assets/js/mylibs/kcfinder/upload/files/up.php.jd 2 -
+/vehiculo_photos/server/php/files/up.php 2 -
+/fckeditor/editor/filemanager/connectors/php/connector.php 2 -
+/tpl/plugins/upload9.1.0/server/php/ 6 -
+/assets/plugins/ckeditor/kcfinder/upload.php 2 -
+/ckeditor/kcfinder/upload/files/up.php.jd 2 -
+/robots.txt 63 -
+/admin/images/cal_date_over.gif 2 -
+/vehiculo_photos/server/php/ 2 -
+/Temple.html 1 -
+/language/en-GB/en-GB.xml 2 -
+/admin/login.php 2 -
+/assets/admin/ckeditor/kcfinder/upload.php 2 -
+/kcfinder-2.51/upload/files/up.php.jd 2 -
+/scripts/jquery/kcfinder/upload.php 2 -
+/Gallery.html 1 -
+/index.html 1 -
+/store/ 2 -
+/shop/ 2 -
+/public/upload_nhieuanh/server/php/files/up.php 2 -
+/assets/ckeditor/kcfinder/upload/files/up.php.jd 2 -
+/plugins/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+/ficheiros/conteudos/spy.txt 2 -
+/Dholeradham.com 3 -
+/assets/global/plugins/jquery-file-upload/server/php/files/up.php 2 -
+/assets/admin/ckeditor/kcfinder/upload/files/up.php.jd 2 -
+/web/image/upload.php 2 -
+/ckeditor/kcfinder/upload.php 2 -
+/ 20 -
+/Daily_Darshan.html 1 -
+/.well-known/assetlinks.json 3 -
+/scripts/jquery/kcfinder/upload/files/up.php.jd 2 -
+/assets/js/mylibs/kcfinder/upload.php 2 -
+/.well-known/apple-app-site-association 2 -
+/assets/ckeditor/kcfinder/upload.php 2 -
+/admin/ckeditor/kcfinder/upload/files/up.php.jd 2 -
+/server/php/ 2 -
+/kcfinder-2.51/upload.php 2 -
+/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/Akshar_Oradi.html 1 -
+/themes/dashboard/assets/plugins/jquery-file-upload/server/php/ 2 -
+/catalog/ 2 -
+/tpl/plugins/upload9.1.0/server/php/files/up.php 2 -
+/userfiles/file/spy.txt 2 -
+/admin/ckeditor/kcfinder/upload.php 2 -
+/libraries/jscripts/kcfinder/upload.php 2 -
+/server/php/files/up.php 2 -
+/cart/ 2 -
+/js/ckeditor/kcfinder/upload.php 2 -
+/apple-app-site-association 2 -
+/images/block/up.php 2 -
+/web/image/Images/up.php 2 -
+/AndroidFileUpload/uploads/up.php 2 -
+/ads.txt 59 -
+/tpl/plugins/upload9.1.0/server/php/up.php 2 -
+/js/ckeditor/kcfinder/upload/files/up.php.jd 2 -
+/application/configs/application.ini 2 -
+/AndroidFileUpload/fileUpload.php 2 -
+/admin/cgallery.php 5 https://dholeradham.com/admin/cgallery.php
+/adminside/server/php/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+163.172.155.149 9 9 111873 20191002160048
+138.246.253.5 3 3 0 20191013025125
+137.226.113.34 3 78 4579875 20191012105954
+137.226.113.26 3 3 8043 20191011220230
+51.15.191.81 3 3 24540 20191009052537
+3.16.81.17 2 2 5362 20191002041425
+195.154.61.206 2 2 16360 20191009054146
+137.226.113.28 1 1 2681 20191008101145
+213.159.213.137 1 1 2681 20191012115926
+137.226.113.27 1 1 2681 20191007232220
+129.78.110.131 1 1 0 20191007182144
+62.4.14.198 1 1 8180 20191005143041
+51.255.109.171 1 1 8180 20191010105420
+92.63.111.27 1 1 2681 20191007090100
+51.255.109.165 1 1 8180 20191010184022
+51.255.109.163 1 1 8180 20191011223327
+51.255.109.166 1 1 8180 20191010061550
+34.221.208.132 1 1 2681 20191004072714
+45.127.45.142 0 1 13275 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20191001 1 1 2681 1
+20191002 13 38 1646541 4
+20191004 1 2 15956 1
+20191005 3 3 24540 3
+20191007 4 29 1531987 4
+20191008 1 1 2681 1
+20191009 3 3 24540 2
+20191010 3 3 24540 3
+20191011 2 2 10861 2
+20191012 4 29 1529306 4
+20191013 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 25
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 28 124833 26 25
+/Bhagavat_Katha.html 1 5067 0 1
+/admin/daily.php 1 5564 0 0
+/admin/Gallery.php 1 9480 0 0
+/admin/cgallery.php 1 40991 0 0
+/Gallery.php 1 20961 0 0
+/Patotsav-2018.html 1 9300 0 0
+/index.php 1 8180 0 0
+/contact.php 1 4150 0 0
+END_SIDER

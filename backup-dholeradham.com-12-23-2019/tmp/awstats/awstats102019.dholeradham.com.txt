@@ -1,0 +1,2393 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/dholeradham/tmp/awstats/awstats.dholeradham.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2686                
+POS_VISITOR 82146               
+POS_DAY 96079               
+POS_DOMAIN 3661                
+POS_LOGIN 4393                
+POS_ROBOT 4548                
+POS_WORMS 5369                
+POS_EMAILSENDER 5500                
+POS_EMAILRECEIVER 5643                
+POS_SESSION 96933               
+POS_SIDER 97143               
+POS_FILETYPES 5778                
+POS_DOWNLOADS 6151                
+POS_OS 6398                
+POS_BROWSER 6708                
+POS_SCREENSIZE 8742                
+POS_UNKNOWNREFERER 8816                
+POS_UNKNOWNREFERERBROWSER 11337               
+POS_ORIGIN 20263               
+POS_SEREFERRALS 20412               
+POS_PAGEREFS 20678               
+POS_SEARCHWORDS 21406               
+POS_KEYWORDS 21558               
+POS_MISC 2350                
+POS_ERRORS 21617               
+POS_CLUSTER 4249                
+POS_SIDER_404 21802               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191130043934 1 0 5650586908286
+FirstTime 20191001000751
+LastTime 20191031134504
+LastUpdate 20191201050947 1 0 0 0 0
+TotalVisits 400                 
+TotalUnique 256                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 387                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 21 105 12340112 472 638 24241532
+1 19 135 7657456 100 213 19879497
+2 42 223 8053256 137 320 21122203
+3 43 358 22317326 128 275 17893700
+4 50 342 19062692 250 395 24646194
+5 75 700 36458698 142 340 20586483
+6 79 724 61054366 96 290 36768672
+7 30 310 29609855 199 321 14676766
+8 139 806 158748880 115 283 23526713
+9 57 598 40058779 209 398 27516291
+10 70 505 27900457 264 489 20248080
+11 55 449 30108039 123 492 12946814
+12 82 818 56022961 200 342 13034515
+13 53 502 28847925 191 417 6748875
+14 83 744 41989693 122 355 5719032
+15 55 240 11479610 132 338 16559061
+16 142 335 32042373 113 253 5052826
+17 35 250 11837464 151 258 7738776
+18 36 315 100818556 154 263 3469184
+19 11 91 8837795 103 251 17215792
+20 22 101 7480555 122 284 13079150
+21 10 13 1041321 200 368 15273203
+22 14 67 3417452 203 343 13417543
+23 1133 1336 91340350 2924 3137 97915291
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+us 1494 4025 336026374
+in 413 4131 372040531
+gb 71 445 27078024
+zz 66 66 2364025
+ca 52 476 28556911
+at 36 58 6130570
+md 34 93 4975340
+fr 24 25 1007627
+ru 22 28 12196713
+tn 18 18 100662
+nl 16 16 1654916
+lt 16 157 1532624
+id 15 78 4379684
+de 14 120 6557105
+br 14 44 1949778
+ch 12 61 2532583
+tz 7 86 5920728
+cn 5 13 990181
+dk 4 4 10724
+ae 4 55 3243503
+au 3 34 3758134
+jp 3 3 19041
+ma 2 5 986879
+ua 2 3 178796
+lv 2 2 6831
+se 1 1 310075
+rs 0 7 92925
+kr 1 1 4150
+vn 2 2 4069
+pt 2 2 4069
+ro 1 1 2681
+tr 0 1 91691
+ie 0 6 996984
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+bingbot/ 929 224617282 20191030105633 0
+no_user_agent 329 15388251 20191013160022 0
+bingpreview 156 12310133 20191013150119 0
+Googlebot/ 87 6119635 20191025204935 0
+Googlebot\-Image/ 46 1354301 20191031134320 0
+msnbot/ 23 346195 20191013072129 0
+Baiduspider/ 13 51359043 20191031043501 0
+YandexBot/ 10 22800 20191019024846 0
+facebookexternalhit/ 7 5727177 20191010142217 0
+Dalvik/ 6 14007658 20191013105123 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 8066 20191010175012 0
+link 4 4912599 20191030115203 0
+bot[\s_+:,\.\;\/\\-] 3 24540 20191011071109 0
+Applebot/ 3 8043 20191011011352 0
+YandexImages/ 3 1873695 20191012175648 0
+Python\-urllib/ 3 17032 20191005175625 0
+crawl 2 4717 20191007022715 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+pdf 10 72818893 0 0
+css 1495 11161591 0 0
+jpg 3213 535759255 0 0
+gif 2 86 0 0
+svg 89 38615903 0 0
+jpeg 6 1805958 0 0
+woff2 345 22897816 0 0
+php 817 16481042 0 0
+js 1023 41402137 0 0
+html 852 2768259 0 0
+Unknown 31 16044 0 0
+woff 133 11917720 0 0
+png 1873 41422556 0 0
+eot 89 14301944 0 0
+ttf 89 14335724 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/images/pdffile/Dholera%20Book%20(NEW)__WEB.pdf 10 5 47868341
+/images/pdffile/dholera%20mahima_New.pdf 6 8 56682988
+/images/193__DHOLERA%20PATOTSAV.pdf 6 2 38738322
+/images/BANDHAKAM.pdf 4 0 3326552
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+winunknown 8 8
+unix 50 4
+winnt 2 2
+linux 542 234
+ios_ipad 595 94
+macosx12 71 9
+ios_iphone 653 83
+macosx8 2 2
+Unknown 187 121
+macosx 90 8
+win8.1 268 30
+win10 1815 242
+winxp 28 23
+win7 2900 1239
+macosx10 261 31
+linuxandroid 2598 225
+winlong 12 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 93
+chrome78.0.3904.70 3 0
+chrome49.0.2623.75 9 3
+chrome71.0.3578.99 159 23
+chrome39.0.2171.95 2 2
+msie6.0 18 18
+chrome46.0.2490.71 4 1
+firefox40.1 4 4
+chrome38.0.1025.166 71 3
+safari13.0 33 3
+chrome34.0.1847.137 1 1
+chrome28.0.1500.63 1173 1051
+chrome77.0.3865.75 21 2
+chrome45.0.2454.101 2 2
+chrome75.0.3770.142 12 4
+android 10 4
+chrome59.0.3071.114 1 1
+chrome73.0.3683.90 121 7
+Unknown 139 92
+chrome33.0.1750.154 1 1
+firefox67.0 1 1
+chrome49.0.2623.112 1 0
+chrome42.0.2311.111 35 5
+chrome78.0.3904.50 1 0
+firefox47.0 67 7
+chrome26.0.1410.65 2 2
+firefox60.0 212 117
+opera43.3.2254.142003 21 3
+safari 537 64
+msie9.0 50 6
+chrome77.0.3865.73 33 3
+chrome43.0.2357.93 68 7
+chrome68.0.3440.91 1 0
+firefox52.0 289 88
+chrome54.0.2840.85 21 3
+opera36.0.2130.32 2 2
+firefox65.0 6 6
+safari11.0 2 1
+safari10.0 80 49
+safari9.0 430 39
+chrome77.0.3865.116 589 42
+chrome72.0.3626.121 58 4
+chrome39.0.2171.93 36 6
+chrome76.0.3809.132 602 60
+chrome77.0.3865.120 249 21
+chrome70.0.3538.110 63 4
+chrome58.0.3029.83 1 0
+chrome67.0.3396.87 34 3
+chrome75.0.3770.101 16 1
+mozilla 56 37
+chrome76.0.3809.111 56 7
+firefox69.0 519 47
+chrome63.0.3239.132 28 28
+chrome78.0.3904.62 23 3
+safari5.1 8 8
+opera54.0.2952.54 1 1
+chrome74.0.3729.136 1 0
+chrome70.0.3538.80 30 2
+firefox33.0 4 4
+chrome50.0.2661.89 76 8
+firefox70.0 2 0
+chrome71.0.3578.98 30 1
+chrome40.0.2214.89 1 0
+opera53.0.2907.68 1 1
+firefox64.0 14 14
+chrome45.0.2454.94 1 1
+chrome73.0.3683.86 18 10
+firefox58.0 19 19
+edge18 1 0
+firefox63.0 55 3
+safari12.1.2 56 4
+firefox66.0 7 0
+chrome53.0.2785.49 1 0
+chrome76.0.3809.136 50 4
+chrome55.0.2883.87 74 11
+safari10.1.2 202 21
+opera63.0.3368.107 50 6
+chrome58.0.3029.110 2 2
+chrome56.0.2924.87 20 1
+safari13.0.1 103 8
+chrome77.0.3865.90 2310 245
+safari12.1 53 5
+chrome77.0.3865.92 558 47
+chrome76.0.3809.89 45 5
+chrome67.0.3396.68 94 8
+msie11.0 74 7
+firefox68.0 1 1
+firefox28.0 1 1
+msie7.0 4 4
+chrome76.0.3809.87 52 4
+chrome66.0.3359.170 1 1
+chrome57.0.2987.108 51 3
+firefox48.0 5 5
+chrome76.0.3809.100 33 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 58
+eTH5LDFG';select_pg_sleep(9);_-- 20191010235320
+'_response.write(9703145*9737331)_' 20191010235308
+cortex/1.0 20191028092523
+Scrapy/1.5.1_(_https://scrapy.org) 20191010010336
+;print(md5(acunetix_wvs_security_test)); 20191010235323
+bcjTQ1Qh';_waitfor_delay_'0:0:9'_-- 20191010235319
+JyI= 20191010235336
+) 20191010235320
+1'\ 20191010235334
+e''e\ 20191010235337
+Go-http-client/1.1 20191010080014
+WEB-INF/web.xml 20191010235404
+1\xa8\xa4_xa7\xa8\xa4\xa1\xe9 20191010235335
+KWaewO9I');select_pg_sleep(9);_-- 20191010235321
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n 20191010235336
+okhttp/3.12.0 20191030034106
+ia_archiver 20191020172657
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20191031083320
+';print(md5(acunetix_wvs_security_test));$a=' 20191010235324
+${@print(md5(acunetix_wvs_security_test))} 20191010235325
+..%c0%af 20191010235323
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20191004084127
+'|'ld 20191010235333
+@@PDZFp 20191010235335
+?'?\ 20191010235336
+\ 20191010235345
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd 20191010235348
+WEB-INF\\web.xml 20191010235404
+0AtStVDx');_waitfor_delay_'0:0:9'_-- 20191010235319
+'&dir&' 20191010235343
+468rDPcz 20191010235317
+1e309 20191010235323
+WhatsApp/2.19.274_A 20191023115639
+testasp.vulnweb.com 20191010235326
+&dir 20191010235342
+|dir 20191010235344
+\\ 20191010235334
+if(now()=sysdate(),sleep(6),0)/*'XOR(if(now()=sysdate(),sleep(6),0))OR'\ 20191010235318
+http://hitKV3Ts8Eu0i.bxss.me/ 20191010235324
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20191024104941
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) 20191010235331
+268435455 20191010235322
+response.write(9703145*9737331) 20191010235308
+<!-- 20191010235335
+'|dir 20191010235344
+(select(0)from(select(sleep(9)))v)/*'_(select(0)from(select(sleep(9)))v)_'\ 20191010235318
+The_Knowledge_AI 20191011182151
+${@print(md5(acunetix_wvs_security_test))}\\ 20191010235325
+r1Y5rqbh'));select_pg_sleep(3);_-- 20191010235322
+SomeCustomInjectedHeader:injected_by_wvs 20191010235312
+Mozilla/5.0_(compatible;_Dataprovider.com) 20191011053421
+^(#$!@#$)(()))****** 20191010235321
+!(()&&!|*|*| 20191010235320
+'\ 20191010235335
+L1MXgeKo'));_waitfor_delay_'0:0:9'_-- 20191010235320
+Cpanel-HTTP-Client/1.0 20191004084120
+${99425_99591} 20191010235317
+%e3h 20191010235322
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 62
+response.write(9703145*9737331) 20191010235308
+../..//../..//../..//../..//../..//../..//../..//../..//windows/win.ini 20191010235402
+<!-- 20191010235335
+&dir 20191010235342
+|dir 20191010235344
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) 20191010235331
+268435455 20191010235322
+\\ 20191010235334
+if(now()=sysdate(),sleep(6),0)/*'XOR(if(now()=sysdate(),sleep(6),0))OR'\ 20191010235318
+http://hitKV3Ts8Eu0i.bxss.me/ 20191010235324
+468rDPcz 20191010235317
+WhatsApp/2.19.274_A 20191023115639
+testasp.vulnweb.com 20191010235326
+1e309 20191010235323
+WEB-INF\\web.xml 20191010235404
+'&dir&' 20191010235343
+0AtStVDx');_waitfor_delay_'0:0:9'_-- 20191010235319
+Cpanel-HTTP-Client/1.0 20191004084120
+L1MXgeKo'));_waitfor_delay_'0:0:9'_-- 20191010235320
+%e3h 20191010235322
+${99425_99591} 20191010235317
+../../../../../../../../../../windows/win.ini 20191010235355
+'\ 20191010235335
+!(()&&!|*|*| 20191010235320
+................windowswin.ini 20191010235400
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini 20191010235400
+(select(0)from(select(sleep(9)))v)/*'_(select(0)from(select(sleep(9)))v)_'\ 20191010235318
+The_Knowledge_AI 20191011182151
+'|dir 20191010235344
+${@print(md5(acunetix_wvs_security_test))}\\ 20191010235325
+^(#$!@#$)(()))****** 20191010235321
+SomeCustomInjectedHeader:injected_by_wvs 20191010235312
+r1Y5rqbh'));select_pg_sleep(3);_-- 20191010235322
+Go-http-client/1.1 20191010080014
+../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././windows/win.ini 20191010235402
+WEB-INF/web.xml 20191010235404
+) 20191010235320
+1'\ 20191010235334
+e''e\ 20191010235337
+JyI= 20191010235336
+/.\\\\./.\\\\./.\\\\./.\\\\./.\\\\./.\\\\./windows/win.ini 20191010235401
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini 20191010235401
+bcjTQ1Qh';_waitfor_delay_'0:0:9'_-- 20191010235319
+eTH5LDFG';select_pg_sleep(9);_-- 20191010235320
+'_response.write(9703145*9737331)_' 20191010235308
+cortex/1.0 20191028092523
+;print(md5(acunetix_wvs_security_test)); 20191010235323
+Scrapy/1.5.1_(_https://scrapy.org) 20191010010336
+'|'ld 20191010235333
+@@PDZFp 20191010235335
+\ 20191010235345
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd 20191010235348
+?'?\ 20191010235336
+';print(md5(acunetix_wvs_security_test));$a=' 20191010235324
+${@print(md5(acunetix_wvs_security_test))} 20191010235325
+unexisting/../../../../../../../../../../windows/win.ini.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\ 20191010235403
+..%c0%af 20191010235323
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n 20191010235336
+1\xa8\xa4_xa7\xa8\xa4\xa1\xe9 20191010235335
+KWaewO9I');select_pg_sleep(9);_-- 20191010235321
+ia_archiver 20191020172657
+okhttp/3.12.0 20191030034106
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 693 796
+From1 754 808
+From2 98 188
+From3 79 110
+From4 732 8180
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+www_google_com 84 157
+in_search_yahoo_com 1 1
+www_google_co_uk 1 3
+bing 0 1
+www_google_co_in 10 24
+r_search_yahoo_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+http://vadtal.com/index2.html 38 38
+http://www.vadtal.com/index2.html 34 34
+http://some-inexistent-website.acu/some_inexistent_file_with_long_name 1 1
+http://testasp.vulnweb.com/t/fit.txt 1 1
+http://www.swaminarayanmandirjunagadh.com 1 1
+http://hitG2Ra3OiW3f.bxss.me 1 1
+http://vadtal.com 1 1
+http://testasp.vulnweb.com/t/xss.html 1 1
+http://feedspot.top/blog/7128523/ 1 1
+http://lescaledugout.fr/live-mandir.html 0 1
+http://domain.com 0 2
+http://myoe.pw/live-mandir.html 0 2
+http://webcache.googleusercontent.com/search 0 25
+http://nnfj.orgadata-dittmar.de/live-mandir.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+302 10 66526
+417 1 393
+409 313 25979
+301 26 6269
+403 3103 89632721
+206 26 3613095
+404 5008 47830043
+500 26 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1375
+//wp-content/themes/wp-log.php 1 -
+/admin/fonts/fontawesome-webfont.eot 1 dholeradham.com/admin
+/umbraco/webservices/codeEditorSave.asmx 1 -
+//test.php 1 -
+/cCRLpfvq') 1 dholeradham.com/admin
+/admin/gallery/374A7437.jpg 1 -
+/admin/gallery/IMG_6714.jpg 1 -
+/slides/PATOTSAV-201800012.jpg 3 -
+/images/images/banner3_S.jpg 1 http://dholeradham.com/images/
+/admin/photo/SAVE_20180623_092031.jpeg 1 -
+/api/vendor/phpunit/phpunit/LICENSE 2 -
+/res/dragdrop.js 1 http://dholeradham.com/Bhagavat_Katha.html
+/admin/cssgallery/Dholeradham.com 1 http://dholeradham.com/admin/cssgallery/
+/manager/html/ 1 -
+/status 1 -
+//site/tmp/cTivrC.php 1 -
+//bl.php 1 -
+/admin 5 -
+/%0d%20SomeCustomInjectedHeader:injected_by_wvs-2018.html 1 dholeradham.com/admin
+/examples/servlets/index.html 1 -
+/images/js/jquery.js 2 http://dholeradham.com/images/
+/Patotsav-'%26dir%26'.html 1 -
+/joomla/robots.txt 19 -
+//admin/phpMyAdmin 1 -
+/wp-content/themes/IncredibleWP/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/slides/PATOTSAV-201800018.jpg 5 -
+/admin/gallery/IMG_6687.jpg 1 -
+/images/css 1 -
+//cp.php 1 -
+/Patotsav-%22%7c%22ld.html 1 -
+/slides/IMG_6716.jpg 3 -
+dholeradham.com/admin/crossdomain.xml 1 -
+/%24%7b%40print(md5(acunetix_wvs_security_test))%7d-2018.html 1 -
+//sym.php 1 -
+/Patotsav--1) 2 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800082.jpg 1 -
+/admin/fonts/Georgia-Bold.woff2 1 http://dholeradham.com/admin/css/style.css
+//c100.php 1 -
+/en/ 2 -
+/slides/IMG_6723.jpg 3 -
+/apple-touch-icon.png 144 -
+/slides/PATOTSAV-201800007.jpg 4 -
+/slides/PATOTSAV-201800001.jpg 6 -
+/pfNgSktD7x.shtml 1 -
+/components/com_b2jcontact/root.php 1 -
+/catalog/ 2 -
+//spyshell.php 1 -
+/admin/fonts/fontawesome-webfont.woff2 1 dholeradham.com/admin
+/images/images/banner3.jpg 1 http://dholeradham.com/images/
+/Patotsav%25'%20AND%202%2b1-1-1%3d0%2b0%2b0%2b1%20AND%20'PaEO'%21%3d'PaEO%25-2018.html 1 dholeradham.com/admin
+/admin/images/icons.svg 4 http://dholeradham.com/admin/cgallery.php
+//login.php 1 -
+//xd.php 1 -
+/umapresence/umaservices/umapage/inc/contentCss.php 2 -
+//wp-content/plugins/upspy/sllolx.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800006.jpg 1 -
+/wp-content/uploads/2018/038/RxR__pcutg.php 1 -
+//.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./windows/win.ini-2018.html 1 dholeradham.com/admin
+/Patotsav- 1 -
+/Patotsav-%26dir.html 1 -
+/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2 1 -
+/Patotsav-%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini.html 1 dholeradham.com/admin
+/blog/wp-admin/install.php 2 -
+/%22%26dir%26%22-2018.html 1 -
+/cgi-bin/ 1 -
+/Temple.html 2 http://dholeradham.com/Gallery.php
+//administrator/index.php 1 -
+//robots.txt.php 1 -
+/-2018.html 1 dholeradham.com/admin
+/wp-content/plugins/barclaycart/uploadify/RxR__pcutg.php 1 -
+/user/ 2 -
+/administrator/components/com_bt_portfolio/root.php 1 -
+/Patotsav-%3f'%3f%22.html 1 dholeradham.com/admin
+/../../../../../../../../../../etc/passwd.html 1 dholeradham.com/admin
+/scripts/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 2 -
+/forums/king.php 1 -
+/../../../../../../../../../../windows/win.ini%00.jpg.html 1 dholeradham.com/admin
+/assets/plugins/ckeditor/kcfinder/upload/files/up.php.jd 6 -
+/admin/gallery/DOLERA%20PATOTSAV-201800046.jpg 1 -
+/fckeditor/editor/filemanager/connectors/php/connector.php 2 -
+/Patotsav-2018.html 2 -
+/wordpress/wp-admin/setup-config.php 2 -
+/wp-content/plugins/asset-manager/upload.php 1 -
+/images/jdownloads/screenshots/bot.php3.g 1 -
+/phpmyadmin/main.php 1 -
+/server/php 2 -
+/thumbs/ 1 dholeradham.com/admin
+/images/favicon.png 236 -
+/AndroidFileUpload/fileUpload.php 5 -
+//w.php 2 -
+//wp-admin/install.php 5 -
+/wp-content/themes/Coldfusion/includes/uploadify/upload_settings_image.php 1 -
+/application/configs/application.ini 7 -
+/admin/gallery/PATOTSAV-201800022.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800038.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800039.jpg 1 -
+/ficheiros/conteudos/spy.txt 2 -
+/css/Dholeradham.com 1 http://dholeradham.com/css/
+/templates/beez3/error.php 1 -
+/modules/pk_flexmenu_old/uploads/root.php 1 -
+/images/jdownloads/screenshots/tool/bot.php3.g 1 -
+//um3r.php 1 -
+/bMULr4tsCk.cfm 1 -
+/slides/PATOTSAV-201800004.jpg 4 -
+/wp-content/themes/ultimatum/wonderfoundry/addons/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/modules/videostab/ajax_videostab.php 1 -
+/vehiculo_photos/server/php/files/up.php 5 -
+/wp-content/plugins/woocommerce-products-filter/lib/simple-ajax-uploader/root.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/files/RxR__pcutg.php 1 -
+/administrator/components/com_jnewsletter/includes/openflashchart/tmp-upload-images/root.php 1 -
+/modules/attributewizardpro.OLD/file_upload.php 1 -
+/Bhagavat_Katha%26n917284%3dv968512.html 1 -
+/Patotsav-).html 1 dholeradham.com/admin
+/bitrix/admin/index.php 5 -
+/admin/gallery/PATOTSAV-201800010.jpg 1 -
+/modules/soopamobile/uploadimage.php 1 -
+/../../../../../../../../../../etc/passwd%00.jpg.html 1 dholeradham.com/admin
+/%22%7cdir-2018.html 1 -
+/'%2bresponse.write(9540551*9870688)%2b'-2018.html 1 -
+/Patotsav-e''e%22%22.html 1 dholeradham.com/admin
+/administrator/components/com_maian15/charts/tmp-upload-images/root.php 1 -
+/admin/gallery/PATOTSAV-201800006.jpg 1 -
+/js/ 1 dholeradham.com/admin
+/images/img1.jpg 3 -
+/testasp.vulnweb.com-2018.html 1 dholeradham.com/admin
+/wp-content/uploads/settingsimages/RxR__pcutg.php 3 -
+/Patotsav-../../../../../../../../../../windows/win.ini.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800016.jpg 1 -
+/UXNHWExXQU8%3d-2018.html 1 -
+/wp3/ 2 -
+/admin/gallery/IMG_6688.jpg 1 -
+/webalizer/ 1 -
+/wp-content/plugins/custom-background/uploadify/RxR__pcutg.php 1 -
+//.env 1 -
+//anon.php 1 -
+/libraries/jscripts/kcfinder/upload.php 6 -
+/jmx-console/ 1 -
+/qV5DpVGT')) 1 dholeradham.com/admin
+//dz.php 1 -
+/admin/gallery/IMG_6721.jpg 1 -
+/admin/config/database.yml 1 -
+/components/com_facileforms/libraries/jquery/uploadify.php 1 -
+/wp-content/themes/rarebird/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/Patotsav-%22 1 -
+/images/PHOTOS/AKSHAR%20ORADI-1.jpg 1 -
+/assets/uploadify/old/uploadify.php 2 -
+/modules/filesupload/uploads/root.php 1 -
+/wp-content/themes/highlight/lib/utils/upload-handler.php 1 -
+/images/images/banner-7.jpg 1 http://dholeradham.com/images/
+/slides/PATOTSAV-201800019.jpg 5 -
+/%5e(%23%24%21%40%23%24)(()))******-2018.html 1 dholeradham.com/admin
+/wp-admin/shell.php 1 -
+/)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))-2018.html 1 -
+/modules/lib/redactor/file_upload.php 1 -
+/old_wp/ 2 -
+/modules/columnadverts2/slides/root.php 1 -
+/%22%7c%22ld.html 1 -
+/admin/gallery/IMG_7517.jpg 1 -
+/WEB-INF/web.xml.html 2 dholeradham.com/admin
+/images/js/custom.js 3 http://dholeradham.com/images/
+/admin/gallery/374A7231.jpg 1 -
+/acux10134%C0%BEz1%C0%BCz2a%90bcxuca10134.html 1 dholeradham.com/admin
+/forum/king.php 1 -
+/admin/gallery/374A7363.jpg 1 -
+/admin/gallery/IMG_6719.jpg 1 -
+/joomla/administrator/index.php 6 -
+//doom.php 1 -
+/slides/IMG_6705.jpg 3 -
+/ 84 -
+/new/wp-admin/install.php 3 -
+/admin/images/cal_date_over.gif 21 -
+/JyI%3d.html 1 dholeradham.com/admin
+/'%26dir%26'-2018.html 1 -
+/wp/ 38 -
+/web/image/Images/up.php 5 -
+/wp-content/plugins/flipbook/php.php 1 -
+/admin/images/loader.gif 3 http://dholeradham.com/admin/cssgallery/swipebox.css
+/modules/soopamobile2/uploadimage.php 1 -
+/Patotsav-'%22.html 1 -
+/modules/jro_homepageadvertise/slides/root.php 1 -
+/wp-content/themes/qualifire/scripts/admin/uploadify/RxR__pcutg.php 1 -
+/images/images 1 -
+/home/wp-admin/install.php 2 -
+/Patotsav-WEB-INF/web.xml.html 2 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800022.jpg 1 -
+//../..//../..//../..//../..//../..//etc/passwd%00.jpg.html 1 dholeradham.com/admin
+/LICENSE 4 -
+/modules/pk_vertflexmenu/ajax/upload.php 1 -
+/Bhagavat_Katha%25'%20AND%202%2b1-1-1%3d0%2b0%2b0%2b1%20AND%20'zZBs'%21%3d'zZBs%25.html 1 dholeradham.com/admin
+/modules/realty/evogallery/slides/root.php 1 -
+/wp-json/wp/v2/users/ 2 -
+/administrator/templates/isis/index.php 1 -
+/feal.php 1 -
+/admin/gallery/1.jpg 1 -
+/'%2bresponse.write(9197113*9025382)%2b'.html 1 -
+/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n.html 1 dholeradham.com/admin
+/produits/ 1 -
+/sitemap.xml 3 -
+/images/DAILYDARSHAM/1.jpg 4 -
+/wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php 1 -
+/com_sexycontactform/fileupload/index.php 1 -
+//system.php 1 -
+/Patotsav-../../../../../../../../../../etc/passwd%00.jpg.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800017.jpg 1 -
+/modules/simpleslideshow/uploadimage.php 1 -
+/Gallery.php 13 -
+/%21(()%26%26%21%7c*%7c*%7c-2018.html 1 dholeradham.com/admin
+//images/xxx.php 1 -
+/slides/PATOTSAV-201800033.jpg 4 -
+/http://www.acunetix.tst-2018.html 1 -
+/components/com_jbcatalog/libraries/jsupload/server/php/ 1 -
+/wp/test/ 2 -
+//a.php 1 -
+/1'%22.html 1 dholeradham.com/admin
+/admin/gallery/PATOTSAV-201800028.jpg 1 -
+/res/builder.js 1 http://dholeradham.com/Bhagavat_Katha.html
+/pfNgSktD7x 1 -
+/wp-content/themes/centum/revslider/temp/update_extract/revslider/izo.php 1 -
+/modules/vtemskitter/uploadimage.php 1 -
+/admin/photo/34087A14-9A3A-4433-81F5-61FD57952970.jpeg 1 -
+/admin/gallery/PATOTSAV-201800008.jpg 1 -
+/back/ 1 -
+/tinymce/jscripts/tiny_mce/plugins/imgsurfer/main.php 2 -
+/admin/gallery/374A7426.jpg 1 -
+//administrator/includes/readmy.php 1 -
+/wp-content/shell.php 1 -
+///www.acunetix.tst-2018.html 1 -
+/apple-touch-icon-152x152-precomposed.png 196 -
+/admin/gallery/PATOTSAV-201800029.jpg 1 -
+/Patotsav-/../..//../..//../..//../..//../..//etc/passwd%00.jpg.html 1 dholeradham.com/admin
+//wp-content/plugins/Analyser.php 1 -
+/slides/IMG_6714.jpg 3 -
+//tmp/1.php 1 -
+/Patotsav-acux9710%C0%BEz1%C0%BCz2a%90bcxuca9710.html 1 dholeradham.com/admin
+/wp2/wp-includes/wlwmanifest.xml 16 -
+/sdk/../../../../../../../../../../../../../etc/passwd 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/slides/PATOTSAV-201800027.jpg 3 -
+//spamv6.php 1 -
+//killer.php 1 -
+/wp-json/wp/v2/users 3 -
+/wp-content/themes/qualifire/scripts/admin/uploadify/uploadify.php 1 -
+/modules/soopamobile2/uploadproduct.php 1 -
+/Patotsav-acu2032%EF%BC%9Cs1%EF%B9%A5s2%CA%BAs3%CA%B9uca2032.html 1 dholeradham.com/admin
+/pfNgSktD7x.cgi 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800018.jpg 1 -
+/admin/gallery/PATOTSAV-201800014.jpg 1 -
+/public/upload_nhieuanh/server/php/_index.php 7 -
+/wp-content/themes/ithemes2/themify/themify-ajax.php 1 -
+/modules/mod_socialpinboard_menu/saveimagefromupload.php 1 -
+/admin/editor/plugins/filemanager/ajax_create_folder.php 2 -
+/web-console/Invoker 1 -
+/images/images/banner3_MM.jpg 1 http://dholeradham.com/images/
+/temp/wallet.dat 1 -
+/Patotsav-response.write(9831461*9177285).html 1 -
+/images/images/img2.jpg 1 http://dholeradham.com/images/
+/blog/ 38 -
+/wp/wp-includes/wlwmanifest.xml 51 -
+/v3/ 2 -
+/wp-content/uploads/pica-photo-gallery/RxR__pcutg.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800034.jpg 1 -
+/modules/vtermslideshow/uploadimage.php 1 -
+/Patotsav_906294'(): 1 dholeradham.com/admin
+/modules/homepageadvertise2/slides/root.php 1 -
+/JOMLA/ 2 -
+//feal.php 2 -
+/Patotsav%22%20AND%202%2b1-1-1%3d0%2b0%2b0%2b1%20AND%20%22GSCT%22%3d%22GSCT-2018.html 1 dholeradham.com/admin
+/modules/jro_homepageadvertise/uploadimage.php 1 -
+/Account/Register.aspx 1 -
+/wp-content/themes/striking_r/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/WP/ 2 -
+//Abbrevsprl.php 1 -
+/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini.html 1 dholeradham.com/admin
+/temp/bitcoin/wallet.dat 1 -
+/admin/gallery/PATOTSAV-201800019.jpg 1 -
+/admin/ckeditor/kcfinder/upload.php 6 -
+/wp-includes/wlwmanifest.xml 48 -
+/wp-content/uploads/assets/temp/RxR__pcutg.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800050.jpg 1 -
+/slides/PATOTSAV-201800003.jpg 4 -
+/images/PHOTOS/DHOLERADHAM-BHOJNALAY-23.jpg 1 -
+/modules/megaproduct/ 1 -
+/admin/gallery/374A7245.jpg 1 -
+/web-console/ 1 -
+/slides/PATOTSAV-201800002.jpg 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800094.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800073.jpg 1 -
+/admin/photo/b374.php 37 http://dholeradham.com/admin/photo/b374.php
+/adminside/server/php/ 7 -
+/Patotsav-../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././etc/passwd.html 1 dholeradham.com/admin
+/WEB-INF%5cweb.xml-2018.html 2 dholeradham.com/admin
+/Patotsav-W1I04Ncu') 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800045.jpg 1 -
+//tmp/mad.php 1 -
+/admin/gallery/IMG_7455.jpg 1 -
+/3jmksNGq' 1 dholeradham.com/admin
+/response.write(9540551*9870688)-2018.html 1 -
+/slides/IMG_6687.jpg 3 -
+/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 1 -
+/images/images/img3.jpg 1 http://dholeradham.com/images/
+/admin/gallery/DOLERA%20PATOTSAV-201800020.jpg 1 -
+/wp-content/themes/pinboard/uploads/RxR__pcutg.php 1 -
+/components/com_contushdvideoshare/hdflvplayer/download.php 1 -
+/XxgRStaN 1 -
+/admin/photo/20181226_201515.jpg 1 -
+/console/j_security_check 1 -
+/plugins/content/jw_allvideos/includes/download.php 1 -
+/../../../../../../../../../../etc/passwd%00.jpg-2018.html 1 dholeradham.com/admin
+/ads.txt 58 -
+/components/RxR_1570557910.php 1 -
+/AHQcLEA2') 1 dholeradham.com/admin
+/administrator/components/com_aceftp/quixplorer/index.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800010.jpg 1 -
+/modules/attributewizardpro/file_uploads/root.php 1 -
+/Patotsav-%40%402YTFL.html 1 dholeradham.com/admin
+/css/ 1 dholeradham.com/admin
+/admin/gallery/IMG_7448.jpg 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 12 -
+/admin/gallery/IMG_6715.jpg 1 -
+/admin/daily.php 484 -
+/slides/PATOTSAV-201800011.jpg 4 -
+/administrator/components/com_maianmedia/utilities/charts/tmp-upload-images/root.php 1 -
+/Patotsav-%21(()%26%26%21%7c*%7c*%7c.html 1 dholeradham.com/admin
+/Patotsav-../..//../..//../..//../..//../..//../..//../..//../..//windows/win.ini.html 1 dholeradham.com/admin
+//d.php 1 -
+/admin/gallery/IMG_6718.jpg 1 -
+/admin/gallery/IMG_7516.jpg 1 -
+/slides/IMG_6688.jpg 3 -
+/wp-content/plugins/pica-photo-gallery/picaPhotosResize.php 1 -
+/http://hitFZOFp05HLN.bxss.me/.html 1 -
+/Patotsav-testasp.vulnweb.com.html 1 dholeradham.com/admin
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800097.jpg 1 -
+/images/vuln.php 1 -
+//templates/atomic/index.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/Clean.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800065.jpg 1 -
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/tmp-upload-images/root.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800005.jpg 1 -
+/tpl/plugins/upload9.1.0/server/php/ 17 -
+//maill.php 1 -
+/%7cdir.html 1 -
+/Bhagavat_Katha%22%20AND%202%2b1-1-1%3d0%2b0%2b0%2b1%20AND%20%22TmoM%22%3d%22TmoM.html 1 dholeradham.com/admin
+/administrator/templates/bluestork/error.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800001.jpg 1 -
+/wp-content/themes/pinboard/themify/themify-ajax.php 1 -
+/slides 1 -
+/admin/gallery/374A7328.jpg 1 -
+/wp-admin/install.php 2 -
+/store/ 2 -
+/Patotsav-qH9qwBYg' 1 dholeradham.com/admin
+/media/root.php 1 -
+//phpmyadmin 1 -
+/admin/login.php 17 -
+/components/com_facileforms/libraries/jquery/root.php 1 -
+/admin/photo/542F648C-E1A0-4DB1-BFFC-BEA0F94340EB.jpeg 1 -
+/wp-content/plugins/custom-background/uploadify/uploadify.php 1 -
+/admin/gallery/IMG_6703.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800051.jpg 1 -
+/admin/Dholeradham.com 2 http://dholeradham.com/admin/
+/wp-content/uploads/assignments/RxR_1572306196.php. 1 -
+/test/wp-admin/install.php 2 -
+/wp-content/themes/dance-studio/core/libs/imperavi/tests/file_upload.php 1 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 -
+/wp-content/themes/designplus/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/tmp/plupload/root.php 2 -
+/assets/admin/ckeditor/kcfinder/upload/files/up.php.jd 6 -
+/slides/PATOTSAV-201800008.jpg 5 -
+/up.php 1 -
+/admin/gallery/IMG_6716.jpg 1 -
+/%0a%20SomeCustomInjectedHeader:injected_by_wvs.html 1 dholeradham.com/admin
+/olux.php 1 -
+/manager/index.php 2 -
+/Patotsav-268435455.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800037.jpg 1 -
+/Patotsav-xim2tT8i')) 1 dholeradham.com/admin
+/res/controls.js 1 http://dholeradham.com/Bhagavat_Katha.html
+/admin/gallery/2.jpg 1 -
+/modules/addthisplugin/file_uploads/root.php 1 -
+/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd.html 1 dholeradham.com/admin
+/admin/config/database.yml_original 1 -
+//wp-content/themes/Avada/404.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800071.jpg 1 -
+/Bhagavat_Katha.html 1 -
+/modules/psmodthemeoptionpanel/upload/root.php 1 -
+/modules/wg24themeadministration/img/upload/root.php 1 -
+/press/ 4 -
+//wp-content/themes/colormag/404.php 1 -
+/webstat/ 1 -
+/index 1 -
+/Patotsav-../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././windows/win.ini.html 1 dholeradham.com/admin
+/%0a%20SomeCustomInjectedHeader:injected_by_wvs-2018.html 1 dholeradham.com/admin
+//cpbrute.php 1 -
+//templates/ja-helio-farsi/index.php 1 -
+/Patotsav-file:///etc/passwd.html 1 dholeradham.com/admin
+/media/editor/plugins/filemanager/ajax_create_folder.php 2 -
+//priv8.php 1 -
+//update.php 1 -
+/wp-content/plugins/dzs-videogallery/admin/upload.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800031.jpg 1 -
+/wp-content/uploads/user_uploads/test/RxR__pcutg.php 1 -
+/../..//../..//../..//../..//../..//../..//../..//../..//windows/win.ini-2018.html 1 dholeradham.com/admin
+/Patotsav-Er7FYprS' 1 dholeradham.com/admin
+/2019/wp-includes/wlwmanifest.xml 9 -
+/assets/plugins/ckeditor/kcfinder/upload.php 6 -
+/admin/images/Dholeradham.com 1 http://dholeradham.com/admin/images/
+/images/PHOTOS/ 1 dholeradham.com/admin
+/)-2018.html 1 dholeradham.com/admin
+/%5c-2018.html 1 dholeradham.com/admin
+/slides/PATOTSAV-201800009.jpg 5 -
+/admin/fonts/fontawesome-webfont.ttf 1 dholeradham.com/admin
+/%40%40Yh58g.html 1 dholeradham.com/admin
+/shop/wp-includes/wlwmanifest.xml 16 -
+/administrator/index.php 12 -
+/plugins/content/wd/wddownload.php 1 -
+/slides/PATOTSAV-201800017.jpg 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800070.jpg 1 -
+/Webalizer/ 1 -
+/phpmyadmin2/main.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800032.jpg 1 -
+/1e309-2018.html 1 dholeradham.com/admin
+/wp-content/_input_3_RxR.phtml 1 -
+//cracker.php 1 -
+//wp-content/themes/zerif-lite/404.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800055.jpg 1 -
+/media/root.PhP.txt 1 -
+/../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././etc/passwd-2018.html 1 dholeradham.com/admin
+/testasp.vulnweb.com.html 1 dholeradham.com/admin
+//themes/404/404.php 1 -
+/webstats/ 1 -
+//images/stories/w.php 1 -
+/templates/system/css/system.css 13 -
+/index.php/admin 1 -
+/ckeditor/kcfinder/upload.php 6 -
+/pfNgSktD7x.nsf 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800075.jpg 1 -
+/wp-content/plugins/cnhk-slideshow/uploadify/uploadify.php 1 -
+/images/js/bootstrap.js 3 http://dholeradham.com/images/
+/modules/orderfiles/files/root.php 1 -
+//1.php 1 -
+//r3x.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800033.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800077.jpg 1 -
+/admin/photo/wsoo.php 1 -
+/king.php 1 -
+/index.js 1 -
+/modules/advancedslider/ajax_advancedsliderUpload.php 1 -
+/admin/photo/SAVE_20180623_092042.jpeg 1 -
+/admin/gallery/374A7419.jpg 1 -
+//new/wp-admin/install.php 1 -
+/stats/ 1 -
+/administrator/components/com_jnews/includes/openflashchart/tmp-upload-images/root.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800012.jpg 1 -
+/XxX.php 1 -
+/backup/wp-admin/install.php 2 -
+/wp-content/uploads/contact_files/RxR__pcutg.php 1 -
+/admin/fonts/fontawesome-webfont.woff 1 dholeradham.com/admin
+/images/css/bootstrap.css 3 http://dholeradham.com/images/
+/admin/gallery/PATOTSAV-201800002.jpg 1 -
+/pfNgSktD7x.plx 1 -
+//includes/u2p.php 1 -
+/modules/realty/include/slides/root.php 1 -
+//h4xor.php 1 -
+/admin/gallery/374A7376.jpg 1 -
+/administrator/templates/isis/error.php 1 -
+/admin/gallery/PATOTSAV-201800027.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800096.jpg 1 -
+/libraries/joomla/jmail.php 1 -
+/usage/ 1 -
+/%22%7c%22ld-2018.html 1 -
+//wp-content/themes/twentyfourteen/404.php 1 -
+/Patotsav-................windowswin.ini.html 1 dholeradham.com/admin
+/COMING-SOON.html 1 -
+//adminpanel/ 1 -
+//dam.php 1 -
+/admin/fonts/Georgia.svg 1 http://dholeradham.com/admin/css/style.css
+/server/php/ 5 -
+//forbiddens.php 1 -
+/bitcoin/ 1 -
+/modules/attributewizardpro/file_upload.php 1 -
+//forum/index.php 1 -
+/administrator/templates/hathor/index.php 1 -
+/Statistik/ 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/ 1 -
+/mysql/main.php 1 -
+/AndroidFileUpload/uploads/up.php 5 -
+/izo.php 1 -
+/wp1/wp-includes/wlwmanifest.xml 17 -
+/Patotsav-nD9dkpeV')) 1 dholeradham.com/admin
+/web/wp-includes/wlwmanifest.xml 18 -
+/admin/mysql/main.php 1 -
+/old/ 5 -
+/examples/servlets/servlet/SessionExample 1 -
+/images/css/responsive.css 3 http://dholeradham.com/images/
+/Daily_Darshan.html 2 http://dholeradham.com/Gallery.php
+/<%21--.html 1 -
+/Patotsav--1)) 2 dholeradham.com/admin
+//WSO.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800085.jpg 1 -
+//wp-content/plugins/three-column-screen-layout/db.php 1 -
+//wso24.php 1 -
+/administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.php 1 -
+/modules/jro_homepageadvertise2/uploadimage.php 1 -
+/Akshar_Oradi.html 2 http://dholeradham.com/Gallery.php
+/admin/gallery/DOLERA%20PATOTSAV-201800058.jpg 1 -
+//sh3ll.php 1 -
+/templates/ja_purity/index.php 1 -
+/wp-content/themes/Avada/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/slides/PATOTSAV-201800015.jpg 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800074.jpg 1 -
+/2015/wp-includes/wlwmanifest.xml 9 -
+/modules/tdpsthemeoptionpanel/upload/root.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800030.jpg 1 -
+/v1/ 4 -
+/admin/css-darshan/Dholeradham.com 1 http://dholeradham.com/admin/css-darshan/
+/Patotsav-%24%7b%40print(md5(acunetix_wvs_security_test))%7d.html 1 -
+/tmp/vuln.php 1 -
+/Patotsav-%5e(%23%24%21%40%23%24)(()))******.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800072.jpg 1 -
+/admin/gallery/PATOTSAV-201800012.jpg 1 -
+/modules/realty/evogallery2/slides/root.php 1 -
+/../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././windows/win.ini.html 1 dholeradham.com/admin
+/images/images/logo.png 1 http://dholeradham.com/images/
+/_webalizer/ 1 -
+/templates/admin/js/tinymce/plugins/imgsurfer/main.php 2 -
+/'%26dir%26'.html 1 -
+//cms/ 1 -
+/Patotsav-'%2bresponse.write(9831461*9177285)%2b'.html 1 -
+/Patotsav-%0d%0a%20SomeCustomInjectedHeader:injected_by_wvs.html 1 dholeradham.com/admin
+/admin/gallery/PATOTSAV-201800018.jpg 1 -
+/sitemap.xml.gz 1 -
+/cart/ 2 -
+//user.php 1 -
+/examples/jsp/index.html 1 -
+/../../../../../../../../../../windows/win.ini.html 1 dholeradham.com/admin
+/site/wp-admin/install.php 2 -
+/templates/beez5/index.php 1 -
+/'%7cdir.html 1 -
+/wp_old/ 2 -
+/admin/css-darshan/ 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800091.jpg 1 -
+/modules/megamenu/uploadify/uploadify.php 1 -
+/long_inexistent_path12345_/Null.htw 1 -
+/wp-content/RxR__pcutg.php 1 -
+/director/ 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800064.jpg 1 -
+/scripts/jquery/kcfinder/upload/files/up.php.jd 6 -
+/shop/ 2 -
+/wp-content/jssor-slider/jssor-uploads/RxR__pcutg.php 1 -
+/../../../../../../../../../../boot.ini-2018.html 1 dholeradham.com/admin
+/wp-content/uploads/RxR__pcutg.php 4 -
+/Patotsav-'\"\\'\\\") 1 dholeradham.com/admin
+/ODuKoaBE 1 -
+/images/PHOTOS/AKSHAR%20ORADI-SIDE.jpg 1 -
+/Patotsav'%20AND%202%2b1-1-1%3d0%2b0%2b0%2b1%20AND%20'hBWr'%3d'hBWr-2018.html 1 dholeradham.com/admin
+/|~.aspx 1 -
+/.bitcoin/wallet.dat 1 -
+//b4.php 1 -
+/Patotsav-WEB-INF%5cweb.xml.html 2 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800088.jpg 1 -
+/Patotsav-2018_993349.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800076.jpg 1 -
+/Bhagavat_Katha'%20AND%202%2b1-1-1%3d0%2b0%2b0%2b1%20AND%20'1bem'%3d'1bem.html 1 dholeradham.com/admin
+/fonts/ 1 dholeradham.com/admin
+/wp-includes/fb-images/RxR__pcutg.php 1 -
+/admin/pma/main.php 1 -
+/7u0HKYYS' 1 dholeradham.com/admin
+/Patotsav-%22%7cdir.html 1 -
+/'%7cdir-2018.html 1 -
+//symsa2.php 1 -
+/admin/tinymce/jscripts/tiny_mce/plugins/imgsurfer/main.php 2 -
+/Patotsav-..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini.html 1 dholeradham.com/admin
+/images/jdownloads/screenshots/rxrking.php3.g 4 -
+/Marvins.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800092.jpg 1 -
+//madspotshell.php 1 -
+/268435455.html 1 dholeradham.com/admin
+/../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././etc/passwd.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800048.jpg 1 -
+/backup/ 1 -
+/%22%2bresponse.write(9540551*9870688)%2b%22-2018.html 1 -
+/admin/gallery/PATOTSAV-201800013.jpg 1 -
+/wp-content/themes/cuckootap/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/Patotsav-))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))).html 1 -
+/admin/photo/20181226_201449.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800014.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800102.jpg 1 -
+//wp-admin/setup-config.php 2 -
+/admin/gallery/PATOTSAV-201800026.jpg 1 -
+/%26dir-2018.html 1 -
+//mad.php 1 -
+/images/css/custom.css 3 http://dholeradham.com/images/
+//private.php 1 -
+/pma/main.php 1 -
+/robots.txt 463 -
+//bypass.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800089.jpg 1 -
+/temp/wp-admin/install.php 2 -
+/manager/ldskflks 3 -
+//vendor/phpunit/phpunit/LICENSE 2 -
+/Patotsav-1e309.html 1 dholeradham.com/admin
+/wp-content/uploads/wpstorecart/RxR__pcutg.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800008.jpg 1 -
+/wp-content/themes/andre/framework/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/stronghold-info 1 -
+/modules/resaleform/upload.php 1 -
+/upload/root.php 1 -
+/backup/wallet.dat 1 -
+/wp-content/plugins/barclaycart/uploadify/uploadify.php 1 -
+/zp-core/zp-extensions/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 2 -
+/website/wp-includes/wlwmanifest.xml 18 -
+/wp-content/error.php 1 -
+/usagedata/ 1 -
+/admin/database.yml 1 -
+/images/images/banner3_G.jpg 1 http://dholeradham.com/images/
+/slides/PATOTSAV-201800024.jpg 3 -
+/ClientAccessPolicy.xml 1 -
+/jomla/ 2 -
+/Patotsav-2018%26n904625%3dv966035.html 1 -
+//lil.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800087.jpg 1 -
+//root.php 1 -
+/tpl/plugins/upload9.1.0/server/php/up.php 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800095.jpg 1 -
+/acu6631%EF%BC%9Cs1%EF%B9%A5s2%CA%BAs3%CA%B9uca6631.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800044.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800003.jpg 1 -
+/pfNgSktD7x.exe 1 -
+/WEB-INF%5cweb.xml.html 2 dholeradham.com/admin
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+//../..//../..//../..//../..//../..//etc/passwd%00.jpg-2018.html 1 dholeradham.com/admin
+/blog/administrator/index.php 6 -
+/site/wp-includes/wlwmanifest.xml 50 -
+/wp-content/plugins/wpstorecart/php/upload.php 1 -
+/wp-info.php 1 -
+/admin/gallery/PATOTSAV-201800016.jpg 1 -
+/bk/wp-admin/install.php 2 -
+//media/tmp.php 1 -
+/../../../../../../../../../../windows/win.ini-2018.html 1 dholeradham.com/admin
+/modules/blocktestimonial/addtestimonial.php 1 -
+/modules/vtemskitter/img/root.php 1 -
+/admin/gallery/IMG_6705.jpg 1 -
+/wp-content/plugins/dzs-videogallery/admin/upload/izo.PhP.txtx 1 -
+/wp-content/plugins/woocommerce-custom-t-shirt-designer/includes/templates/template-black/designit/cs/uploadImage/%3Cp%3EAn%20appropriate%20representation%20of%20the%20requested%20resource%20/wp-content/plugins/woocommerce-custom-t-shirt-designer/includes/ 1 -
+/cgi/mt/mt-upgrade.cgi 1 -
+/wp-content/plugins/magic-fields/RCCWP_upload_ajax.php 1 -
+/apple-touch-icon-152x152.png 196 -
+/components/com_hdflvplayer/hdflvplayer/download.php 4 -
+/slides/PATOTSAV-201800029.jpg 4 -
+/components/RxR_1570507834.php 1 -
+/language/en-GB/en-GB.xml 7 -
+/admin/gallery/IMG_6723.jpg 1 -
+/invoker/JMXInvokerServlet 1 -
+/upload.php 1 -
+/administrator/components/com_jinc/classes/graphics/tmp-upload-images/root.php 1 -
+/admin/gallery/PATOTSAV-201800025.jpg 1 -
+/modules/realty/include/uploadimage.php 1 -
+/Patotsav-g08YOwUN')) 1 dholeradham.com/admin
+//install.php 1 -
+/admin/gallery/PATOTSAV-201800003.jpg 1 -
+/slides/IMG_6703.jpg 3 -
+/slides/PATOTSAV-201800028.jpg 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800009.jpg 1 -
+/admin/gallery/PATOTSAV-201800030.jpg 1 -
+/res/slider.js 1 http://dholeradham.com/Bhagavat_Katha.html
+/admin/phpmyadmin/main.php 1 -
+/wp-content/plugins/showbiz/temp/update_extract/RxR__pcutg.php 1 -
+/wp-admin 1 -
+/oldwp/ 2 -
+/rxr.php 5 -
+/admin/gallery.php 6 -
+/Patotsav-%24%7b100280%2b99230%7d.html 1 -
+/slides/PATOTSAV-201800030.jpg 5 -
+/wp-content/plugins/wp-e-commerce/wpsc-includes/misc.functions.php 1 -
+/admin/database.yml.pgsql 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800069.jpg 1 -
+/oldsite/ 1 -
+/admin/app/config/database.yml.pgsql 1 -
+/modules/leosliderlayer/slides/root.php 2 -
+/wp-content/uploads/2018/08/RxR__pcutg.php 9 -
+/components/com_b2jcontact/b2jcontact.php 1 -
+/administrator/components/com_rokdownloads/assets/uploadhandler.php 1 -
+//admin/login.php 1 -
+/admin/cgallery.php 66 dholeradham.com/admin
+/admin/gallery/PATOTSAV-201800017.jpg 1 -
+/admin/ 2 dholeradham.com/admin
+/admin/gallery/IMG_6717.jpg 1 -
+/administrator/components/com_extplorer/uploadhandler.php 1 -
+/admin/gallery/374A7337.jpg 1 -
+/z3xC94x0')) 1 dholeradham.com/admin
+/admin/fonts/Georgia-Bold.woff 1 http://dholeradham.com/admin/css/style.css
+/admin/fonts/Georgia-Bold.eot 1 http://dholeradham.com/admin/css/style.css
+/Patotsav-1%a8%a4%00xa7%a8%a4%a1%e9.html 1 dholeradham.com/admin
+/libraries/joomla/css.php 1 -
+/modules/soopabanners/slides/root.php 1 -
+/mt/mt-upgrade.cgi 1 -
+/wp-content/themes/saico/framework/_scripts/valums_uploader/php.php 1 -
+/Patotsav-8FzrXUBq.html 1 dholeradham.com/admin
+/slides/IMG_6737.jpg 3 -
+/_vti_inf.html 1 -
+/wp-content/plugins/wordpress-member-private-conversation/doupload.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/admin/gallery/374A7404.jpg 1 -
+/tinymce/plugins/ajaxfilemanager/ajax_create_folder.php 2 -
+/Patotsav-http://www.acunetix.tst.html 1 -
+/wp-content/uploads/wpallimport/uploads//izo.php 1 -
+/vehiculo_photos/server/php/ 5 -
+/news/wp-includes/wlwmanifest.xml 18 -
+/modules/mod_socialpinboard_menu/images/socialpinboard/temp/%3Cp%3EAn%20appropriate%20representation%20of%20the%20requested%20resource%20/modules/mod_socialpinboard_menu/saveimagefromupload.php 1 -
+/wp-content/plugins/simple-ads-manager/RxR__pcutg.php 1 -
+/Patotsav-JyI%3d.html 1 dholeradham.com/admin
+/admin/gallery/IMG_6713.jpg 1 -
+/admin/gallery/374A7315.jpg 1 -
+/modules/soopamobile2/slides/root.php 2 -
+/main/ 4 -
+/images/DAILYDARSHAM/2.jpg 5 -
+/js/Dholeradham.com 1 http://dholeradham.com/js/
+/admin.php 2 -
+/cms/wp-includes/wlwmanifest.xml 50 -
+/%24%7b99667%2b100231%7d-2018.html 1 -
+/jwallpapers_files/plupload/root.php 1 -
+/xmlrpc.php 25 -
+/' 2 -
+/admin/photo/SAVE_20180322_095436.jpeg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800036.jpg 1 -
+/assets/ckeditor/kcfinder/upload/files/up.php.jd 6 -
+/res/Dholeradham.com 1 http://dholeradham.com/res/
+/Patotsav-..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd.html 1 dholeradham.com/admin
+//downloads/dom.php 1 -
+/modules/vtemslideshow/slides/root.php 1 -
+/assets/js/mylibs/kcfinder/upload/files/up.php.jd 6 -
+/admin/gallery/DOLERA%20PATOTSAV-201800047.jpg 1 -
+/admin/gallery/IMG_6737.jpg 1 -
+///hitnSqXZdLY2W.bxss.me/-2018.html 1 -
+/PMA/main.php 1 -
+/phpMyAdmin-3.3.4-all-languages/main.php 1 -
+/pfNgSktD7x.php 1 -
+/invalid../../../../../../../../../../etc/passwd/./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././. 2 dholeradham.com/admin
+/DKroaO0I9J.cfm 1 -
+/admin/jsgallery/Dholeradham.com 1 http://dholeradham.com/admin/jsgallery/
+/plugins/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+/if(now()%3dsysdate()%2csleep(9)%2c0)/*'XOR(if(now()%3dsysdate()%2csleep(9)%2c0))OR'%22XOR(if(now()%3dsysdate()%2csleep(9)%2c0))OR%22*/-2018.html 1 dholeradham.com/admin
+/admin/gallery/IMG_7459.jpg 1 -
+/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini-2018.html 1 dholeradham.com/admin
+/modules/soopabanners/uploadimage.php 1 -
+/modules/pk_flexmenu/uploads/root.php 1 -
+///hitFZOFp05HLN.bxss.me/.html 1 -
+/v2/ 4 -
+/Patotsav-%22%2bresponse.write(9831461*9177285)%2b%22.html 1 -
+/modules/wg24themeadministration/wg24_ajax.php 1 -
+/Patotsav-%0d%20SomeCustomInjectedHeader:injected_by_wvs.html 1 dholeradham.com/admin
+/statistics/ 1 -
+/admin/database.yml.sqlite3 1 -
+/dhole-radham/48-taking-the-pounds-off-of-the-simple-way 2 -
+/scripts/jquery/kcfinder/upload.php 6 -
+/admin/gallery/374A7422.jpg 1 -
+/modules/soopamobile/slides/root.php 1 -
+/file:///etc/passwd.html 1 dholeradham.com/admin
+//images/stories/gass.php 1 -
+/slides/IMG_6721.jpg 3 -
+/vendor/phpunit/phpunit/src/Util/PHP/king.php 1 -
+/.git/config 1 -
+/administrator/components/com_xcloner-backupandrestore/index2.php 1 -
+/templates/beez_20/error.php 1 -
+/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd-2018.html 1 dholeradham.com/admin
+/Patotsav-'%7c'ld.html 1 -
+/solr/admin/ 1 -
+/fantastico_fileslist.txt 1 -
+/modules/fieldvmegamenu/ajax/upload.php 1 -
+/dailydarshan.html 1 -
+/wp-admin/admin-ajax.php 19 -
+/admin/gallery/DOLERA%20PATOTSAV-201800023.jpg 1 -
+/phpMyAdmin-3.3.4-english/main.php 1 -
+/cgi-bin/awstats/ 1 -
+/media/wp-includes/wlwmanifest.xml 17 -
+//.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./windows/win.ini.html 1 dholeradham.com/admin
+/.env 2 -
+/admin/gallery/DOLERA%20PATOTSAV-201800063.jpg 1 -
+/pfNgSktD7x.asp 1 -
+/Patotsav-../../../../../../../../../../etc/passwd.html 1 dholeradham.com/admin
+//wp-content/plugins/Fbrrchive.php 1 -
+/g63tHV89')) 1 dholeradham.com/admin
+/admin/photo/IMG-20181226-WA0004.jpg 1 -
+/acux4888%C0%BEz1%C0%BCz2a%90bcxuca4888-2018.html 1 dholeradham.com/admin
+/admin/gallery/IMG_6701.jpg 1 -
+/admin/gcategory/ 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800078.jpg 1 -
+/ajax/api/hook/decodeArguments 2 -
+/modules/jro_homepageadvertise2/slides/root.php 1 -
+/Patotsav-0%2b0%2b0%2b2018.html 4 dholeradham.com/admin
+/wallet.dat 1 -
+/wp-content/themes/Directory/images/tmp/RxR__pcutg.php 1 -
+/wp-content/themes/u-design/scripts/admin/uploadify/RxR__pcutg.php 1 -
+/wordpress/wp-admin/install.php 7 -
+/Patotsav-ClpxZs6v') 1 dholeradham.com/admin
+/test/wp-includes/wlwmanifest.xml 17 -
+/wp-content/themes/ithemes2/uploads/RxR__pcutg.php 1 -
+/modules/1attributewizardpro/file_upload.php 1 -
+/Patotsav-/.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./.%5c%5c./windows/win.ini.html 1 dholeradham.com/admin
+/mysqladmin/main.php 1 -
+/templates/protostar/error.php 1 -
+/test/ 4 -
+/beta/ 2 -
+/admin/cssgallery/ 1 dholeradham.com/admin
+///www.acunetix.tst.html 1 -
+/Bhagavat_Katha_986536'(): 1 dholeradham.com/admin
+/sito/wp-includes/wlwmanifest.xml 17 -
+/admin/js-darshan/ 1 dholeradham.com/admin
+/tmp/wp-admin/install.php 2 -
+/wp-content/themes/eptonic/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+/(select(0)from(select(sleep(9)))v)/*'%2b(select(0)from(select(sleep(9)))v)%2b'%22%2b(select(0)from(select(sleep(9)))v)%2b%22*/.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800093.jpg 1 -
+/pfNgSktD7x.jhtml 1 -
+/modules/vtemslideshow/uploadimage.php 1 -
+/Estadisticas/ 1 -
+/Patotsav_917052-2018.html 1 dholeradham.com/admin
+/themes/dashboard/assets/plugins/jquery-file-upload/server/php/ 5 -
+/admin/gallery/374A7435.jpg 1 -
+/Khatvidhi.html 1 -
+/images/images/twitter.png 1 http://dholeradham.com/images/
+/components/com_foxcontact/foxcontact.php 1 -
+/pfNgSktD7x.jspa 1 -
+/elmah.axd 1 -
+/slides/IMG_6719.jpg 4 -
+/wp-content/plugins/wp-property/third-party/uploadify/RxR__pcutg.php 1 -
+/wp-content/plugins/sexy-contact-form/includes/fileupload/index.php 1 -
+//wp/wp-admin/install.php 1 -
+//administrator/administrator.php 1 -
+/wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.php 1 -
+/xxxxxx.php 1 -
+/modules/nvn_export_orders/root.php 1 -
+/2018/wp-includes/wlwmanifest.xml 19 -
+/slides/PATOTSAV-201800014.jpg 5 -
+/slides/IMG_6713.jpg 3 -
+/modules/columnadverts2/uploadimage.php 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 1 -
+/admin/gallery/PATOTSAV-201800033.jpg 1 -
+/%22%7cdir.html 1 -
+/modules/1attributewizardpro/file_uploads/root.php 1 -
+/Patotsav-' 1 -
+/myadmin/main.php 1 -
+/).html 1 dholeradham.com/admin
+/slides/PATOTSAV-201800021.jpg 4 -
+/administrator/components/com_redmystic/chart/tmp-upload-images/root.php 1 -
+/blog/robots.txt 51 -
+/wp-content/themes/pindol/revslider/temp/update_extract/revslider/izo.php 1 -
+/wordpress/ 37 -
+/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c.html 1 -
+/_vti_bin/_vti_aut/author.dll 1 -
+/shell.php 2 -
+/%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c-2018.html 1 -
+/blog/wp-includes/wlwmanifest.xml 52 -
+//log.php 1 -
+/templates/beez/index.php 1 -
+/modules/modules/modules.php 1 -
+/modules/attributewizardpro_x/file_uploads/root.php 1 -
+/backup/bitcoin/wallet.dat 1 -
+/TaE843nd9i.jsp 1 -
+/images/PHOTOS/PATOTSAV-1.jpg 1 -
+/components/com_oziogallery2/imagin/scripts_ralcr/filesystem/writeToFile.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800098.jpg 1 -
+/examples/jsp/snp/snoop.jsp 1 -
+/root.php 6 -
+/admin/photo/SAVE_20180322_095450.jpeg 1 -
+/assets/js/mylibs/kcfinder/upload.php 6 -
+//templates/beez5/index.php 1 -
+/default 1 -
+/wp-content/uploads/uigen_2018/RxR__pcutg.php 1 -
+/slides/PATOTSAV-201800022.jpg 4 -
+/images/pdffile/PATRIKA.pdf 5 -
+/admin/gallery/IMG_6710.jpg 1 -
+/wp-content/plugins/cnhk-slideshow/uploadify/RxR__pcutg.php 1 -
+/res/ 1 dholeradham.com/admin
+/portal/ 2 -
+/modules/additionalproductstabs/file_uploads/root.php 1 -
+/e''e%22%22.html 1 dholeradham.com/admin
+/admin/gallery/PATOTSAV-201800032.jpg 1 -
+/images/images/img4.jpg 1 http://dholeradham.com/images/
+//cache/cache_aqbmkwwx.php 1 -
+/JyI%3d-2018.html 1 dholeradham.com/admin
+/http://www.acunetix.tst.html 1 -
+/administrator/templates/bluestork/index.php 1 -
+/Patotsav-..%c0%af.html 1 dholeradham.com/admin
+/admin/gallery/374A7327.jpg 1 -
+/Patotsav-//hitaA8Kx9oeG8.bxss.me/.html 1 -
+/%3f'%3f%22.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800040.jpg 1 -
+/Old/ 2 -
+/admin/gallery/DOLERA%20PATOTSAV-201800062.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800061.jpg 1 -
+/admin/gallery/PATOTSAV-201800015.jpg 1 -
+/1e309.html 1 dholeradham.com/admin
+/fonts/Dholeradham.com 1 http://dholeradham.com/fonts/
+/admin/gallery/PATOTSAV-201800024.jpg 1 -
+/wp-content/plugins/woocommerce-products-filter/lib/simple-ajax-uploader/action.php 1 -
+/slides/IMG_6717.jpg 3 -
+//wp-content/themes/storefront/404.php 1 -
+/modules/productpageadverts/uploadimage.php 1 -
+/RxR.php 1 -
+/root.php.xxxjpg 1 -
+/%0d%0a%20SomeCustomInjectedHeader:injected_by_wvs-2018.html 1 dholeradham.com/admin
+/admin/gallery/374A7333.jpg 1 -
+/modules/homepageadvertise2/uploadimage.php 1 -
+//wso404.php 1 -
+/new/wp-admin/setup-config.php 2 -
+//404.php 1 -
+/admin/gallery/374A7423.jpg 1 -
+/wp-content/plugins/membership-simplified-for-oap-members-only/download.php 1 -
+/admin/libraries/ajaxfilemanager/ajax_create_folder.php 2 -
+/wp-admin/admin-post.php 2 -
+//wordpress/wp-admin/install.php 1 -
+/_awstats/ 1 -
+/Patotsav-.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800021.jpg 1 -
+/'\"\\'\\\") 2 dholeradham.com/admin
+//wp-content/plugins/unicode/info.php 1 -
+dholeradham.com/admin/ClientAccessPolicy.xml 1 -
+/wp1/ 2 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/admin/gallery/PATOTSAV-201800021.jpg 1 -
+/admin/gallery/PATOTSAV-201800001.jpg 1 -
+/images/css/style.css 3 http://dholeradham.com/images/
+/%5e(%23%24%21%40%23%24)(()))******.html 1 dholeradham.com/admin
+/forum/index.php 1 -
+/js/ckeditor/kcfinder/upload.php 6 -
+/..%c0%af-2018.html 1 dholeradham.com/admin
+/Patotsav-%7cdir.html 1 -
+/modules/cartabandonmentpro/upload.php 1 -
+/admin/app/config/database.yml.sqlite3 1 -
+/userfiles/file/spy.txt 2 -
+/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini.html 1 dholeradham.com/admin
+/admin/gallery/374A7358.jpg 1 -
+/error.php 1 -
+/modules/cartabandonmentproOld/upload.php 1 -
+//authenticating.php 2 -
+/V5.php 1 -
+/V3.php 1 -
+/../../../../../../../../../../windows/win.ini%00.jpg-2018.html 1 dholeradham.com/admin
+//gaza.php 1 -
+/admin/jsgallery/ 1 dholeradham.com/admin
+//wp-admin/m4d.php 1 -
+/admin/gallery/3.jpg 1 -
+/admin/config/database.yml.sqlite3 1 -
+/wp-content/plugins/revslider/temp/update_extract/RxR__pcutg.php 1 -
+/response.write(9197113*9025382).html 1 -
+/images/banner3.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800025.jpg 1 -
+/slides/PATOTSAV-201800020.jpg 4 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+/'%7c'ld.html 1 -
+/................windowswin.ini-2018.html 1 dholeradham.com/admin
+//uploader.php 1 -
+/slides/PATOTSAV-201800031.jpg 4 -
+/assets/global/plugins/jquery-file-upload/server/php/files/up.php 5 -
+/admin/gallery/PATOTSAV-201800020.jpg 1 -
+/pfNgSktD7x.stm 1 -
+/admin/gallery/IMG_6706.jpg 1 -
+//admin/index.php 1 -
+/templates/atomic/index.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800019.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800090.jpg 1 -
+/Patotsav-%22%26dir%26%22.html 1 -
+/modules/nvn_export_orders/upload.php 1 -
+/ckeditor/kcfinder/upload/files/up.php.jd 6 -
+/vulns.php 1 -
+/wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/server/php/ 1 -
+/slides/PATOTSAV-201800010.jpg 6 -
+/pfNgSktD7x.phtml 1 -
+/components/com_jbcatalog/libraries/jsupload/server/php/files/root.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800052.jpg 1 -
+/admin/fonts/Georgia-Bold.svg 1 http://dholeradham.com/admin/css/style.css
+/modules/megaproduct/root.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800080.jpg 1 -
+/solr/select/ 1 -
+//wp-content/uploads/2019/02/shell.php 1 -
+/Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n-2018.html 1 dholeradham.com/admin
+/libraries/jscripts/kcfinder/upload/files/up.php.jd 6 -
+/modules/psmodthemeoptionpanel/psmodthemeoptionpanel_ajax.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/index.html 7 -
+/helpdesk/media/editor/plugins/filemanager/ajax_create_folder.php 2 -
+/modules/leosliderlayer/upload_images.php 1 -
+/wp-content/plugins/woocommerce-custom-t-shirt-designer/includes/templates/template-black/designit/cs/upload.php 1 -
+/admin/Gallery.php 18 https://www.google.com/
+/inexistent_file_name.inexistent0123450987.cfm 1 -
+/Patotsav-Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n.html 1 dholeradham.com/admin
+/slides/PATOTSAV-201800025.jpg 5 -
+/admin/fonts/Dholeradham.com 1 http://dholeradham.com/admin/fonts/
+/admin/gallery/374A7400.jpg 1 -
+/http://hitnSqXZdLY2W.bxss.me/-2018.html 1 -
+/modules/filesupload/root.php 1 -
+//infos.php 1 -
+/bitcoin/backup/wallet.dat 1 -
+/Patotsav-'%7cdir.html 1 -
+/Patotsav-<%21--.html 1 -
+/com_sexycontactform/fileupload/files/root.php 1 -
+/Patotsav-%24%7b%40print(md5(acunetix_wvs_security_test))%7d%5c.html 1 -
+/wp-content/themes/clockstone/theme/functions/e3726adb9493beb4e8e2dabe65ea10ef.php 1 -
+/Patotsav-../../../../../../../../../../boot.ini.html 1 dholeradham.com/admin
+/Gallery.html 6 -
+/................windowswin.ini.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800054.jpg 1 -
+/templates/system/error.php 1 -
+//oldsite/wp-admin/install.php 1 -
+/kcfinder-2.51/upload.php 6 -
+/files/uploadify/uploadify.php 2 -
+//wp-content/plugins/akismet/akismet.php 1 -
+/blogs/ 2 -
+/acunetix-wvs-test-for-some-inexistent-file 1 -
+/images/images/img1.jpg 1 http://dholeradham.com/images/
+/forums/index.php 1 -
+/modules/advancedslider/uploads/root.php 1 -
+/admin/gallery/374A7338.jpg 1 -
+/kcfinder-2.51/upload/files/up.php.jd 6 -
+/'%7c'ld-2018.html 1 -
+//2.php 1 -
+/modules/videostab/uploads/root.php 1 -
+/user/login 2 -
+//wp-content/plugins/wpfootes.php 1 -
+/%0d%0a%20SomeCustomInjectedHeader:injected_by_wvs.html 1 dholeradham.com/admin
+//home/wp-admin/install.php 1 -
+/images/pdffile/ 1 dholeradham.com/admin
+/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/windows/win.ini 1 -
+/phpMyAdmin/main.php 1 -
+//shell.php 2 -
+/wi4hw5jh')) 1 dholeradham.com/admin
+/wp-content/themes/clockstone/theme/functions/uploadbg.php 1 -
+//wp-content/themes/dw-minion/404.php 1 -
+/templates/beez3/index.php 1 -
+/admin/database.yml_original 1 -
+/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/single-upload.php 1 -
+/modules/tdpsthemeoptionpanel/tdpsthemeoptionpanelAjax.php 1 -
+//wp-content/plugins/SocketIasrgasfontrol.php 1 -
+/%5c.html 1 dholeradham.com/admin
+//robot.php 1 -
+/admin/gallery/PATOTSAV-201800011.jpg 1 -
+/templates/protostar/index.php 1 -
+//ldskflks 3 -
+/acu10419%EF%BC%9Cs1%EF%B9%A5s2%CA%BAs3%CA%B9uca10419-2018.html 1 dholeradham.com/admin
+/admin/gallery/374A7381.jpg 1 -
+/5xjr2MAn') 1 dholeradham.com/admin
+@testasp.vulnweb.com/rpb.png 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800056.jpg 1 -
+/_vti_bin/shtml.exe 1 -
+/Patotsav%26n952511%3dv917147-2018.html 1 -
+/wp-content/uploads/wysija/themes/Master/RxR.php 1 -
+/pfNgSktD7x.jsp 1 -
+/wso.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800084.jpg 1 -
+/images/DHOON.jpg 1 -
+/admin/gallery/PATOTSAV-201800031.jpg 1 -
+/admin/images/icons.png 3 http://dholeradham.com/admin/cssgallery/swipebox.css
+/admin/gallery/DOLERA%20PATOTSAV-201800081.jpg 1 -
+//whmcs.php 1 -
+//wp-content/plugins/SocketIontrol.php 1 -
+/if(now()%3dsysdate()%2csleep(9)%2c0)/*'XOR(if(now()%3dsysdate()%2csleep(9)%2c0))OR'%22XOR(if(now()%3dsysdate()%2csleep(9)%2c0))OR%22*/.html 1 dholeradham.com/admin
+/wp-content/plugins/social-networking-e-commerce-1/classes/views/social-options/form_cat_add.php 1 -
+/demo/wp-admin/install.php 2 -
+/stronghold-status 1 -
+/administrator/manifests/files/joomla.xml 4 -
+/cms/ 3 -
+/index.php 69 -
+/modules/realty/evogallery/uploadimage.php 1 -
+/components/com_oziogallery/imagin/scripts_ralcr/filesystem/writeToFile.php 2 -
+/%26dir.html 1 -
+/app/webroot/js/tinymce/plugins/imgsurfer/main.php 2 -
+/modules/megamenu/uploadify/root.php 1 -
+/admin/gallery/Dholeradham.com 1 http://dholeradham.com/admin/gallery/
+/admin/gallery/DOLERA%20PATOTSAV-201800043.jpg 1 -
+/images/img2.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800029.jpg 1 -
+/slides/PATOTSAV-201800006.jpg 4 -
+/.stats/ 1 -
+/administrator 1 -
+/Patotsav-%5c.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800053.jpg 1 -
+/modul/tinymce/plugins/ajaxfilemanager/ajax_create_folder.php 2 -
+/WEB-INF/web.xml-2018.html 2 dholeradham.com/admin
+/admin/gallery/374A7411.jpg 1 -
+//anonymous.php 1 -
+/wp-login.php 10 -
+/modules/pk_vertflexmenu/uploads/root.php 1 -
+//hacked.php 1 -
+/assets/uploadify/uploadify.php 2 -
+/admin/gallery/PATOTSAV-201800005.jpg 1 -
+//d00.php 1 -
+/administrator/templates/hathor/error.php 1 -
+/pfNgSktD7x.cfm 1 -
+/pfNgSktD7x.pl 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800099.jpg 1 -
+/public/js/plugins/imgsurfer/main.php 2 -
+/../../../../../../../../../../etc/passwd-2018.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800067.jpg 1 -
+/admin/js-darshan/Dholeradham.com 1 http://dholeradham.com/admin/js-darshan/
+/wp-content/plugins/pitchprint/uploader/ 1 -
+//wso.php 2 -
+//vendor/phpunit/phpunit/phpunit.xsd 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800028.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800049.jpg 1 -
+/admin/fonts/ 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800066.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800101.jpg 1 -
+/admin/fonts/Georgia.woff 1 http://dholeradham.com/admin/css/style.css
+/wp-content/uploads/2018/01/izom.php 1 -
+//wp-content/plugins/disqus-comment-system/disqus.php 1 -
+/modules/pk_flexmenu_old/ajax/upload.php 1 -
+/modules/simpleslideshow/slides/root.php 1 -
+//4f.php 1 -
+/modules/pk_flexmenu/ajax/upload.php 1 -
+/images/BANDHAKAM.pdf 1 -
+/modules/columnadverts/uploadimage.php 1 -
+/backup/bitcoin/ 1 -
+/slides/PATOTSAV-201800013.jpg 5 -
+/admin/gallery/DOLERA%20PATOTSAV-201800059.jpg 1 -
+/awstats/ 1 -
+/slides/IMG_6718.jpg 3 -
+/modules/orderfiles/ajax/upload.php 1 -
+/1'%22-2018.html 1 dholeradham.com/admin
+/wp-content/themes/cubed_v1.2/functions/upload-handler.php 1 -
+/admin/photo/SAVE_20180623_092018.jpeg 1 -
+/Patotsav--1 2 dholeradham.com/admin
+//cpanel.php 1 -
+/crossdomain.xml 1 -
+/templates/beez_20/index.php 1 -
+/RDuX8LeS' 1 dholeradham.com/admin
+/admin/css/Dholeradham.com 1 http://dholeradham.com/admin/css/
+/modules/mod_dvfoldercontent/download.php 1 -
+/templates/beez5/error.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800086.jpg 1 -
+/reports/Webalizer/ 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800035.jpg 1 -
+/admin/gallery/374A7413.jpg 1 -
+/components/com_jbcatalog/libraries/jsupload/ 3 -
+/images/stories/root.php.xxxjpg 2 -
+/9636814 1 -
+/main/wp-admin/install.php 2 -
+/wp-content/themes/konzept/includes/uploadify/upload.php 1 -
+/modules/fieldvmegamenu/uploads/root.php 1 -
+/images/images/google-plus.png 1 http://dholeradham.com/images/
+/admin/images/ 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800068.jpg 1 -
+/Patotsav-http://hitaA8Kx9oeG8.bxss.me/.html 1 -
+/admin/gallery/PATOTSAV-201800023.jpg 1 -
+/modules/columnadverts/slides/root.php 1 -
+/editor/stats/ 1 -
+/wp/wp-admin/setup-config.php 2 -
+//old/wp-admin/install.php 1 -
+/'%22-2018.html 1 -
+//zone-h.php 1 -
+/admin/gallery/PATOTSAV-201800004.jpg 1 -
+/Bhagavat_Katha_909571.html 1 dholeradham.com/admin
+/Patotsav-unexisting/../../../../../../../../../../windows/win.ini.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\. 1 dholeradham.com/admin
+/modules/leosliderlayer/uploadimage.php 1 -
+/laravel/vendor/phpunit/phpunit/LICENSE 2 -
+/Patotsav-//www.acunetix.tst.html 1 -
+/indoxploit.php 1 -
+/modules/addthisplugin/file_upload.php 1 -
+/admin/gallery/ 1 dholeradham.com/admin
+//forums/index.php 1 -
+/slides/PATOTSAV-201800032.jpg 4 -
+/admin/ckeditor/kcfinder/upload/files/up.php.jd 6 -
+/catalog/view/indess.php 1 dholeradham.com
+/Patotsav-if(now()%3dsysdate()%2csleep(6)%2c0)/*'XOR(if(now()%3dsysdate()%2csleep(6)%2c0))OR'%22XOR(if(now()%3dsysdate()%2csleep(6)%2c0))OR%22*/.html 1 dholeradham.com/admin
+/images/css/bootstrap-theme.css 3 http://dholeradham.com/images/
+/server/php/files/up.php 5 -
+/demo/ 2 -
+/assets/global/plugins/jquery-file-upload/server/php/ 7 -
+/_vti_pvt/authors.pwd 1 -
+/Patotsav-%0a%20SomeCustomInjectedHeader:injected_by_wvs.html 1 dholeradham.com/admin
+/wp-content/themes/medicate/script/revslider/temp/update_extract/revslider/izo.php 1 -
+/plugins/content/s5_media_player/helper.php 1 -
+/stat/ 1 -
+/wp-content/plugins/wp-symposium/js/uploadify/uploadify.php 1 -
+/components/RxR_1571422748.php 1 -
+/%22%2bresponse.write(9197113*9025382)%2b%22.html 1 -
+/wp/wp-admin/install.php 7 -
+/Patotsav-1'%22.html 1 dholeradham.com/admin
+/modules/attributewizardpro_x/file_upload.php 1 -
+/admin/config/database.yml.pgsql 1 -
+/admin/app/config/database.yml 1 -
+/apple-touch-icon-precomposed.png 145 -
+/statystyka/ 1 -
+/XBkQhhFh 1 -
+/modules/attributewizardpro.OLD/file_uploads/root.php 1 -
+/public/upload_nhieuanh/server/php/files/up.php 5 -
+/wp-content/plugins/cherry-plugin/admin/import-export/RxR__pcutg.php 1 -
+/Zgj70ZUSD7.cfm 1 -
+/admin/index.php 6 -
+/admin/gallery/DOLERA%20PATOTSAV-201800100.jpg 1 -
+/modules/cartabandonmentpro/uploads/root.php 1 -
+/%e3h-2018.html 1 dholeradham.com/admin
+/tmp/plupload/root.phtml 1 -
+/admin/gallery/374A7244.jpg 1 -
+/wp-content/themes/amplus/functions/upload-handler.php 1 -
+/tpl/plugins/upload9.1.0/server/php/files/up.php 5 -
+/Patotsav-2018_911690'(): 1 dholeradham.com/admin
+/thumbs/Dholeradham.com 1 http://dholeradham.com/thumbs/
+/awstats.pl 1 -
+/unexisting/../../../../../../../../../../windows/win.ini.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\.\\. 2 dholeradham.com/admin
+//wp-login.php 2 -
+///wp-admin/install.php 1 -
+/%24%7b%40print(md5(acunetix_wvs_security_test))%7d.html 1 -
+/sysstat/ 1 -
+/qpkzkQlQ.html 1 dholeradham.com/admin
+/old/wp-admin/install.php 2 -
+/masseditproduct/uploads/file/root.php 1 -
+/cms/wp-admin/install.php 2 -
+/js/ckeditor/kcfinder/upload/files/up.php.jd 6 -
+/modules/productpageadverts/slides/root.php 1 -
+/wallet/wallet.dat 1 -
+/1%a8%a4%00xa7%a8%a4%a1%e9-2018.html 1 dholeradham.com/admin
+/slides/PATOTSAV-201800023.jpg 6 -
+/admin/gallery/DOLERA%20PATOTSAV-201800024.jpg 1 -
+/assets/admin/ckeditor/kcfinder/upload.php 6 -
+/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini-2018.html 1 dholeradham.com/admin
+/wp-content/themes/satoshi/functions/upload-handler.php 1 -
+/web/image/upload.php 5 -
+/wp-content/plugins/social-networking-e-commerce-1/images/uploads/RxR__pcutg.php 1 -
+/editor/plugins/filemanager/ajax_create_folder.php 2 -
+/tinymce/plugins/imgsurfer/main.php 2 -
+/cfg-contactform-1/inc/upload.php 2 -
+/Patotsav-/etc/passwd.html 1 dholeradham.com/admin
+/098.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800013.jpg 1 -
+/website/ 2 -
+/admin/app/config/database.yml_original 1 -
+/new/ 5 -
+//c22.php 1 -
+/2016/wp-includes/wlwmanifest.xml 9 -
+/wp-content/plugins/wpshop/includes/ajax.php 1 -
+//blog/wp-admin/install.php 1 -
+/qEteBv0e' 1 dholeradham.com/admin
+/slides/PATOTSAV-201800026.jpg 3 -
+/268435455-2018.html 1 dholeradham.com/admin
+/Patotsav-../../../../../../../../../../windows/win.ini%00.jpg.html 1 dholeradham.com/admin
+/<%21---2018.html 1 -
+/jmx-console/HtmlAdaptor 3 -
+/Patotsav-invalid../../../../../../../../../../etc/passwd/./././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././ 1 dholeradham.com/admin
+/assets/ckeditor/kcfinder/upload.php 6 -
+/admin/gallery/DOLERA%20PATOTSAV-201800011.jpg 1 -
+//wp-content/plugins/wp-footers.php 1 -
+/slides/IMG_6706.jpg 2 -
+//cpn.php 1 -
+//error_log.php 1 -
+/dbadmin/main.php 1 -
+/..%c0%af.html 1 dholeradham.com/admin
+//big.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800079.jpg 1 -
+//wp-content/themes/gaukingo/db.php 1 -
+//sql.php 1 -
+/2017/wp-includes/wlwmanifest.xml 9 -
+/admin/fonts/fontawesome-webfont.svg 1 dholeradham.com/admin
+/images/PHOTOS/AKSHAR 3 -
+/admin/gallery/DOLERA%20PATOTSAV-201800083.jpg 1 -
+/1%a8%a4%00xa7%a8%a4%a1%e9.html 1 dholeradham.com/admin
+/site/ 2 -
+/slides/IMG_6701.jpg 3 -
+/media/rooot.phP 1 -
+/images/pdffile/dholera%20mahima_New.pdf 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800042.jpg 1 -
+/sCEkBm8t') 1 dholeradham.com/admin
+/images/images/banner1-1.jpg 1 http://dholeradham.com/images/
+//cache/list.php 1 -
+//wp.php 1 -
+/modules/filesupload/upload.php 1 -
+/administrator/components/com_acymailing/inc/openflash/tmp-upload-images/root.php 1 -
+/logs/ 1 -
+/admin/gallery/IMG_7514.jpg 1 -
+/templates/atomic/error.php 1 -
+/admin/img 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800041.jpg 1 -
+/images/PHOTOS/DHOLERADHAM-SIDE-22.jpg 1 -
+//web/wp-admin/install.php 1 -
+//media/big.php 1 -
+/../..//../..//../..//../..//../..//../..//../..//../..//windows/win.ini.html 1 dholeradham.com/admin
+/))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))).html 1 -
+/admin/gallery/IMG_7507.jpg 1 -
+/Dholeradham.com 6 http://www.dholeradham.com/
+//images/google-assist.php 1 -
+/modules/cartabandonmentproOld/uploads/root.php 1 -
+/slides/PATOTSAV-201800016.jpg 4 -
+/components/com_b2jcontact/izoc.php 1 -
+/assets/tinymce/plugins/imgsurfer/main.php 2 -
+/modules/additionalproductstabs/file_upload.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800015.jpg 1 -
+//database.php 1 -
+/admin/gallery/374A7347.jpg 1 -
+/../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././windows/win.ini-2018.html 1 dholeradham.com/admin
+/slides/PATOTSAV-201800005.jpg 4 -
+/file:///etc/passwd-2018.html 1 dholeradham.com/admin
+/%22 2 -
+/images/PHOTOS/DHOLERADHAM-SABHAKHAND-24.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800002.jpg 1 -
+/'%22.html 1 -
+/wp-content/themes/beach_apollo/advance/plugins/revslider/temp/update_extract/revslider/izo.php 1 -
+/e''e%22%22-2018.html 1 dholeradham.com/admin
+/admin/gallery/DOLERA%20PATOTSAV-201800026.jpg 1 -
+/wp-content/plugins/sexy-contact-form/includes/fileupload/files/RxR__pcutg.php 1 -
+/%0d%20SomeCustomInjectedHeader:injected_by_wvs.html 1 dholeradham.com/admin
+//wso26.php 1 -
+/%3f'%3f%22-2018.html 1 dholeradham.com/admin
+/ZiuUXd5k-2018.html 1 dholeradham.com/admin
+/templates/system/index.php 1 -
+/admin/gcategory/Dholeradham.com 1 http://dholeradham.com/admin/gcategory/
+/%22%26dir%26%22.html 1 -
+/components/com_fabrik/fabrik.php 1 -
+/admin/fonts/Georgia.eot 1 http://dholeradham.com/admin/css/style.css
+/images/images/banner-6.jpg 1 http://dholeradham.com/images/
+/admin/fonts/Georgia.woff2 1 http://dholeradham.com/admin/css/style.css
+/images/pdffile/Dholeradham.com 1 http://dholeradham.com/images/pdffile/
+//cache/defau1t.php 1 -
+/templates/rhuk_milkyway/index.php 1 -
+/components/root.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800057.jpg 1 -
+/pfNgSktD7x.aspx 1 -
+/Patotsav-(select(0)from(select(sleep(6)))v)/*'%2b(select(0)from(select(sleep(6)))v)%2b'%22%2b(select(0)from(select(sleep(6)))v)%2b%22*/.html 1 dholeradham.com/admin
+/images/images/facebook.png 2 http://dholeradham.com/images/
+/admin/fonts/Georgia-Bold.ttf 1 http://dholeradham.com/admin/css/style.css
+/modules/mod_simplefileuploadv1.3/elements/root.php 1 -
+/%40%409GHDf-2018.html 1 dholeradham.com/admin
+/images/block/up.php 5 -
+/wstat/ 1 -
+/wp2/ 2 -
+/home/ 4 -
+/modules/homepageadvertise/uploadimage.php 1 -
+/contact.php 1 https://www.google.com/
+//b374k.php 1 -
+/modules/homepageadvertise/slides/root.php 1 -
+/admin/gallery/374A7246.jpg 1 -
+//whmcskiller.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800007.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800004.jpg 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800103.jpg 1 -
+/wallet/ 1 -
+/images/PHOTOS/Dholeradham.com 1 http://dholeradham.com/images/PHOTOS/
+/admin/photo/wso.php 2 -
+/wordpress/wp-includes/wlwmanifest.xml 51 -
+/admin/gallery/PATOTSAV-201800007.jpg 1 -
+/%24%7b99936%2b99233%7d.html 1 -
+/images/js 1 -
+/wp-content/themes/dandelion/functions/upload-handler.php 1 -
+/bitcoin/wallet.dat 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800027.jpg 1 -
+/wp-content/_input_3_izo.php5 1 -
+/../../../../../../../../../../boot.ini.html 1 dholeradham.com/admin
+/db/main.php 1 -
+/tmp/plupload/root.phP 1 -
+/modules/vtermslideshow/slides/root.php 1 -
+/%7cdir-2018.html 1 -
+/beheer/ 1 -
+/vendor_extra/elfinder/php/connector.minimal.php 2 -
+/wp-content/files_mf/RxR__pcutg.php 1 -
+//up.php 1 -
+/admin/gallery/PATOTSAV-201800009.jpg 1 -
+/%e3h.html 1 dholeradham.com/admin
+/Patotsav-%e3h.html 1 dholeradham.com/admin
+/%21(()%26%26%21%7c*%7c*%7c.html 1 dholeradham.com/admin
+/wp-content/themes/konzept/includes/uploadify/izo.php 1 -
+//panel/ 1 -
+/libraries/joomla/jmails.php 1 -
+//administrator/ 2 -
+/infusions/mp3player_panel/upload.php 2 -
+//phpMyAdmin 1 -
+/modules/realty/evogallery2/uploadimage.php 1 -
+/admin/gallery/DOLERA%20PATOTSAV-201800060.jpg 1 -
+/admin/css/ 1 dholeradham.com/admin
+/news/ 2 -
+/slides/IMG_6715.jpg 3 -
+/slides/IMG_6710.jpg 3 -
+/admin/fonts/Georgia.ttf 1 http://dholeradham.com/admin/css/style.css
+/wp-content/themes/u-design/scripts/admin/uploadify/uploadify.php 1 -
+//r00t.php 1 -
+//bookmark.php 2 -
+/(select(0)from(select(sleep(3)))v)/*'%2b(select(0)from(select(sleep(3)))v)%2b'%22%2b(select(0)from(select(sleep(3)))v)%2b%22*/-2018.html 1 dholeradham.com/admin
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 387
+54.187.99.137 1125 1310 89828546 20191010235405
+23.129.64.214 57 57 2104033 20191013165346
+24.179.116.164 45 45 120645 20191013153633
+174.92.94.39 39 429 25091508 20191013134818
+195.206.105.217 36 51 1688946 20191013165658
+178.17.174.10 34 93 4975340 20191012085331
+117.247.91.67 26 235 9310954 20191012055039
+108.251.96.172 26 110 1003745 20191013155234
+116.50.85.160 22 116 8802732 20191013143610
+86.160.43.9 21 202 11589725 20191011125546
+103.21.59.15 18 18 1428 20191004084127
+92.62.139.103 16 157 1532624 20191012090031
+51.89.224.145 15 15 87120 20191013055027
+81.17.27.132 12 61 2532583 20191013152025
+185.220.101.32 12 12 1163966 20191012090800
+103.59.59.226 11 110 6665511 20191011122907
+123.201.226.87 11 108 4332381 20191013020458
+103.60.211.75 11 143 17085916 20191013090249
+42.106.44.91 11 163 79111533 20191002082316
+116.74.124.91 10 73 5787268 20191005061302
+40.87.125.220 10 10 81800 20191010001319
+142.4.218.236 10 10 120429 20191011021747
+43.241.144.4 10 59 2175891 20191004104741
+23.129.64.192 9 9 259992 20191020151430
+64.233.173.27 9 145 29081972 20191031092352
+157.32.162.231 0 1 587999 
+42.106.15.70 3 33 1901092 20191003133050
+51.38.198.214 4 4 32720 20191011042147
+103.112.226.169 8 116 9192734 20191013132505
+52.32.240.62 6 97 4293132 20191011065759
+42.106.29.242 4 30 2621383 20191008062053
+51.255.109.174 2 2 17660 20191010105413
+150.129.59.4 3 21 572077 20191012164303
+171.25.193.25 1 1 310075 20191013142727
+157.32.223.201 4 34 1903773 20191011000242
+43.241.193.160 0 1 166164 
+114.124.142.179 1 21 1557984 20191009111655
+197.8.192.249 2 2 16360 20191010211421
+66.102.6.16 0 7 24776 
+123.201.228.14 1 19 1944031 20191023115648
+42.106.15.180 0 1 166164 
+42.106.21.12 5 59 4840390 20191007092138
+173.252.83.20 0 1 166164 
+114.124.143.178 0 9 475942 
+212.83.173.129 2 2 16360 20191009092959
+157.32.156.52 7 56 2169786 20191013002916
+69.171.251.55 0 1 166164 
+120.188.84.232 1 1 310080 20191012161241
+163.53.208.130 0 1 587999 
+45.117.1.14 3 35 4698073 20191013110254
+51.255.109.175 1 1 5564 20191010184016
+54.36.17.98 2 2 16360 20191008060232
+123.245.26.28 1 1 2681 20191003042915
+45.250.68.3 0 3 970519 
+194.5.0.86 1 1 2681 20191010080846
+66.220.149.23 0 1 166164 
+42.106.28.121 0 1 166164 
+157.32.202.243 7 51 3602037 20191012102810
+42.108.205.52 0 1 30148 
+42.108.205.241 6 26 1045658 20191005104059
+98.116.205.231 0 1 162436 
+27.61.161.117 0 1 787702 
+47.227.171.165 3 33 1901092 20191011120113
+157.32.5.196 1 7 5273913 20191004185232
+66.220.149.4 0 1 166164 
+184.57.2.52 6 55 2167751 20191005223830
+173.226.103.213 0 1 166164 
+84.107.172.112 4 4 32720 20191005032419
+66.249.82.210 0 1 162436 
+199.127.56.236 3 33 1901092 20191001173458
+94.3.144.66 0 1 117947 
+103.226.185.218 6 66 3802184 20191010062328
+112.70.187.99 2 2 16360 20191001043323
+195.181.164.168 4 4 10724 20191008070802
+64.233.172.241 2 3 306851 20191011043607
+103.17.82.198 5 50 3007490 20191013041754
+207.35.102.122 0 2 916360 
+52.224.64.24 4 4 32720 20191009223902
+49.34.148.183 3 33 1901092 20191013051356
+62.4.14.198 3 3 24540 20191009054133
+123.201.225.224 5 54 2165716 20191013133226
+66.220.149.64 0 1 166164 
+113.180.87.208 2 2 4069 20191008040427
+103.86.19.40 8 88 4854511 20191008175640
+49.34.115.10 7 56 2169782 20191011084428
+113.193.47.200 0 1 162436 
+192.42.116.16 2 2 320901 20191020151129
+138.197.202.197 1 1 65896 20191010173839
+64.233.172.168 0 14 1017717 
+51.68.223.52 2 2 4069 20191012103530
+69.171.251.8 0 1 166164 
+42.106.5.69 1 1 2681 20191007115239
+45.116.121.99 0 1 587999 
+143.137.167.199 1 1 2681 20191012181553
+64.233.173.15 7 83 4069726 20191013164503
+173.252.83.14 0 1 166164 
+43.241.145.12 4 52 2162594 20191005055751
+114.4.4.132 1 1 310077 20191012090609
+49.34.95.182 5 53 2164629 20191010150124
+103.206.138.240 6 50 1797351 20191011054252
+66.220.149.11 0 1 166164 
+98.221.207.78 0 2 953866 
+18.236.41.28 1 19 261501 20191010074507
+51.255.109.173 1 1 8180 20191010061544
+51.255.109.170 2 2 15044 20191010105413
+173.252.83.9 0 1 166164 
+23.100.232.233 4 48 910652 20191004091721
+66.220.149.3 0 1 166164 
+185.220.101.20 6 6 1099999 20191013164258
+42.106.30.189 5 53 2165276 20191004040157
+54.187.237.158 1 1 2681 20191006064608
+162.247.74.217 5 5 337971 20191015151405
+65.190.51.85 7 86 4064772 20191007135836
+18.197.227.110 3 3 261 20191004084126
+157.32.175.143 1 26 1526625 20191010051806
+64.62.252.162 1 1 2681 20191004103412
+173.252.83.16 0 1 166164 
+104.244.76.13 1 1 310074 20191013142736
+66.220.149.27 0 1 166164 
+173.252.83.7 0 1 166164 
+185.161.248.10 0 3 196092 
+42.106.254.127 7 222 4445010 20191013142807
+157.37.215.69 0 1 1857042 
+163.172.251.150 2 2 16360 20191005021355
+157.32.235.131 3 33 1901092 20191013142853
+157.37.251.24 6 56 4025437 20191011042916
+43.250.157.203 0 1 787702 
+49.34.138.219 2 2 4070 20191013024240
+73.160.226.52 6 55 2168398 20191008113212
+31.13.115.21 0 1 166164 
+157.32.81.20 2 27 1383978 20191004185233
+42.106.43.3 1 18 927653 20191008055923
+149.28.64.147 2 2 16360 20191006201918
+170.200.144.20 4 56 5748363 20191001123934
+41.79.71.23 3 34 3758134 20191006125550
+197.186.192.21 4 52 2162594 20191011074828
+103.85.8.149 0 1 162436 
+35.226.215.151 2 2 16360 20191007080951
+27.54.162.154 0 1 162436 
+49.34.39.88 6 54 2166665 20191013045740
+116.73.29.231 1 26 1526625 20191012140830
+109.146.137.50 4 53 2163681 20191008102342
+5.188.210.44 1 1 8180 20191008075000
+116.74.102.45 0 1 162436 
+64.62.252.163 3 3 7892 20191011182152
+69.171.251.52 0 1 166164 
+62.210.36.170 1 1 8180 20191004011450
+217.69.143.217 1 1 2681 20191005072025
+49.34.85.53 0 2 1175998 
+178.165.131.58 0 7 4441624 
+103.87.78.122 1 1 2681 20191010010336
+51.68.88.232 2 2 16360 20191011135518
+151.253.161.116 0 2 953866 
+103.135.70.230 0 1 16653 
+157.32.1.245 0 2 7378728 
+43.250.165.178 3 33 1901092 20191006110415
+123.201.225.221 4 53 2163681 20191013085027
+159.203.196.79 1 1 2681 20191010173837
+43.241.194.81 0 1 162436 
+203.133.168.171 1 1 4150 20191031083320
+51.255.109.162 3 3 21429 20191010184016
+58.22.64.50 2 2 10861 20191002195308
+106.11.222.148 1 1 2681 20191010233912
+68.183.45.178 1 1 2681 20191002235416
+195.154.61.206 2 2 16360 20191009052527
+42.106.28.122 9 71 3272345 20191008060106
+173.252.87.40 0 1 166164 
+187.40.64.79 8 8 35408 20191007060225
+42.106.18.227 5 35 2056712 20191013103244
+49.36.1.192 4 52 2162594 20191002104544
+157.32.150.31 3 33 1901092 20191013152249
+73.119.137.183 0 1 787702 
+114.74.110.231 3 34 3758134 20191005120014
+180.151.195.99 0 1 16653 
+51.159.30.33 1 1 8180 20191005213259
+64.233.173.13 8 75 4700656 20191012164024
+108.26.164.178 4 52 2162595 20191009123150
+64.233.172.243 0 3 902979 
+69.171.251.18 0 1 166164 
+51.15.183.122 2 2 16360 20191005212342
+52.144.111.165 0 1 270703 
+49.36.3.126 6 54 2166665 20191013033044
+150.129.106.98 0 1 162436 
+73.75.179.244 0 1 131808 
+173.252.87.25 0 1 166164 
+173.252.87.27 0 1 166164 
+193.25.101.187 3 11 296199 20191006115120
+177.23.168.133 3 33 1901092 20191012090659
+67.65.225.90 6 68 6446928 20191005204610
+159.203.42.143 2 2 63381 20191010173838
+91.121.83.160 1 1 2681 20191001000751
+2.50.8.190 4 53 2289637 20191013051921
+157.32.221.222 5 35 1906454 20191012013759
+91.235.143.139 0 1 162436 
+103.36.49.89 0 1 162436 
+157.41.223.14 0 1 166164 
+86.128.127.248 3 33 1901092 20191009105446
+66.220.149.60 0 1 166164 
+5.188.84.76 0 1 6616057 
+31.13.115.7 0 1 166164 
+219.91.190.133 4 52 2162595 20191013023315
+88.253.198.230 0 1 91691 
+73.123.147.119 3 34 2841031 20191013111850
+64.78.149.164 3 3 261 20191004084126
+75.99.120.130 0 1 787702 
+197.1.40.179 4 4 20429 20191006203529
+49.206.214.119 2 2 16360 20191012114235
+100.35.66.76 1 17 990165 20191027012207
+49.34.17.74 5 43 2138345 20191012063803
+40.118.251.74 1 1 3822 20191010183524
+103.244.123.198 9 59 2961559 20191004023654
+75.137.7.168 0 1 580510 
+157.32.240.193 5 52 2554577 20191012030614
+64.233.172.166 2 22 1251539 20191013141252
+82.117.194.66 0 7 92925 
+157.32.57.16 0 11 41049 
+69.171.251.36 0 1 166164 
+202.129.240.75 4 60 18430212 20191007064251
+91.242.162.18 0 1 831638 
+123.201.225.218 1 1 2681 20191013083049
+114.4.220.147 3 3 621053 20191020045911
+117.204.227.158 0 1 162436 
+31.13.115.11 0 1 166164 
+60.254.52.73 0 2 179439 
+157.32.143.74 0 1 587999 
+106.222.37.7 3 20 994653 20191030125123
+77.247.181.162 6 6 970548 20191013143249
+47.90.213.183 2 2 5362 20191004151328
+103.38.205.178 0 1 162436 
+89.201.69.202 1 1 4150 20191006173914
+103.81.209.197 0 2 179439 
+114.4.214.41 3 19 206032 20191012115912
+103.96.15.205 8 81 33912511 20191011085933
+106.11.222.210 1 1 2681 20191010233912
+173.252.83.12 0 1 166164 
+34.210.55.60 4 4 8138 20191011063822
+52.27.211.29 2 2 4069 20191011063823
+54.70.42.44 1 1 2681 20191009073032
+51.255.109.167 1 1 8180 20191010184016
+103.250.162.58 0 1 162436 
+160.157.12.201 6 6 49080 20191004130223
+66.160.140.188 8 8 18594 20191004161301
+157.32.71.155 0 1 3689364 
+45.127.45.142 0 1 13275 
+122.170.150.147 0 1 13275 
+49.34.54.122 4 63 5686209 20191005142840
+198.7.58.83 2 30 1929463 20191012075034
+5.62.43.230 1 1 8180 20191006182939
+49.34.70.72 6 104 14486785 20191010074524
+34.212.180.156 1 1 2681 20191003225234
+3.14.255.131 3 3 261 20191004084126
+106.11.222.179 0 3 110906 
+52.34.76.65 1 16 202154 20191010203117
+54.191.166.196 1 1 2681 20191004072715
+157.32.134.200 0 2 750435 
+24.128.131.163 8 105 4326276 20191012190022
+103.123.224.2 3 34 6657891 20191003091224
+54.71.187.124 4 53 2179248 20191011063934
+174.92.84.6 0 1 162436 
+109.102.111.63 1 1 2681 20191007095649
+117.203.99.178 0 1 162436 
+185.195.237.118 1 1 310076 20191013144530
+51.77.246.200 3 21 1172196 20191011053421
+66.220.149.24 0 1 166164 
+176.9.210.82 1 4 132246 20191005142304
+66.220.149.32 0 1 166164 
+82.102.21.187 2 2 4069 20191011092118
+42.106.42.42 0 6 1709297 
+113.193.209.210 0 1 13275 
+3.16.81.17 4 12 176666 20191002041429
+49.32.235.190 0 2 2023206 
+42.108.221.172 1 5 134464 20191012134110
+103.59.56.13 0 1 162436 
+212.83.146.233 1 1 8180 20191005131533
+81.103.248.124 5 53 2949373 20191001104613
+66.102.8.116 2 2 619797 20191020045417
+54.184.206.102 1 1 2681 20191010080014
+182.64.179.106 0 1 162436 
+157.32.123.26 1 5 161414 20191031131125
+103.238.105.236 0 1 587999 
+31.13.115.24 0 1 166164 
+51.255.109.166 1 1 8180 20191011223315
+64.233.172.239 0 1 300993 
+182.70.68.12 0 1 162436 
+163.172.70.215 1 1 8180 20191004002716
+42.108.203.123 0 3 4991 
+34.222.229.130 3 3 261 20191004084126
+42.108.197.221 0 1 162436 
+42.106.6.219 3 23 1320253 20191005033711
+213.182.202.208 1 1 2681 20191003060101
+106.77.154.0 3 33 1901092 20191013111609
+111.92.162.133 1 1 310079 20191012090630
+31.13.115.18 0 1 166164 
+155.254.6.156 4 50 1839308 20191006164011
+141.72.235.217 9 89 5926197 20191003125000
+47.9.85.225 0 1 365086 
+69.171.251.11 0 1 166164 
+151.226.65.4 0 1 117947 
+27.61.225.127 0 1 162436 
+49.34.178.100 3 33 1901092 20191002065555
+141.0.9.202 3 21 572076 20191012173801
+123.201.226.166 1 1 2681 20191011065140
+34.219.178.165 1 1 2681 20191003141341
+27.54.180.124 2 21 264622 20191002141937
+157.47.219.26 2 38 1142410 20191001080557
+157.32.175.119 0 1 587999 
+89.238.142.237 1 16 202463 20191011070643
+69.171.251.17 0 1 166164 
+223.188.112.116 0 1 162436 
+219.91.238.69 4 53 2163679 20191010094909
+157.32.136.231 2 30 1941647 20191004050950
+103.251.59.220 6 36 2059393 20191001145017
+54.70.53.60 0 1 16653 
+50.62.176.241 1 1 8180 20191008141121
+66.220.149.41 0 1 166164 
+176.8.90.196 2 2 16360 20191011024208
+103.251.215.105 8 95 9140198 20191010081448
+123.201.108.21 4 49 2103555 20191011090136
+123.201.226.106 4 53 2163679 20191012043549
+64.233.173.14 9 78 4926567 20191013164502
+42.108.204.243 0 1 13275 
+27.61.147.234 0 1 166164 
+103.106.23.20 9 102 7679886 20191005121633
+103.89.235.178 0 1 587999 
+66.160.140.183 1 1 2681 20191005023855
+66.220.149.26 0 1 166164 
+34.215.44.245 1 1 2681 20191005070253
+122.242.34.19 0 1 16653 
+73.102.155.202 8 90 3344741 20191003043101
+104.219.54.111 1 1 2681 20191009163548
+43.250.159.186 0 1 587999 
+64.233.173.26 9 130 37567840 20191031092340
+18.236.248.19 1 1 2681 20191007102848
+103.90.45.154 5 70 2367230 20191009061934
+157.32.149.55 7 68 3815106 20191009050422
+111.125.240.241 0 1 162436 
+203.192.237.155 0 1 587999 
+82.18.233.121 3 34 6657891 20191012190224
+163.172.155.149 1 1 8180 20191002160022
+64.233.173.28 4 126 37345317 20191031092239
+69.171.251.23 0 1 166164 
+49.34.71.38 5 55 4022754 20191010092220
+69.171.251.6 0 1 166164 
+27.7.245.251 6 66 3802184 20191010174107
+51.255.109.168 1 1 6385 20191010184016
+107.170.186.79 6 36 2306247 20191016100941
+114.31.176.71 0 2 324872 
+54.146.43.69 1 1 17175 20191020172657
+66.220.149.35 0 1 166164 
+187.127.97.41 3 3 13278 20191011031742
+114.239.42.27 0 1 787702 
+51.255.109.161 1 1 6385 20191010061544
+207.180.242.126 5 5 10819 20191013042631
+45.120.122.222 7 89 6871951 20191010030558
+199.249.230.82 1 1 309716 20191020151049
+34.220.142.27 1 1 2681 20191002191201
+41.250.235.201 2 2 16360 20191001205543
+165.225.106.136 0 3 970519 
+50.243.95.26 5 56 4810458 20191002124947
+34.212.23.123 1 1 2681 20191008075357
+42.106.42.129 3 11 1306160 20191008061932
+98.223.208.119 7 48 3069086 20191001233608
+106.11.223.55 0 3 56016 
+49.36.8.194 0 1 166164 
+49.34.122.20 0 1 112177 
+139.255.123.90 2 2 16360 20191006225517
+69.171.251.54 0 1 166164 
+54.245.62.201 1 1 2681 20191002003950
+103.250.162.172 3 33 1901092 20191001100808
+103.88.223.182 3 33 1901092 20191003064637
+106.222.75.30 5 53 2194301 20191007121111
+197.2.53.95 6 6 14793 20191008184401
+122.169.15.129 3 33 1901092 20191013132248
+64.233.172.170 1 22 1057265 20191010124317
+66.102.6.20 0 8 446831 
+219.91.236.72 4 53 2163681 20191009041148
+83.217.206.221 0 2 2796981 
+5.181.235.36 1 16 202463 20191011071946
+103.116.140.125 0 1 587999 
+46.182.106.190 4 4 330747 20191017152445
+173.252.79.21 0 2 332328 
+42.108.220.145 5 24 1118478 20191005104136
+31.13.115.12 0 1 166164 
+193.233.149.200 1 1 2681 20191007141733
+66.102.6.18 1 2 31849 20191031134504
+43.242.123.20 0 1 162436 
+106.77.77.212 3 21 265573 20191013092415
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191001 59 394 23748562 23
+20191002 64 590 104436055 27
+20191003 44 427 29344478 15
+20191004 94 496 25460652 26
+20191005 88 679 44411748 29
+20191006 38 240 13326434 18
+20191007 59 602 127877187 28
+20191008 58 349 20449942 22
+20191009 52 481 30136100 20
+20191010 1221 2066 143544203 48
+20191011 111 766 82210136 39
+20191012 140 857 47340536 35
+20191013 274 1740 113319510 44
+20191014 0 8 1548288 0
+20191015 5 7 3134952 1
+20191016 6 40 2959719 1
+20191017 4 6 663075 1
+20191018 0 2 324872 0
+20191019 0 3 916599 0
+20191020 17 26 3496201 6
+20191021 0 5 1886879 0
+20191022 0 4 2827561 0
+20191023 1 32 3943468 1
+20191024 0 10 2882460 0
+20191025 1 19 2238944 1
+20191026 1 23 3067427 1
+20191027 1 20 2092135 1
+20191028 0 2 179439 0
+20191029 1 19 1165876 1
+20191030 10 82 7973272 6
+20191031 7 72 1619261 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 15
+30mn-1h 7
+30s-2mn 36
+2mn-5mn 17
+15mn-30mn 5
+1h+ 3
+0s-30s 317
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/ 830 2709142 277 155
+/admin/daily.php 407 845466 22 80
+/admin/photo/b374.php 156 12954392 20 22
+/fonts/Georgia.woff2 130 8566480 10 27
+/fonts/Georgia-Bold.woff2 130 7891000 9 27
+/admin/cgallery.php 115 288571 8 12
+/admin/fonts/fontawesome-webfont.woff2 83 6404280 0 0
+/admin/fonts/fontawesome-webfont.eot 83 13756586 0 0
+/admin/fonts/fontawesome-webfont.woff 83 8135992 0 0
+/admin/fonts/fontawesome-webfont.ttf 83 13740484 0 0
+/admin/photo/wso.php 42 2160654 1 1
+/contact.php 42 76340 23 28
+/admin/Gallery.php 25 104637 9 7
+/fonts/Georgia-Bold.woff 24 1794240 0 6
+/fonts/Georgia.woff 24 1940640 0 14
+/admin/login.php 17 23660 7 2
+/Patotsav-2018.html 9 10872 0 0
+//admin/login.php 7 12166 5 5
+/images/ 5 23401 3 3
+/Bhagavat_Katha.html 5 5475 0 0
+/.well-known/acme-challenge/iOCDpujeXQJbzr8FhQ-K2k4MWExO8K0wBvZMciGsG14 4 348 0 1
+/.well-known/acme-challenge/k8cARxQIW8xOMKPYQBGYluQhlzAeCntPgCxIX7uoXD4 4 348 0 4
+/.well-known/acme-challenge/8EZay6Mc0kZnwhgGXSbDdWoc1AmWjoHRSDsq2CGdfDs 4 348 0 0
+/.well-known/acme-challenge/14H7rLZ2P4xd731iRY4-807rkawTRf9kY-RayYZ2J_4 4 348 0 0
+/.well-known/acme-challenge/CfGVMc6yEmYc0NtWFdh8hfTdbl9O6WMcbTF2EjSidnc 4 348 0 0
+/admin/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/index.php 3 8043 0 1
+/admin/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/Gallery.php 3 7113 0 1
+/fonts/glyphicons-halflings-regular.ttf 1 45404 0 0
+/fonts/Georgia.ttf 2 261808 0 1
+/fonts/Georgia.eot 2 262140 0 0
+/.well-known/acme-challenge/FDF61WT6EJH9LTDP_41NI5QCUFND41D3 1 64 0 0
+/fonts/Georgia-Bold.eot 2 242964 0 0
+/.well-known/acme-challenge/P2STZQACPA2P6JS3_T3VVXV7YGOG9CL8 1 64 0 0
+/cpanel 1 13572 0 1
+/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/.well-known/acme-challenge/ZFBJBE72L0UD_BTCAZ31PULCNF_N-O86 1 64 0 0
+/admin/fonts/glyphicons-halflings-regular.ttf 1 45404 0 0
+/.well-known/acme-challenge/AOR7I42-GA1NUM_P8E9IAWYEQ-CNU0M6 1 64 0 0
+/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/.well-known/acme-challenge/AFRZO-98H-RF7RBOJ3-JENHJI9A4J09Z 1 64 1 0
+/admin/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/admin/js/ 1 112 0 0
+/dailydarshan.html 2 19257 1 2
+/fonts/Georgia-Bold.ttf 2 242624 0 0
+/.well-known/acme-challenge/YK0Hi7LuBTn1yksZdlDXqTuZrdwLDlhAWVGqEE8CiWY 4 348 4 0
+/.well-known/acme-challenge/Y6SG3XC1QGFLBMUKRKKMB017PPIICP0A 1 64 0 0
+END_SIDER

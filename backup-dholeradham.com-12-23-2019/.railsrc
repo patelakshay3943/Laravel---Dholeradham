@@ -1,0 +1,6 @@
+# Set by Administrator
+# Ruby on Rails support depends on this script
+# Do NOT modify unless you know what you're doing
+export GEM_HOME=/home/dholeradham/ruby/gems
+export GEM_PATH=$GEM_HOME:/opt/ruby/lib/ruby/gems/1.9.1
+export PATH=$GEM_HOME/bin:/opt/ruby/bin:$PATH
